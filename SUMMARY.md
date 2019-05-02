@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Students at Open summer of code](README.md)
+* [Open Summer of Code](README.md)
+
+## Students
+
+* [Being a student at osoc](students/being-a-student-at-osoc.md)
 
