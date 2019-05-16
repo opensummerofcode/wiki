@@ -7,7 +7,10 @@ As coach at osoc, you will make a real difference in a sector you care about. By
 **🤔 Learning  
 👐 Sharing knowledge  
 👏 Creating something useful  
-⚡ Energy**
+⚡ Energy**  
+🥳 **Networking**  
+🙌 **Giving back**  
+🤟**Fun**
 
 > Having to guide others helps me make sense of how I do things myself.
 >

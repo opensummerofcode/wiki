@@ -7,16 +7,16 @@
 * [Being a student at Osoc](students/being-a-student-at-osoc.md)
 * [Apply](students/applying-for-osoc.md)
 * [Attend](students/attendance.md)
-* [The Job](students/projects.md)
+* [The Student Job](students/projects.md)
 * [Reimbursements](students/reimbursements.md)
 * [Study material](students/interesting-study-material.md)
 
 ## Coaches
 
 * [Being a coach at osoc](coaches/untitled.md)
-* [The Job](coaches/the-job.md)
-* [Student coaches](coaches/student-coaches.md)
+* [The Coaching Job](coaches/the-job.md)
 * [Assistant coaches](coaches/assistant-coaches.md)
+* [Student coaches](coaches/student-coaches.md)
 * [Apply](coaches/apply.md)
 * [Attend](coaches/attend.md)
 * [Projects](coaches/projects.md)
@@ -33,4 +33,5 @@
 
 * [Taking over the world](organisers/taking-over-the-world.md)
 * [Reimbursements](organisers/untitled.md)
+* [Managing teams](organisers/managing-teams.md)
 

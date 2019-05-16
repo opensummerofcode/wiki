@@ -13,15 +13,33 @@ You can find the location and calendar on your the website for your country's ed
 * Belgium: [https://2019.summerofcode.be/practical.html](https://2019.summerofcode.be/practical.html)
 * Spain: [http://2019.summerofcode.es/practical.html](http://2019.summerofcode.es/practical.html)
 
+## Half-time or full-time?
+
+The baseline is; a team of students should never be "alone". There should always be a coach _available_ that is up-to-date, and knows the partner they're working for. 
+
+A coach can choose to coach half- or full-time. A half-time coach should be paired with an other half-time coach — so the **teams will never be** _**coachless**_. Half-time coaches should make sure one of both is always _available_ to the team\(s\), and do their coaching tasks.
+
+### Availability 
+
+Availability means being there for key moments, when the team needs you. Depending on the size of the team and how hard the project is, a coach can handle one or two teams.
+
+#### Big or hard projects
+
+* **Scope** Think a big or complicated web-application — or a medium project with a lot of students with different skills \(for example hardware mixed with software or for instance exhaustive research / creativity required\).
+* **Size** Usually has a lot of students \(more than 8 team members\)
+* **Coach** Needs a full-time coach, or two half-time coaches. This requires a lot of availability. A mini project on the side is possible but not required \(for instance an easy website or a very experienced team with a student-coach\).
+
+#### Easy projects
+
+* **Scope** Think a website, maybe with an integration with a fixed design. A project that is well-defined or easy to scope along the way.
+* **Size** Minimum three students
+* **Coach** There is always a coach _available_ to manage the smaller team and the client, but probably won't be occupied the entire time. It is possible that a coach \(or two half-time coaches\) is managing two small projects at the same time. The coach however, should be _available_ for both teams to coach them whenever they need it — see "[The job](the-job.md)".
+
 ## Can we work remote?
 
 Our current culture is non-remote. As Osoc is only 4 weeks long, and everything moves really fast — we need a coach around as much as possible.  
   
 If you have any suggestions for a remote Osoc, let us know ;-\)
-
-## Client meetings
-
-It's very important a coach is present at the client meetings. Most of our students have no experience with attending or guiding a client meeting, so your presence is crucial — before \(preparation\), during \(guidance\) and after the meeting \(feedback\).
 
 ## What do I do when I'm ill?
 

@@ -13,6 +13,10 @@ You can find the location and calendar on your the website for your country's ed
 
 We hire students that are eligible to work under a student contract for 16 full days \(128 hours\).
 
+## Food
+
+Bring your own sandwiches or get a snack on the road to fill your tummies with; there will be shops in the neighbourhood!
+
 ## What do I do when I'm ill?
 
 It happens to the best of us. First of all, inform your coach\(es\). The coach will make sure the word is out. Once you've recovered, please bring a sick note to your coach.

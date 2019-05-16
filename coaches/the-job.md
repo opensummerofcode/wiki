@@ -1,4 +1,14 @@
-# The Job
+---
+description: What is expected of a coach.
+---
+
+# The Coaching Job
+
+> It’s rewarding to see I could actually help the students, and see them grow by my guidance.  
+>   
+> I loved exploring new tech, together with the students, and learning more about it. Getting to know all these talented students motivated me as well. It’s a wonderful network to be in. It was a wonderful experience to see I could actually help the students in a good way, and to see how much they learn in such a short amount of time.  
+>   
+> — Rutger Bevers
 
 ## What will I be doing?
 
@@ -6,33 +16,28 @@ As coach you will be guiding a team of students through the project development 
 
 ## What skills should I bring to the table?
 
-An open attitude is vital. You will be working in a diverse team of motivated students with different skills and expertise. Hence, your role is to facilitate interaction within your team and between your team and partners. You'll be providing structure and guidance for the students to help them flourish and do a good job. Experience in coaching and team-coordination are not required but considered an asset. Furthermore, familiarity in the Belgian tech scene is valuable. However, what counts most is a positive mindset and the motivation to have an awesome summer!
+An open attitude is vital. You will be working in a diverse team of motivated students with different skills and expertise. Hence, your role is to facilitate interaction within your team and between your team and partners. You'll be providing structure and guidance for the students to help them flourish and do a good job. Experience in coaching and team-coordination are not required but considered an asset. What counts most is a positive mindset and the motivation to have an awesome summer!
 
 ## Your main tasks
 
-* Assemble your team
-* Expectation management of your client
-* Creating a process and structure for your team
-* Arbiter of quality
-* Client meetings & contact
-* Knowing your fellow \(student & assistant\) coaches
+* [Assemble your team](the-job.md#assemble-your-team)
+* [Expectation management of your client](the-job.md#expectation-management-of-your-client)
+* [Creating a process and structure for your team](the-job.md#creating-a-process-and-structure-for-your-team)
+* [Arbiter of quality](the-job.md#arbiter-of-quality)
+* [Client meetings & contact](the-job.md#client-meetings-and-contact)
+* [Knowing your fellow \(student & assistant\) coaches](the-job.md#knowing-your-fellow-student-and-assistant-coaches)
+* [Helping out other teams](the-job.md#helping-out-other-teams)
 
 ### Assemble your team
 
 _Make sure that your team is balanced. Match the right people with the right skills for the project, and make sure their characters will work._
 
-Before Open Summer of Code starts, we start screening the students beforehand. We will invite some coaches to do the screening. After that, we start building teams. We all aim for a healthy mix; on skill-level and on character type. It's important that teams are balanced:
+Before Open Summer of Code starts, we start[ screening the students](screening-students.md) beforehand. We will invite some coaches to do the screening. After that, we start building teams. We all aim for a healthy mix; on skill-level and on character type. It's important that teams are balanced:
 
 * You can't have all unicorns in one team, nor can you have all inexperienced students in an other.
 * It's also good to have some introverts and some extraverts in one team; leaders and followers. These types of teams motivate and complete each other in social skills.
 
-This balance is hard to figure out beforehand. It happens a team isn't working together as well as you thought it would. This could be an issue of skill, experience or character. If this is the case, contact the organisation and find out if there's other teams you can switch members with. This can be hard, but keep in mind it's about the whole of Osoc, not just about your team. It could happen one of your rockstars might be switched out with someone less experienced; but is a better fit for Osoc.
-
-> It’s rewarding to see I could actually help the students, and see them grow by my guidance.  
->   
-> I loved exploring new tech, together with the students, and learning more about it. Getting to know all these talented students motivated me as well. It’s a wonderful network to be in. It was a wonderful experience to see I could actually help the students in a good way, and to see how much they learn in such a short amount of time.  
->   
-> — Rutger Bevers
+This balance is hard to figure out beforehand — even if you gave those students a call and had an interview with them. It happens a team isn't working together as well as you thought it would. This could be an issue of skill, experience or character. If this is the case, reach out to the organisation/your fellow coaches and find out if there's other teams you can switch members with. This can be hard, but keep in mind it's about the whole of Osoc, not just about your team. It could happen one of your rockstars might be switched out with someone less experienced; but is a better fit for Osoc.
 
 ### Expectation management of your client
 
@@ -58,17 +63,27 @@ You are the arbiter of quality. You decide what is shipped, what is not, and wha
 
 ### Client meetings & contact
 
-Help your students to conduct client meetings \(at least once a week\). Depending on the level of experience, you can choose how to do it \(a very experienced team can probably do this on their own\). The meetings should be well-prepared \(agenda, demo, questions prepared\), well-executed \(concise, polite, clear\) and written down during the meeting \(meeting-minutes\). A feedback session is very helpful for the students to learn about what they can do better in the future.
+#### Client meetings
+
+A client meeting happens at least once a week. Most of our students have no experience with attending or guiding a client meeting, so your presence is crucial — before \(preparation\), during \(guidance\) and after the meeting \(feedback\). A very experienced team can probably do this on their own at some point, but you should always be up-to-date.
+
+The meetings should be well-prepared \(agenda, demo, questions prepared\), well-executed \(concise, polite, clear\) and written down during the meeting \(meeting-minutes\). A feedback session is helpful for the students to learn about what they can do better in the future.
+
+#### Contact
 
 Keep your client up to date, and don't leave them in the dark. A client needs to be able to trust your team, and know what the team is up to. You can communicate every week, every two days or every day, after every big release… depending on what you see fit. 
 
 You can delegate the communication, but make sure the students run it past you before they send it. Most students do not have a lot of experience communicating in a professional context.
 
-At the end of Osoc, you'll also hand in a big delivery document with your students, that contains all the work. We'll share a link during Osoc.
+At the end of Osoc, you'll also hand in a big **delivery document** with your students, that contains all the work. We'll share a link during Osoc.
 
 ### Knowing your fellow \(student & assistant\) coaches
 
 You're a coach in the first place. But you'll also have other skills. For instance, you're a designer, a dev, a marketer, a copyright expert or a yogi.
 
 Other teams might need your expertise to move forward; and you might need an other coaches' expertise as well. Osoc is all about sharing and learning from each other. So it's your job to figure out who is on board, to ask for help whenever you or your team needs it — and to help others out. Right now, we don't have a great system for this \(yet\), so grab your fellow coaches for lunch in the first week and get to know each other ;-\)
+
+### Helping out other teams
+
+You have a set of skills other coaches might not have. For instance, a team needs feedback on a poster design and only has dev coaches. Or a designer coach has no clue how to help their team with implementing a map. Use your spare time to get to know the others, and help out a little. Sharing is caring, and you'll get to know some interesting people!
 
