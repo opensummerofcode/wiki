@@ -19,6 +19,7 @@
 * [Apply](coaches/apply.md)
 * [Attend](coaches/attend.md)
 * [Projects](coaches/projects.md)
+* [Screening students](coaches/screening-students.md)
 
 ## partners
 
