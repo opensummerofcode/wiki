@@ -58,6 +58,8 @@ Keep your client up to date, and don't leave them in the dark. A client needs to
 
 You can delegate the communication, but make sure the students run it past you before they send it. Most students do not have a lot of experience communicating in a professional context.
 
+At the end of Osoc, you'll also hand in a big delivery document with your students, that contains all the work. We'll share a link during Osoc.
+
 ### Knowing your fellow \(student & assistant\) coaches
 
 You're a coach in the first place. But you'll also have other skills. For instance, you're a designer, a dev, a marketer, a copyright expert or a yogi.

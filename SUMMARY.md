@@ -9,6 +9,7 @@
 * [Attend](students/attendance.md)
 * [The Job](students/projects.md)
 * [Reimbursements](students/reimbursements.md)
+* [Study material](students/interesting-study-material.md)
 
 ## Coaches
 
