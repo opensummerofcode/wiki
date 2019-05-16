@@ -30,3 +30,7 @@ More information to be added soon.
 
 * We do not negotiate price. It's not about money.
 
+> I love bringing a project to life in collaboration with a group of people, that have different backgrounds.  
+>   
+> Eveline Vlassenroot
+

@@ -28,6 +28,12 @@ Before Open Summer of Code starts, we start screening the students beforehand. W
 
 This balance is hard to figure out beforehand. It happens a team isn't working together as well as you thought it would. This could be an issue of skill, experience or character. If this is the case, contact the organisation and find out if there's other teams you can switch members with. This can be hard, but keep in mind it's about the whole of Osoc, not just about your team. It could happen one of your rockstars might be switched out with someone less experienced; but is a better fit for Osoc.
 
+> It’s rewarding to see I could actually help the students, and see them grow by my guidance.  
+>   
+> I loved exploring new tech, together with the students, and learning more about it. Getting to know all these talented students motivated me as well. It’s a wonderful network to be in. It was a wonderful experience to see I could actually help the students in a good way, and to see how much they learn in such a short amount of time.  
+>   
+> — Rutger Bevers
+
 ### Expectation management of your client
 
 * At the start of Osoc, it's your job to manage the partner's expectations \(just like you would in your own projects\). Keep in mind these are students, and it's _possible_ the outcome won't be what they want it to be. You'll have to adjust along the way in those 4 weeks.

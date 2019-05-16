@@ -4,7 +4,7 @@
 
 ## Students
 
-* [Being a student at osoc](students/being-a-student-at-osoc.md)
+* [Being a student at Osoc](students/being-a-student-at-osoc.md)
 * [Apply](students/applying-for-osoc.md)
 * [Attend](students/attendance.md)
 * [The Job](students/projects.md)
@@ -31,5 +31,6 @@
 
 ## Organisers
 
+* [Taking over the world](organisers/taking-over-the-world.md)
 * [Reimbursements](organisers/untitled.md)
 
