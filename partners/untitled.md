@@ -1,7 +1,7 @@
 ---
 description: >-
-  Partners are a crucial part of Open summer of code. They provide the
-  real-world projects the students will be working on during those 4 weeks.
+  You are a crucial part of Open summer of code. Partners provide the real-world
+  projects the students will be working on during those 4 weeks.
 ---
 
 # Being a partner at Osoc

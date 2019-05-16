@@ -5,7 +5,7 @@ description: >-
   organisations.
 ---
 
-# Open Summer of Code
+# Open summer of code
 
 Osoc is for anyone who brings motivation, enthusiasm and talent to the table. This wiki has been brought to life to channel all of that energy, and create something valuable in the 4 weeks we have together!
 

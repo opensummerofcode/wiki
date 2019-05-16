@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Open Summer of Code](README.md)
+* [Open summer of code](README.md)
 
 ## Students
 
