@@ -1,7 +1,5 @@
 ---
-description: >-
-  How to student at Open summer of code — probably the best Summer job you'll
-  ever have.
+description: Probably the best Summer job you'll ever have.
 ---
 
 # Being a student at Osoc
@@ -13,6 +11,8 @@ There are multiple reasons to participate. First of all, you can improve your sk
 > ## Osoc taught me things about the professional area that no education institution can teach us.
 >
 > — Anonymous survey result
+
+## Money isn't everything
 
 ![Earn money, work on your career while creating something valuable.Boom.](../.gitbook/assets/money-experience-valuable.png)
 
