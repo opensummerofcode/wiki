@@ -14,7 +14,7 @@ There are multiple reasons to participate. First of all, you can improve your sk
 
 ## Money isn't everything
 
-![Earn money, work on your career while creating something valuable.Boom.](../.gitbook/assets/money-experience-valuable.png)
+![Earn money, work on your career while creating something valuable.Boom.](../../.gitbook/assets/money-experience-valuable.png)
 
 Did you know, Osoc is completely free? Even better, you are getting paid! Enhancing your skills, making new friends, cashing in some money and creating something valuable... Sounds like a good plan, right?
 

@@ -20,19 +20,19 @@ An open attitude is vital. You will be working in a diverse team of motivated st
 
 ## Your main tasks
 
-* [Assemble your team](the-job.md#assemble-your-team)
-* [Expectation management of your client](the-job.md#expectation-management-of-your-client)
-* [Creating a process and structure for your team](the-job.md#creating-a-process-and-structure-for-your-team)
-* [Arbiter of quality](the-job.md#arbiter-of-quality)
-* [Client meetings & contact](the-job.md#client-meetings-and-contact)
-* [Knowing your fellow \(student & assistant\) coaches](the-job.md#knowing-your-fellow-student-and-assistant-coaches)
-* [Helping out other teams](the-job.md#helping-out-other-teams)
+* [Assemble your team](./#assemble-your-team)
+* [Expectation management of your client](./#expectation-management-of-your-client)
+* [Creating a process and structure for your team](./#creating-a-process-and-structure-for-your-team)
+* [Arbiter of quality](./#arbiter-of-quality)
+* [Client meetings & contact](./#client-meetings-and-contact)
+* [Knowing your fellow \(student & assistant\) coaches](./#knowing-your-fellow-student-and-assistant-coaches)
+* [Helping out other teams](./#helping-out-other-teams)
 
 ### Assemble your team
 
 _Make sure that your team is balanced. Match the right people with the right skills for the project, and make sure their characters will work._
 
-Before Open Summer of Code starts, we start[ screening the students](screening-students.md) beforehand. We will invite some coaches to do the screening. After that, we start building teams. We all aim for a healthy mix; on skill-level and on character type. It's important that teams are balanced:
+Before Open Summer of Code starts, we start[ screening the students](../screening-students.md) beforehand. We will invite some coaches to do the screening. After that, we start building teams. We all aim for a healthy mix; on skill-level and on character type. It's important that teams are balanced:
 
 * You can't have all unicorns in one team, nor can you have all inexperienced students in an other.
 * It's also good to have some introverts and some extraverts in one team; leaders and followers. These types of teams motivate and complete each other in social skills.
