@@ -6,13 +6,9 @@ description: Here's a guide on how to student at Open summer of code.
 
 Open summer of code is for anyone who brings motivation, enthusiasm and talent to the table. This wiki has been brought to life to channel all of that energy, and create something valuable in the 4 weeks we have together!
 
-## When & Where
+## Why should I participate?
 
-In the month of July, from Monday through Thursday from 09:00 to 17:00 you'll be expected, fresh & clean, at the office for that day.
+There are multiple reasons to participate. First of all, you can improve your skills under the supervision of several experienced coaches. Secondly, since you’ll be making a real product or service, it looks great on your resume and you’ll expand your network. Thirdly, you’ll surely make some new friends too.
 
-You can find the location and calendar on your the website for your country's edition. 
-
-Belgium: [https://2019.summerofcode.be/practical.html](https://2019.summerofcode.be/practical.html)
-
-Spain: [http://2019.summerofcode.es/practical.html](http://2019.summerofcode.es/practical.html)
+Sounds awesome, no? And we didn’t even get to the best part yet: osoc is completely free. Even better, you are getting paid! This programme could replace your summer job. Enhancing your skills, making new friends and cashing in some money too? Sounds like a good plan, right?
 
