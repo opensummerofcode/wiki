@@ -4,11 +4,9 @@
 
 As coach you will be guiding a team of students through the project development process. That includes discussions with your project partner to establish a clear vision of the specific open innovation project. You will endorse the desired student roles \(web development, design, business or communication\) essential to turning the partners idea into real-world products and services. At osoc you will outline a plan for action with your team and facilitate students' progress throughout the one-month project. In the end, your team will present the finished product to the partnering organisation and the wide public.
 
-## What type of projects will I be working on?
+## Your main tasks
 
-We have a wide range of interesting projects — from NPO's to universities, and from startups to big corporates. But they all have to be open source. Take a look [last year's edition of Belgium](http://2018.summerofcode.be/).
-
-We try our best to pair the right coach with the right project. You have a say in this a couple of months before Open Summer of Code starts. Your job is to coach the team, to guide them to do a good job. You're not supposed to do their job — but it does help if you have some prior knowledge when it comes to the subject or the skills needed to complete the project. So do let us know what type of projects you like and what you're good at besides coaching \(which is your primary skill\).
+* Assemble your team
 
 ## What skills should I bring to the table?
 
@@ -51,7 +49,7 @@ It happens a team isn't working together as well as you thought it would. This c
 * We do not negotiate price. It's not about money.
 * Not sure if you should hire this person? Give them a call. Conduct the interview in English.
 
-## I'm a buddy or assisting another coach. How does that work?
+## 
 
-As a student coach you will be acting as the interface between students and coaches. Hence, listen carefully and mediate concerns and ideas between both parties. Student coaches are aimed to become the next generation of coaches, see this role as an opportunity to learn as much as possible about the relevant aspects of the project development.
+## 
 

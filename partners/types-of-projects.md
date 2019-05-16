@@ -1,6 +1,6 @@
 # Types of projects
 
-## Exectution
+## Execution
 
 You have a clear idea in mind about the end result and the end user of the application. In that case the students will get the ball rolling during oSoc.
 

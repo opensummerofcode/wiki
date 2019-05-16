@@ -15,8 +15,10 @@
 * [Being a coach at osoc](coaches/untitled.md)
 * [The Job](coaches/the-job.md)
 * [Student coaches](coaches/student-coaches.md)
+* [Assistant coaches](coaches/assistant-coaches.md)
 * [Apply](coaches/apply.md)
 * [Attend](coaches/attend.md)
+* [Projects](coaches/projects.md)
 
 ## partners
 
