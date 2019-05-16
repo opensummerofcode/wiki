@@ -1,3 +1,7 @@
+---
+description: The type of project you can submit
+---
+
 # Types of projects
 
 ## Execution

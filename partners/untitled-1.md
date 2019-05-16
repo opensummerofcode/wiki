@@ -1,4 +1,4 @@
-# Expectations
+# The Partner's Job
 
 ## **What is expected of me as a client?**
 

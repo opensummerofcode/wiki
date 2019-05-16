@@ -33,7 +33,7 @@ Availability means being there for key moments, when the team needs you. Dependi
 
 * **Scope** Think a website, maybe with an integration with a fixed design. A project that is well-defined or easy to scope along the way.
 * **Size** Minimum three students
-* **Coach** There is always a coach _available_ to manage the smaller team and the client, but probably won't be occupied the entire time. It is possible that a coach \(or two half-time coaches\) is managing two small projects at the same time. The coach however, should be _available_ for both teams to coach them whenever they need it — see "[The job](the-job/)".
+* **Coach** There is always a coach _available_ to manage the smaller team and the client, but probably won't be occupied the entire time. It is possible that a coach \(or two half-time coaches\) is managing two small projects at the same time. The coach however, should be _available_ for both teams to coach them whenever they need it — see "[The job](../the-job/)".
 
 ## Can we work remote?
 
