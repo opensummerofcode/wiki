@@ -12,6 +12,7 @@ description: If you want a head start!
 
 * [http://lawsofsimplicity.com/](http://lawsofsimplicity.com/)
 * [https://www.nixdell.com/classes/HCI-and-Design-Spring-2017/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf](https://www.nixdell.com/classes/HCI-and-Design-Spring-2017/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf)
+* [https://www.microsoft.com/en-us/design/inclusive](https://www.microsoft.com/en-us/design/inclusive)
 
 
 

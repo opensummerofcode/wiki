@@ -20,6 +20,7 @@
   * [Assistant coaches](coaches/the-job/assistant-coaches.md)
   * [Student coaches](coaches/the-job/student-coaches.md)
   * [Screening students](coaches/the-job/screening-students.md)
+  * [Reading material](coaches/the-job/reading-material.md)
 * [Projects](coaches/projects.md)
 
 ## partners
