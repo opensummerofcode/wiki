@@ -9,7 +9,7 @@
   * [Attend](students/being-a-student-at-osoc/attend.md)
 * [The Student Job](students/the-student-job/README.md)
   * [Study material](students/the-student-job/study-material.md)
-* [Reimbursements](students/reimbursements.md)
+* [Salary & Reimbursements](students/reimbursements.md)
 
 ## Coaches
 
@@ -25,6 +25,7 @@
   * [Reading material](coaches/the-coaching-job/reading-material.md)
 * [Projects](coaches/projects.md)
 * [Partners](coaches/partners.md)
+* [Salary & Reimbursements](coaches/salary-and-reimbursements.md)
 
 ## partners
 
@@ -49,6 +50,6 @@
   * [Delivery week — week 4](organisers/calendar/delivery-week-4.md)
   * [Evaluation — follow-up](organisers/calendar/evaluation-follow-up.md)
 * [Taking over the world](organisers/taking-over-the-world.md)
-* [Reimbursements](organisers/untitled.md)
+* [Salary & Reimbursements](organisers/untitled.md)
 * [Managing teams](organisers/managing-teams.md)
 

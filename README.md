@@ -17,6 +17,8 @@ We’re so happy you want to be part of this community — and that you’re bui
 
 {% hint style="info" %}
 🚧 This wiki is still under construction — if you couldn't find something, please contact us at info@osoc.be; and we'll make sure to add it. 🚧
+
+You are welcome to add a contribution as well!
 {% endhint %}
 
 

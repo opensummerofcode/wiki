@@ -1,4 +1,14 @@
-# Reimbursements
+# Salary & Reimbursements
+
+## Pay
+
+**Belgium**  
+Coach: €40 an hour  
+Student: €10 an hour.  
+Student coach: €15 an hour.
+
+**Spain**  
+Because we're still in an early phase, you'll be volunteering for now — as you're investing in a future!
 
 ## Personal expenses
 
