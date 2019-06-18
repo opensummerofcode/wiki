@@ -27,11 +27,11 @@
 
 ## partners
 
-* [Being a partner at Osoc](partners/untitled/README.md)
-  * [Apply](partners/untitled/apply.md)
-  * [Attend](partners/untitled/attend.md)
-* [The Partner's Job](partners/untitled-1.md)
-* [Types of projects](partners/types-of-projects.md)
+* [Being a partner at Osoc](partners/partners/README.md)
+  * [Apply](partners/partners/apply.md)
+  * [Attend](partners/partners/attend.md)
+* [The Partner's Job](partners/the-partners-job.md)
+* [Projects](partners/projects.md)
 
 ## Organisers
 
