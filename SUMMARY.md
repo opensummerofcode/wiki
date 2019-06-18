@@ -17,6 +17,7 @@
   * [Apply](coaches/untitled/apply.md)
   * [Attend](coaches/untitled/attend.md)
 * [The Coaching Job](coaches/the-job/README.md)
+  * [Tasks](coaches/the-job/tasks.md)
   * [Assistant coaches](coaches/the-job/assistant-coaches.md)
   * [Student coaches](coaches/the-job/student-coaches.md)
   * [Screening students](coaches/the-job/screening-students.md)
