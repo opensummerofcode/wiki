@@ -4,7 +4,7 @@ description: This is how we do it.
 
 # Osoc Code of Conduct
 
-The code of conduct applies to all attendees of Open summer of code, paid and unpaid, except for the enforcers \(cf. section 8\). Please read these rules carefully. If you infringe on one of them, you must fulfil a task from the punishments section.
+The code of conduct applies to all attendees of Open summer of code, paid and unpaid, except for the enforcers \(cf. section 8\). Please read these rules carefully. If you infringe on one of them, you must fulfil a task from the punishments section, C.
 
 No worries, we also have an achievements section. When we think you did a great job, there are some props to earn.
 
@@ -99,7 +99,7 @@ When you infringe on one of the rules, you must choose one punishment.
 
 * P1: Buy beers for the team of the person that spotted your infringement — and yourself. Drink it together.
 * P2: Get ice cream for the team of the person that spotted your infringement — and yourself. Brain freeze together.
-* P3: Give the person that spotted your infringement a token. If you have no tokens left, choose from P1 or P2.
+* P3: Give the person that spotted your infringement a token \(cfr. section B\). If you have no tokens left, choose from P1 or P2.
 
 Infringing  on one of the rules multiple times does not grant you remission at any time.
 
@@ -162,7 +162,7 @@ You can tweet about anything on social media, but if there are any issues come t
 
 ### **§6 Freedom of information**
 
-Open Knowledge Belgium aims to be 100% transparent. Therefore you can request any kind of non-privacy-prone information about the non-profit organisation and the Open summer of code event. Visit [be.okfn.org/](http://be.okfn.org/) for more details.
+Open Knowledge Belgium aims to be 100% transparent. Therefore you can request any kind of non-privacy-prone information about the non-profit organisation and the Open summer of code event. Visit [be.okfn.org](http://be.okfn.org/) for more details.
 
   
   
