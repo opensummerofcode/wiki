@@ -1,14 +1,14 @@
 ---
-description: Week 2
+description: Week 3
 ---
 
-# Build — week 2
+# Build — week 3
 
-![Example of week 2: building](../../.gitbook/assets/screenshot-2019-06-17-at-22.11.02.png)
+![Example of week 3: build harder](../../.gitbook/assets/screenshot-2019-06-17-at-22.11.11.png)
 
 ## Who does what
 
-### Organisational:
+### Organisational
 
 * Organise workshop\(s\) and/or talks
 * Organise afterwork activities
@@ -19,16 +19,16 @@ description: Week 2
 
 ### Coaches
 
-* Scope next 2 weeks
+* Scope next week
 * Guide teams
 * Retrospect at the end
 
 ### Students
 
-* Sprint depending on role
+* Continue sprint
+* Prepare and execute user-test day
 * Present WIP to partners and gather feedback
 * Prepare booth
-* User test
 
 
 

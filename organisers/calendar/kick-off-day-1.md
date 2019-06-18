@@ -1,8 +1,8 @@
 ---
-description: Day 1
+description: Week 1 — Day 1
 ---
 
-# Kick-off day \(or chaos day\)
+# Kick-off day 1 \(or chaos day\)
 
 A more detailed agenda can be found on the website.
 

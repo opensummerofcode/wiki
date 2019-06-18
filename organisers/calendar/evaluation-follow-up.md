@@ -1,6 +1,10 @@
+---
+description: After Osoc
+---
+
 # Evaluation — follow-up
 
-## Partners:
+## Partners
 
 * Further actions depending on deliverables
 
@@ -14,7 +18,7 @@
 * Gather learnings/feedback
 * Gather testimonials
 
-## Organisational:
+## Organisational
 
 * Make balance \(break-even?\)
 * Debrief
