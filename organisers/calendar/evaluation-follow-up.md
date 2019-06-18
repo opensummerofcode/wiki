@@ -2,7 +2,7 @@
 
 ## Partners:
 
-* Further actions depending on deliverables \(optional: send invoice for remaining 50%\)
+* Further actions depending on deliverables
 
 ## Coaches
 
@@ -18,6 +18,7 @@
 
 * Make balance \(break-even?\)
 * Debrief
+* Further actions depending on deliverables \(optional: send invoice for remaining 50%\)
 
 
 

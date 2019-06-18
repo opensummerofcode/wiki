@@ -1,4 +1,4 @@
-# Start-up \(day 5 - 8\)
+# Build week 1
 
 ## Organisational:
 

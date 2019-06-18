@@ -1,4 +1,4 @@
-# Sprint \(day 13 - 16\)
+# Delivery week
 
 ## Organisational:
 

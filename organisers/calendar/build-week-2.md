@@ -1,4 +1,4 @@
-# Sprint \(day 9 - 12\)
+# Build week 2
 
 ## Organisational
 
