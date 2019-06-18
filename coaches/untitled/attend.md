@@ -15,25 +15,39 @@ You can find the location and calendar on your the website for your country's ed
 
 ## Half-time or full-time?
 
+Fulltime = 4 days per week  
+Halftime = 2 days per week
+
 The baseline is; a team of students should never be "alone". There should always be a coach _available_ that is up-to-date, and knows the partner they're working for. 
 
 A coach can choose to coach half- or full-time. A half-time coach should be paired with an other half-time coach — so the **teams will never be** _**coachless**_. Half-time coaches should make sure one of both is always _available_ to the team\(s\), and do their coaching tasks.
 
-### Availability 
+## Lead & Buddy role
 
-Availability means being there for key moments, when the team needs you. Depending on the size of the team and how hard the project is, a coach can handle one or two teams.
+You might be assigned to two projects, regardless if you're full-time or a half-time coach. You'll be the _lead_ coach for one project, and the _buddy_ coach for an other. Leads & buddies are usually paired to have a balanced skillset on the team.
 
-#### Big or hard projects
+You might be there at the same time, or you might be switching tasks. The main idea is:
 
-* **Scope** Think a big or complicated web-application — or a medium project with a lot of students with different skills \(for example hardware mixed with software or for instance exhaustive research / creativity required\).
-* **Size** Usually has a lot of students \(more than 8 team members\)
-* **Coach** Needs a full-time coach, or two half-time coaches. This requires a lot of availability. A mini project on the side is possible but not required \(for instance an easy website or a very experienced team with a student-coach\).
+* Keep your buddy and lead up-to-date about what happened, and make sure there's a hand-over when the other coach is not available \(tasks, problems, progress\). You can do it yourself, or delegate it to your students in a structured way
+* Maintain structure and quality for the team
 
-#### Easy projects
+#### The Lead Coach
 
-* **Scope** Think a website, maybe with an integration with a fixed design. A project that is well-defined or easy to scope along the way.
-* **Size** Minimum three students
-* **Coach** There is always a coach _available_ to manage the smaller team and the client, but probably won't be occupied the entire time. It is possible that a coach \(or two half-time coaches\) is managing two small projects at the same time. The coach however, should be _available_ for both teams to coach them whenever they need it — see "[The job](../the-job/)".
+The lead coach sets out the main structure.
+
+* Main point of contact for team
+* Provide structure \(standups, brainstorms, scoping sessions\)
+* Main client contact \(on days they are present\)
+* Take care of communication \(or delegate to assistant coach when not present\)
+* Be good to the buddy coach :-\)
+
+#### The Buddy Coach
+
+The buddy coach makes sure that when the lead coach isn't present, the team has someone to go to. Also, when there's a problem, you can ping-pong with your buddy coach \(or the coach of the coaches\) to figure out things. You can lean on each other, and learn from each other!
+
+* Take over lead tasks when lead is not present
+* Be a sounding board \(and vice versa\)
+* Provide expert advice from own field and skill set
 
 ## Can we work remote?
 

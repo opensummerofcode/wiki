@@ -19,7 +19,7 @@
 * [The Coaching Job](coaches/the-job/README.md)
   * [Soft Skills & Expectations](coaches/the-job/soft-skills-and-expectations.md)
   * [Tasks](coaches/the-job/tasks.md)
-  * [First-time coaches](coaches/the-job/assistant-coaches.md)
+  * [First-time coaches](coaches/the-job/first-coaches.md)
   * [Student coaches](coaches/the-job/student-coaches.md)
   * [Screening students](coaches/the-job/screening-students.md)
   * [Reading material](coaches/the-job/reading-material.md)

@@ -19,7 +19,7 @@ description: >-
 
 ### Lead & Buddy role
 
-You might be assigned to two projects — _to make sure a team of students is never alone_. You'll be the _lead_ coach for one project, and the _buddy_ coach for an other. Leads & buddies are usually paired to have a balanced skillset on the team.
+You might be assigned to two projects, whether you're full-time or a half-time coach. You'll be the _lead_ coach for one project, and the _buddy_ coach for an other. Leads & buddies are usually paired to have a balanced skillset on the team.
 
 You might be there at the same time, or you might be switching tasks. The main idea is:
 
