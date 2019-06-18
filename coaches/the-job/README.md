@@ -16,7 +16,7 @@ As coach you will be guiding a diverse team of students through the project deve
 
 * Have discussions with your project partner to establish a clear vision of the specific open innovation project.
 * You will endorse the desired student roles \(web development, design, business or communication\) essential to turning the partners idea into real-world products and services.
-* You'll outline a plan for action, together with your team and facilitate students' progress throughout the one-month project. You'll be providing structure and guidance for the students to help them flourish and do a good job.
+* You'll outline a plan for action, together with your buddy coach and team to facilitate students' progress throughout the one-month project. You'll be providing structure and guidance for the students to help them flourish and do a good job.
 * In the end, your team will present the finished product to the partnering organisation and the wide public.
 
 Experience in coaching and team-coordination are not required but considered an asset. What counts most is a positive mindset and the motivation to have an awesome summer!
