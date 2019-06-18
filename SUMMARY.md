@@ -8,6 +8,7 @@
   * [Apply](students/being-a-student-at-osoc/apply.md)
   * [Attend](students/being-a-student-at-osoc/attend.md)
 * [The Student Job](students/the-student-job/README.md)
+  * [Osoc Code of Conduct](students/the-student-job/code-of-conduct.md)
   * [Study material](students/the-student-job/study-material.md)
 * [Salary & Reimbursements](students/reimbursements.md)
 
