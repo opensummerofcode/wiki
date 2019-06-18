@@ -5,7 +5,7 @@
 ## Students
 
 * [Being a student at Osoc](students/being-a-student-at-osoc/README.md)
-  * [Apply](students/being-a-student-at-osoc/applying-for-osoc.md)
+  * [Apply](students/being-a-student-at-osoc/apply.md)
   * [Attend](students/being-a-student-at-osoc/attendance.md)
 * [The Student Job](students/projects/README.md)
   * [Study material](students/projects/interesting-study-material.md)
