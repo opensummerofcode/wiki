@@ -48,7 +48,7 @@ Depending on the size of the team and how hard the project is, a coach can handl
 
 * **Scope** Think a website, maybe with an integration with a fixed design. A project that is well-defined or easy to scope along the way.
 * **Size** Minimum three students
-* **Coach** There is always a coach _available_ to manage the smaller team and the client, but probably won't be occupied the entire time. This means it is possible that a coach \(or two half-time coaches\) is managing two small projects at the same time. This does mean that this coach is _available_ for both teams for their tasks — see "[The job](../coaches/the-job/)" under coaches.
+* **Coach** There is always a coach _available_ to manage the smaller team and the client, but probably won't be occupied the entire time. This means it is possible that a coach \(or two half-time coaches\) is managing two small projects at the same time. This does mean that this coach is _available_ for both teams for their tasks — see "[The job](../coaches/the-coaching-job/)" under coaches.
 
 
 

@@ -13,16 +13,16 @@
 
 ## Coaches
 
-* [Being a coach at osoc](coaches/untitled/README.md)
-  * [Apply](coaches/untitled/apply.md)
-  * [Attend](coaches/untitled/attend.md)
-* [The Coaching Job](coaches/the-job/README.md)
-  * [Soft Skills & Expectations](coaches/the-job/soft-skills-and-expectations.md)
-  * [Tasks](coaches/the-job/tasks.md)
-  * [First-time coaches](coaches/the-job/first-coaches.md)
-  * [Student coaches](coaches/the-job/student-coaches.md)
-  * [Screening students](coaches/the-job/screening-students.md)
-  * [Reading material](coaches/the-job/reading-material.md)
+* [Being a coach at osoc](coaches/coaching/README.md)
+  * [Apply](coaches/coaching/apply.md)
+  * [Attend](coaches/coaching/attend.md)
+* [The Coaching Job](coaches/the-coaching-job/README.md)
+  * [Soft Skills & Expectations](coaches/the-coaching-job/soft-skills-and-expectations.md)
+  * [Tasks](coaches/the-coaching-job/tasks.md)
+  * [First-time coaches](coaches/the-coaching-job/first-time-coaches.md)
+  * [Student coaches](coaches/the-coaching-job/student-coaches.md)
+  * [Screening students](coaches/the-coaching-job/screening-students.md)
+  * [Reading material](coaches/the-coaching-job/reading-material.md)
 * [Projects](coaches/projects.md)
 
 ## partners
