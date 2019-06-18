@@ -24,7 +24,7 @@
   * [Screening students](coaches/the-coaching-job/screening-students.md)
   * [Reading material](coaches/the-coaching-job/reading-material.md)
 * [Projects](coaches/projects.md)
-* [The partners](coaches/partners.md)
+* [Partners](coaches/partners.md)
 
 ## partners
 

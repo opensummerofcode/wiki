@@ -1,4 +1,4 @@
-# The partners
+# Partners
 
 ## Partners visiting
 
