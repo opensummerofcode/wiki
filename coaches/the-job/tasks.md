@@ -21,6 +21,11 @@ description: >-
 
 You might be assigned to two projects — _to make sure a team of students is never alone_. You'll be the _lead_ coach for one project, and the _buddy_ coach for an other. Leads & buddies are usually paired to have a balanced skillset on the team.
 
+You might be there at the same time, or you might be switching tasks. The main idea is:
+
+* Keep your buddy and lead up-to-date about what happened, and make sure there's a hand-over when the other coach is not available \(tasks, problems, progress\). You can do it yourself, or delegate it to your students in a structured way
+* Maintain structure and quality for the team
+
 #### The Lead Coach
 
 The lead coach sets out the main structure.

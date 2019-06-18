@@ -40,6 +40,26 @@ Your students are here to learn. Let them fail and get better at it. See previou
 
 Photo by [Ihtesham Ismail](https://unsplash.com/@ihtesham94?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/lion-cub?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
+## Take care of your significant other\(s\)
+
+You have a buddy, and the other coaches for a reason. You're not alone, and make sure the other coaches don't feel alone either.
+
+* Help other coaches out
+* Ask if your buddy is okay and needs help
+* Keep your buddy and lead up-to-date, and make sure there's a hand-over when the other coach is not available
+
+![You and your buddy coach discussing coaching tactics](../../.gitbook/assets/gwen-weustink-95871-unsplash.jpg)
+
+Photo by [Gwen Weustink](https://unsplash.com/@aboeka?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+## Sharing is caring
+
+Learnt something new? Got an interesting technique? Or do you need help? Reach out to the other coaches. You'll be amazed of how much you'll learn, and how much fun it is to see your skills flourish by sharing them.
+
+![You and the other lions sharing their experiences](../../.gitbook/assets/joss-woodhead-643761-unsplash.jpg)
+
+Photo by [Joss Woodhead](https://unsplash.com/@josswoodhead?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 ## I have no idea what I'm doing
 
 ![Picture of you roaring into the void](../../.gitbook/assets/kurt-cotoaga-1132996-unsplash.jpg)
@@ -47,4 +67,14 @@ Photo by [Ihtesham Ismail](https://unsplash.com/@ihtesham94?utm_source=unsplash&
 Photo by [Kurt Cotoaga](https://unsplash.com/photos/huXZH43-qiw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/lion-cub?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 It happens to all of us. Sometimes, we have no idea what we're doing, and just roaring into the void. It's okay. We have your back — the organisation and the other coaches are there to help. Just reach out!
+
+## Get enough sleep
+
+It gets rowdy sometimes. Sleep, even if everything is on fire — or you'll have a fuse too short to handle the situation. Yes, there will be fire now and then.
+
+If it starts smoking, speak up and [we'll take care of you](soft-skills-and-expectations.md#take-care-of-your-significant-other-s).
+
+![Image of you sleeping](../../.gitbook/assets/sander-wehkamp-718377-unsplash.jpg)
+
+Photo by [Sander Wehkamp](https://unsplash.com/@sanderwehkamp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/lion-sleep?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
