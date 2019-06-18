@@ -9,25 +9,24 @@
 
   \(communication, wi-fi, location, etc.\)
 
-* Create teams
+* Assemble teams
 * Hold workshop\(s\)
-
-## Partners
-
-* Meet up with assigned team and further elaborate project
 
 ## Coaches
 
+* Get to know each other
 * Guide teams
 * Assign budget to teams
 * Pitch projects
+* Create crest and team name for website
 
 ## Students
 
 * Sign paperwork
-* Plan upcoming 3 weeks
-* Meet up with assigned partner and/or read deliverables
-* Prepare pitches for partners \(learnings/project planning\)
+* Create crest and team name for website
+* Get briefed
+* Ask questions
+* Prepare meeting with partner
 
 
 

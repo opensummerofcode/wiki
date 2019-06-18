@@ -42,6 +42,7 @@
   * [Informing people](organisers/how-to-set-up-osoc-for-your-country/informing-people.md)
 * [4 weeks of well-organised serendipity](organisers/calendar/README.md)
   * [Kick-off \(day 1 - 4\)](organisers/calendar/kick-off-day-1-4.md)
+  * [Hackathon](organisers/calendar/hackathon.md)
   * [Start-up \(day 5 - 8\)](organisers/calendar/untitled.md)
   * [Sprint \(day 9 - 12\)](organisers/calendar/sprint-day-9-12.md)
   * [Sprint \(day 13 - 16\)](organisers/calendar/sprint-day-13-16.md)
