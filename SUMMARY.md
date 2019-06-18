@@ -6,9 +6,9 @@
 
 * [Being a student at Osoc](students/being-a-student-at-osoc/README.md)
   * [Apply](students/being-a-student-at-osoc/apply.md)
-  * [Attend](students/being-a-student-at-osoc/attendance.md)
-* [The Student Job](students/projects/README.md)
-  * [Study material](students/projects/interesting-study-material.md)
+  * [Attend](students/being-a-student-at-osoc/attend.md)
+* [The Student Job](students/the-student-job/README.md)
+  * [Study material](students/the-student-job/study-material.md)
 * [Reimbursements](students/reimbursements.md)
 
 ## Coaches
@@ -29,6 +29,7 @@
 
 * [Being a partner at Osoc](partners/untitled/README.md)
   * [Apply](partners/untitled/apply.md)
+  * [Attend](partners/untitled/attend.md)
 * [The Partner's Job](partners/untitled-1.md)
 * [Types of projects](partners/types-of-projects.md)
 
