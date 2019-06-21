@@ -8,41 +8,16 @@ description: >-
 
 ## Overview
 
-* [Lead & Buddy role](tasks.md#lead-and-buddy-role)
 * [Assemble your team](tasks.md#assemble-your-team)
 * [Expectation management of your client](tasks.md#expectation-management-of-your-client)
 * [Creating a process and structure for your team](tasks.md#creating-a-process-and-structure-for-your-team)
 * [Arbiter of quality](tasks.md#arbiter-of-quality)
 * [Client meetings & contact](tasks.md#client-meetings-and-contact)
-* [Knowing your fellow \(student & assistant\) coaches](tasks.md#knowing-your-fellow-student-and-assistant-coaches)
+* Buddy coaches
+* [Know your fellow \(student\) coaches](tasks.md#knowing-your-fellow-student-and-assistant-coaches)
 * [Helping out other teams](tasks.md#helping-out-other-teams)
 
-### Lead & Buddy role
 
-You might be assigned to two projects, whether you're full-time or a half-time coach. You'll be the _lead_ coach for one project, and the _buddy_ coach for an other. Leads & buddies are usually paired to have a balanced skillset on the team.
-
-You might be there at the same time, or you might be switching tasks. The main idea is:
-
-* Keep your buddy and lead up-to-date about what happened, and make sure there's a hand-over when the other coach is not available \(tasks, problems, progress\). You can do it yourself, or delegate it to your students in a structured way
-* Maintain structure and quality for the team
-
-#### The Lead Coach
-
-The lead coach sets out the main structure.
-
-* Main point of contact for team
-* Provide structure \(standups, brainstorms, scoping sessions\)
-* Main client contact \(on days they are present\)
-* Take care of communication \(or delegate to assistant coach when not present\)
-* Be good to the buddy coach :-\)
-
-#### The Buddy Coach
-
-The buddy coach makes sure that when the lead coach isn't present, the team has someone to go to. Also, when there's a problem, you can ping-pong with your buddy coach \(or the coach of the coaches\) to figure out things. You can lean on each other, and learn from each other!
-
-* Take over lead tasks when lead is not present
-* Be a sounding board \(and vice versa\)
-* Provide expert advice from own field and skill set
 
 ### Assemble your team
 
@@ -93,7 +68,40 @@ You can delegate the communication, but make sure the students run it past you b
 
 At the end of Osoc, you'll also hand in a big **delivery document** with your students, that contains all the work. We'll share a link during Osoc.
 
-### Knowing your fellow \(student & assistant\) coaches
+### Buddy coaches
+
+Most projects have two coaches, called buddies. Your buddy is here to make sure you have someone to bounce ideas off and make decisions faster. Your buddy is your ally, and you can prepare for battle together.
+
+* Keep your buddy up-to-date about what happened, and make sure there's a hand-over when the you're not available \(tasks, problems, progress\). You can hand over the information yourself, or delegate it to your students in a structured way.
+* Maintain structure and quality for the team together
+
+If you do not have a buddy, you can always ask help from other coaches or the lead coach!
+
+#### Lead or Assistant Coach
+
+Most of you are be assigned to two projects, whether you're full-time or a half-time coach. You'll be the _lead_ coach for one project \(your buddy will be the assistant\), and the _assistant_ coach for an other \(your buddy will be the lead\). Leads and assistants are usually paired to have a balanced skillset on the team.
+
+**The Lead Coach**
+
+The lead coach sets out the main structure.
+
+* Main point of contact for team
+* Provide structure \(standups, brainstorms, scoping sessions\)
+* Main client contact \(on days they are present\)
+* Take care of communication \(or delegate to assistant coach when not present\)
+* Be good to the buddy coach :-\)
+
+**The Assistant Coach**
+
+The assistant coach makes sure that when the lead coach isn't present, the team has someone to go to. Also, when there's a problem, you can ping-pong with your buddy coach \(or the coach of the coaches\) to figure out things. You can lean on each other, and learn from each other!
+
+* Take over lead tasks when lead is not present
+* Be a sounding board \(and vice versa\)
+* Provide expert advice from own field and skill set
+
+For more information about how to prepare for battle together, visit the [Buddy Coaches Battle Prep](buddy-coaches.md) section.
+
+### Knowing your fellow \(student\) coaches
 
 You're a coach in the first place. But you'll also have other skills. For instance, you're a designer, a dev, a marketer, a copyright expert or a yogi.
 
