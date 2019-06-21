@@ -99,7 +99,7 @@ The assistant coach makes sure that when the lead coach isn't present, the team 
 * Be a sounding board \(and vice versa\)
 * Provide expert advice from own field and skill set
 
-For more information about how to prepare for battle together, visit the [Buddy Coaches Battle Prep](buddy-coaches.md) section.
+For more information about how to prepare for battle together, visit the [Buddy Coaches Battle Prep](battle-prep.md) section.
 
 ### Knowing your fellow \(student\) coaches
 

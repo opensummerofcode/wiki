@@ -20,7 +20,7 @@
 * [The Coaching Job](coaches/the-coaching-job/README.md)
   * [Soft Skills & Expectations](coaches/the-coaching-job/soft-skills-and-expectations.md)
   * [Tasks](coaches/the-coaching-job/tasks.md)
-  * [Buddy Coaches Battle Prep](coaches/the-coaching-job/buddy-coaches.md)
+  * [Battle Prep](coaches/the-coaching-job/battle-prep.md)
   * [First-time coaches](coaches/the-coaching-job/first-time-coaches.md)
   * [Student coaches](coaches/the-coaching-job/student-coaches.md)
   * [Screening students](coaches/the-coaching-job/screening-students.md)

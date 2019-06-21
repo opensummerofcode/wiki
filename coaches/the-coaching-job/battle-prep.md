@@ -1,8 +1,10 @@
-# Buddy Coaches Battle Prep
+# Battle Prep
 
-If you have a buddy coach, here's a non-exhaustive list of things you can talk about to prepare for battle. If you need any guidance, contact the organisation! Not sure what to do as a buddy? Read all about [tasks](tasks.md) first.
+Here's a non-exhaustive list of things you can do to prepare for battle. If you need any guidance, contact the organisation!
 
-## Get to know each other
+If you have a buddy coach, you can go through this together. Not sure what to do as a coach, and with a buddy? Read all about [tasks](tasks.md) first.
+
+## In case you have a buddy, get to know your buddy
 
 I don't know you, you don't know me.
 
