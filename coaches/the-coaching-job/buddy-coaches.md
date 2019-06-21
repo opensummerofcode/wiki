@@ -9,7 +9,7 @@ I don't know you, you don't know me.
 * What do you do for a living? What do you do in your spare time? Hobbies?
 * Tell your buddy what you're good at \(skills and soft-skills like development, scoping sessions, challenging people, ...\)
 * Tell your buddy what you need help with
-* Tell your buddy about your coaching experience and style
+* Tell your buddy about your coaching experience
 
 ## Decide on how you're going to break the ice with your students
 
@@ -25,7 +25,7 @@ Gather the team\(s\) you're leading. Play a game or have a list of questions ava
   * What is your favourite food?
   * What is _the one thing_ we should know about you?
 
-## Decide on project management
+## Decide on project management and structure
 
 How are you going to guide your students day to day? Some examples to take care of:
 
@@ -69,7 +69,9 @@ You can do this together or separately, and discuss if you still have questions 
 
 ## Decide on how you're going to do scoping sessions and retrospects
 
-Scoping sessions and retrospects are crucial to finding out what you're going to build something, and if you're doing well as a team.
+Weekly scoping sessions and retrospects are crucial to finding out what you're going to build something, and if you're doing well as a team.
+
+At the end of Osoc you'll also give feedback to each individual, which you can prepare together. You can write some positive notes on a postcard too!
 
 If you need any techniques, please contact the organisation, they are working on it now!
 
