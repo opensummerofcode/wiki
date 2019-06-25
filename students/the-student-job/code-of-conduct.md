@@ -4,7 +4,7 @@ description: This is how we do it.
 
 # Osoc Code of Conduct
 
-The code of conduct applies to all attendees of Open summer of code, paid and unpaid, except for the enforcers \(cf. section 8\). Please read these rules carefully. If you infringe on one of them, you must fulfil a task from the punishments section, C.
+The code of conduct applies to all attendees of Open summer of code, paid and unpaid, except for the enforcers \(cf. section A, paragraph 8\). Please read these rules carefully. If you infringe on one of them, you must fulfil a task from the punishments section, C.
 
 No worries, we also have an achievements section. When we think you did a great job, there are some props to earn.
 
