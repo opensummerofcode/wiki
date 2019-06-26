@@ -51,9 +51,9 @@ The buddy coach makes sure that when the lead coach isn't present, the team has 
 
 ## Can we work remote?
 
-Our current culture is non-remote. As Osoc is only 4 weeks long, and everything moves really fast — we need a coach around as much as possible.  
+Our current culture is non-remote. As oSoc is only 4 weeks long, and everything moves really fast — we need a coach around as much as possible.  
   
-If you have any suggestions for a remote Osoc, let us know ;-\)
+If you have any suggestions for a remote oSoc, let us know ;-\)
 
 ## What do I do when I'm ill?
 

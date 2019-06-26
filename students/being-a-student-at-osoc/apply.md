@@ -9,11 +9,11 @@ If you meet the following requirements:
 * Thirdly, you should be able to express yourself in English.
 * And last but not least, bring heaps of enthusiasm & motivation. We need that energy!
 
-Do you meet these requirements? You could be an osoc student!
+Do you meet these requirements? You could be an oSoc student!
 
 ## How do I apply?
 
-In order to apply you need to submit a letter of motivation, explaining why you would like to join the movement and what you will bring to the table to make osoc great. Make sure to include your portfolio or some examples of your work as well. Based on your motivation, portfolio and your CV, a group of experienced osoc volunteers will match your unique set of skills and experiences with partner’s desired student profiles.
+In order to apply you need to submit a letter of motivation, explaining why you would like to join the movement and what you will bring to the table to make oSoc great. Make sure to include your portfolio or some examples of your work as well. Based on your motivation, portfolio and your CV, a group of experienced oSoc volunteers will match your unique set of skills and experiences with partner’s desired student profiles.
 
 For open summer of code 2019 you can apply via these forms:
 

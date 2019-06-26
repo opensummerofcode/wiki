@@ -1,10 +1,10 @@
 ---
-description: Want to organise your own Osoc?
+description: Want to organise your own oSoc?
 ---
 
 # Taking over the world
 
-Contact us to take on the challenge to start your own Osoc in your country! [info@osoc.be](mailto:info@osoc.be).
+Contact us to take on the challenge to start your own oSoc in your country! [info@osoc.be](mailto:info@osoc.be).
 
 We have a nice hockey stick curve, and are already active in Belgium and Spain â€” and we're working on the Netherlands and other countries as well!
 
@@ -12,7 +12,7 @@ We have a nice hockey stick curve, and are already active in Belgium and Spain â
 
 Resources you can use:
 
-* Our Osoc website [https://github.com/oSoc19](https://github.com/oSoc19)
+* Our oSoc website [https://github.com/oSoc19](https://github.com/oSoc19)
 * Our knowledge base \(this website\)
 * Our programme
 * Branding & logo

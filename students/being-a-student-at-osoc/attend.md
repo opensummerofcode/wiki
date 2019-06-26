@@ -27,7 +27,7 @@ Sometimes there are things more important than Open summer of code \(yes, we fin
 
 ## Can we work remote?
 
-Our current culture is non-remote. As Osoc is only 4 weeks long, and everything moves really quickly \(we don't want to break things but we do\) — we need you around at all times. We have interesting workshops, talks, lunches, ping-pong battles and fun; so don't worry about being bored.  
+Our current culture is non-remote. As oSoc is only 4 weeks long, and everything moves really quickly \(we don't want to break things but we do\) — we need you around at all times. We have interesting workshops, talks, lunches, ping-pong battles and fun; so don't worry about being bored.  
   
-If you have any suggestions for a remote Osoc, that's just as  fun, let us know ;-\)
+If you have any suggestions for a remote oSoc, that's just as  fun, let us know ;-\)
 

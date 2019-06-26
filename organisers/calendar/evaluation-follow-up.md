@@ -1,5 +1,5 @@
 ---
-description: After Osoc
+description: After oSoc
 ---
 
 # Evaluation — follow-up
