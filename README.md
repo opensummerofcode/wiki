@@ -7,7 +7,7 @@ description: >-
 
 # Open summer of code
 
-oSoc is for anyone who brings motivation, enthusiasm and talent to the table. This wiki has been brought to life to channel all of that energy, and create something valuable in the 4 weeks we have together!
+Osoc is for anyone who brings motivation, enthusiasm and talent to the table. This wiki has been brought to life to channel all of that energy, and create something valuable in the 4 weeks we have together!
 
 {% hint style="info" %}
 This wiki is a _guideline_. You're always free to break the rules; as long as you're trying to make it a better experience!
