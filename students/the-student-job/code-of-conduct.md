@@ -2,9 +2,9 @@
 description: This is how we do it.
 ---
 
-# Osoc Code of Conduct
+# oSoc Code of Conduct
 
-The code of conduct applies to all attendees of Open summer of code, paid and unpaid, except for the enforcers \(cf. section A, paragraph 8\). Please read these rules carefully. If you infringe on one of them, you must fulfil a task from the punishments section, C.
+The code of conduct applies to all attendees of open Summer of code, paid and unpaid, except for the enforcers \(cf. section A, paragraph 8\). Please read these rules carefully. If you infringe on one of them, you must fulfil a task from the punishments section, C.
 
 No worries, we also have an achievements section. When we think you did a great job, there are some props to earn.
 
@@ -53,7 +53,7 @@ If you cannot work 8 hours during a certain day, you should mail [astrid@openkno
 
 1. During the event, interest\(ing\|ed\) people \(e.g., journalists, potential employers, experts\) may enter the location. When they’re asking about your project, cease work and answer them in a best-effort way.
 2. Everyone in your team is an ambassador of the project, without exception \(yes, also the back-end coder\). You will explain your project with pride and will train yourself to pitch the project as if it was your start-up.
-3. The project doesn’t end at the last day of \#osoc19. You should try to “design” your open source project that it becomes a win for you when you are asked to pitch your project later on, or when you’re contacted by journalists, asked to attend an event, and so forth.
+3. The project doesn’t end at the last day of \#oSoc19. You should try to “design” your open source project that it becomes a win for you when you are asked to pitch your project later on, or when you’re contacted by journalists, asked to attend an event, and so forth.
 
 ### **§6 Communication**
 
@@ -62,7 +62,7 @@ If you cannot work 8 hours during a certain day, you should mail [astrid@openkno
 
 ### **§7 Blog**
 
-1. You are expected to write a blog post about the project you’re working on at least once during the Open summer of code. Ask our communication manager about it.
+1. You are expected to write a blog post about the project you’re working on at least once during the open Summer of code. Ask our communication manager about it.
 2. As said before, all communication happens in English, therefore also the blog. We don’t expect complete articles, a few paragraphs that explain the progress of your project is enough. Feel free to ask for help from our communication and project managers.
 3. People like pictures, don’t be afraid to take photographs or add some images to the blog post or online messages.
 
@@ -71,16 +71,16 @@ If you cannot work 8 hours during a certain day, you should mail [astrid@openkno
 The board members of Open Knowledge Belgium and the freelancers are the enforcers of this code of conduct.
 
 1. The enforcers are above this code of conduct; they cannot be punished.
-2. The board members of Open Knowledge Belgium are free to change the code of conduct at any time. When changes take place, all Open summer of code members will be informed. The last, true, version of the code of conduct is available at [https://help.osoc.be/global/students/the-student-job/code-of-conduct](https://help.osoc.be/global/students/the-student-job/code-of-conduct).
+2. The board members of Open Knowledge Belgium are free to change the code of conduct at any time. When changes take place, all open Summer of code members will be informed. The last, true, version of the code of conduct is available at [https://help.osoc.be/global/students/the-student-job/code-of-conduct](https://help.osoc.be/global/students/the-student-job/code-of-conduct).
 3. Project leaders, as mentioned in **section D**, can enforce the code of conduct. When in doubt, you can contest charges from a project manager to someone of the board.
 
-## B. Osoc Tokens or "Lives"
+## B. oSoc Tokens or "Lives"
 
 ![Give each other a chance to learn and create something meaningful together.](../../.gitbook/assets/screenshot-2019-06-18-at-15.11.39.png)
 
-At the beginning of Osoc, you'll be given a set of tokens. This can be a set of lollipops \(don't eat them yet\), badges, dices, ...
+At the beginning of oSoc, you'll be given a set of tokens. This can be a set of lollipops \(don't eat them yet\), badges, dices, ...
 
-These are your Osoc lives. They can be used for two things:
+These are your oSoc lives. They can be used for two things:
 
 * Asking help or feedback from an other student.
   * Search for the student that has the skill you need to fix your problem, or that can give you the right feedback.
@@ -152,17 +152,17 @@ Except for Git and SSH, you are free to use any software or hardware stack that 
 
 ### **§4 Freedom to work whenever you’re most productive**
 
-You are requested to attend Open summer of code 8 hours a day, which you are free to choose from the hours the location is open. As long as you are capable to deliver at every milestone, you’re safe.
+You are requested to attend oSoc 8 hours a day, which you are free to choose from the hours the location is open. As long as you are capable to deliver at every milestone, you’re safe.
 
 ### **§5 Freedom of speech**
 
-You are free to tweet, using the proper hashtags \#Osoc19, use Facebook, Instagram, SnapChat, or any other social network, whenever you want to say anything about Open summer of code. As long as you're not harassing or hurting other people.
+You are free to tweet, using the proper hashtags \#oSoc19, use Facebook, Instagram, SnapChat, or any other social network, whenever you want to say anything about oSoc. As long as you're not harassing or hurting other people.
 
 You can tweet about anything on social media, but if there are any issues come to us first!
 
 ### **§6 Freedom of information**
 
-Open Knowledge Belgium aims to be 100% transparent. Therefore you can request any kind of non-privacy-prone information about the non-profit organisation and the Open summer of code event. Visit [be.okfn.org](http://be.okfn.org/) for more details.
+Open Knowledge Belgium aims to be 100% transparent. Therefore you can request any kind of non-privacy-prone information about the non-profit organisation and the open Summer of code event. Visit [be.okfn.org](http://be.okfn.org/) for more details.
 
   
   

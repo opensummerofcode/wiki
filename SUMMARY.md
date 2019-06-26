@@ -4,17 +4,17 @@
 
 ## Students
 
-* [Being a student at Osoc](students/being-a-student-at-osoc/README.md)
+* [Being a student at oSoc](students/being-a-student-at-osoc/README.md)
   * [Apply](students/being-a-student-at-osoc/apply.md)
   * [Attend](students/being-a-student-at-osoc/attend.md)
 * [The Student Job](students/the-student-job/README.md)
-  * [Osoc Code of Conduct](students/the-student-job/code-of-conduct.md)
+  * [oSoc Code of Conduct](students/the-student-job/code-of-conduct.md)
   * [Study material](students/the-student-job/study-material.md)
 * [Salary & Reimbursements](students/reimbursements.md)
 
 ## Coaches
 
-* [Being a coach at osoc](coaches/coaching/README.md)
+* [Being a coach at oSoc](coaches/coaching/README.md)
   * [Apply](coaches/coaching/apply.md)
   * [Attend](coaches/coaching/attend.md)
 * [The Coaching Job](coaches/the-coaching-job/README.md)
@@ -31,7 +31,7 @@
 
 ## partners
 
-* [Being a partner at Osoc](partners/partners/README.md)
+* [Being a partner at oSoc](partners/partners/README.md)
   * [Apply](partners/partners/apply.md)
   * [Attend](partners/partners/attend.md)
 * [The Partner's Job](partners/the-partners-job.md)
@@ -39,7 +39,7 @@
 
 ## Organisers
 
-* [How to set up Osoc for your country](organisers/how-to-set-up-osoc-for-your-country/README.md)
+* [How to set up oSoc for your country](organisers/how-to-set-up-osoc-for-your-country/README.md)
   * [Preparation](organisers/how-to-set-up-osoc-for-your-country/preparation.md)
   * [Selection](organisers/how-to-set-up-osoc-for-your-country/selection.md)
   * [Practical](organisers/how-to-set-up-osoc-for-your-country/practical.md)
