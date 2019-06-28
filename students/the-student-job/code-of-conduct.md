@@ -58,12 +58,12 @@ If you cannot work 8 hours during a certain day, you should mail [astrid@openkno
 ### **§6 Communication**
 
 1. All official communication, documentation and so on has to be done in English. You are free to speak your native language when talking to your neighbour. From the moment you’re in a group with someone who does not speak the same language, you switch to English.
-2. Our communication and project managers are responsible for the general management across and between the different projects. When they ask you to do something, you drop all work and help them in a best-effort manner.
+2. Our communication manager and coaches are responsible for the general management across and between the different projects. When they ask you to do something, you drop all work and help them in a best-effort manner.
 
 ### **§7 Blog**
 
-1. You are expected to write a blog post about the project you’re working on at least once during the open Summer of code. Ask our communication manager about it.
-2. As said before, all communication happens in English, therefore also the blog. We don’t expect complete articles, a few paragraphs that explain the progress of your project is enough. Feel free to ask for help from our communication and project managers.
+1. You are encouraged to write a blog post or vlog about the project you’re working on during the open Summer of code. Ask our communication manager about it.
+2. As said before, all communication happens in English, therefore also the blog/vlog. We don’t expect complete articles or movies, to explain the progress of your project is enough. Feel free to ask for help from our communication and project managers.
 3. People like pictures, don’t be afraid to take photographs or add some images to the blog post or online messages.
 
 ### **§8 Enforcers**
@@ -72,7 +72,7 @@ The board members of Open Knowledge Belgium and the freelancers are the enforcer
 
 1. The enforcers are above this code of conduct; they cannot be punished.
 2. The board members of Open Knowledge Belgium are free to change the code of conduct at any time. When changes take place, all open Summer of code members will be informed. The last, true, version of the code of conduct is available at [https://help.osoc.be/global/students/the-student-job/code-of-conduct](https://help.osoc.be/global/students/the-student-job/code-of-conduct).
-3. Project leaders, as mentioned in **section D**, can enforce the code of conduct. When in doubt, you can contest charges from a project manager to someone of the board.
+3. Coaches, as mentioned in **section D**, can enforce the code of conduct. When in doubt, you can contest charges from a coach to someone of the board.
 
 ## B. oSoc Tokens or "Lives"
 
@@ -89,7 +89,7 @@ These are your oSoc lives. They can be used for two things:
   * Enjoy the help, and the giving.
 * Bailing you out of a punishment — see punishments in section B.
 
-If you do not have any tokens left, and still need help: offer your expertise to give feedback or help out the other person in return. Or just ask really nice.
+If you do not have any tokens left, and still need help: offer your expertise to give feedback or help out the another person in return. Or just ask really nice.
 
 ## **C. Punishments**
 
@@ -97,7 +97,7 @@ If you do not have any tokens left, and still need help: offer your expertise to
 
 When you infringe on one of the rules, you must choose one punishment.
 
-* P1: Buy beers for the team of the person that spotted your infringement — and yourself. Drink it together.
+* P1: Buy drinks for the team of the person that spotted your infringement — and yourself. Drink it together.
 * P2: Get ice cream for the team of the person that spotted your infringement — and yourself. Brain freeze together.
 * P3: Give the person that spotted your infringement a token \(cfr. section B\). If you have no tokens left, choose from P1 or P2.
 
