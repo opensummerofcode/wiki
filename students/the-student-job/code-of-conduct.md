@@ -139,11 +139,13 @@ The rest of the achievements will be voted by the coaches and the organisers:
 
 ### **§1 Freedom to change projects**
 
-If you don’t feel at ease in your team or you feel the project you are on is not suited for you, you are free to change projects once. If this is the case, please send an email to [astrid@openknowledge.be](mailto:astrid@openknowledge.be)  or talk to Astrid in person.
+If you don’t feel at ease in your team, or you feel there’s a serious mismatch with your project, we will try to switch you with someone from another project who has a similar role and skill set. Please send an email to astrid@openknowledge.be or talk to Astrid in person.
 
 ### **§2 Freedom of tools**
 
-Except for Git and SSH, you are free to use any software or hardware stack that you are accustomed to. Our servers run Debian and are set up with a LAMP stack by default.
+Except for Git and SSH, you are free to use any software or hardware stack that you are accustomed to.
+
+Our servers can run most Linux distributions you’d want to use. You can use them to set up and any technology stack best suited to your project. All we need is your SSH key and you can set things up yourself.
 
 ### **§3 Freedom to learn**
 
