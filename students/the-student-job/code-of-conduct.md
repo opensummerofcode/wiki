@@ -39,15 +39,16 @@ We have strict rules for the location:
 
 If you cannot work 8 hours during a certain day, you should mail [astrid@openknowledge.be](mailto:astrid@openknowledge.be) at least 2 days in advance \(cases of emergency excluded\).
 
-### **§4 Programming**
+### **§4 Your work**
 
 1. You will document everything. All documentation has to be written in English.
-2. You will write code to the best of your efforts.
+2. You will do your work to the best of your efforts.
 3. Your work is, unless, in some very rare cases stated otherwise, open source and will be shared with your neighbours, working towards a best-effort cross pollination policy.
 4. Projects are copyrighted 2019 by Open Knowledge Belgium, the author is you. At the top of every file there should be a copyright notice and author notice, before committed to the GIT repository.
-5. All PHP projects use the PSR-2 code standard. More info @ [https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md). For other programming languages, coding standards must be followed.
-6. Your code should not allow SQL-injection, XSS-ing, etc
-7. Whenever you’re about to write a 300+ line file, you first ask yourself whether you would need a rewrite and if you don’t think so, you ask the permission to commit the file from a dev coach.
+5. If you find yourself stuck with work for more than 2 hours, you will ask for help.
+6. All PHP projects use the PSR-2 code standard. More info @ [https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md). For other programming languages, coding standards must be followed.
+7. Your code should not allow SQL-injection, XSS-ing, etc
+8. Whenever you’re about to write a 300+ line file, you first ask yourself whether you would need a rewrite and if you don’t think so, you ask the permission to commit the file from a dev coach.
 
 ### **§5 You’re an ambassador**
 
@@ -76,7 +77,7 @@ The board members of Open Knowledge Belgium and the freelancers are the enforcer
 
 ## B. oSoc Tokens or "Lives"
 
-![Give each other a chance to learn and create something meaningful together.](../../.gitbook/assets/screenshot-2019-06-18-at-15.11.39.png)
+![Our osoc tokens look like a yellow-hearted coin](../../.gitbook/assets/screenshot-2019-06-30-at-13.37.13.png)
 
 At the beginning of oSoc, you'll be given a set of tokens. This can be a set of lollipops \(don't eat them yet\), badges, dices, ...
 
@@ -89,7 +90,7 @@ These are your oSoc lives. They can be used for two things:
   * Enjoy the help, and the giving.
 * Bailing you out of a punishment — see punishments in section B.
 
-If you do not have any tokens left, and still need help: offer your expertise to give feedback or help out the another person in return. Or just ask really nice.
+If you do not have any tokens left, and still need help: offer your expertise to give feedback or help out another person in return. Or just ask really nice.
 
 ## **C. Punishments**
 
