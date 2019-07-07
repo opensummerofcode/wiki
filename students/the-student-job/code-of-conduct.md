@@ -153,7 +153,7 @@ Our servers can run most Linux distributions you’d want to use. You can use th
 
 ### **§4 Freedom to work whenever you’re most productive**
 
-You are requested to attend oSoc 8 hours a day, which you are free to choose from the hours the location is open. As long as you are capable to deliver at every milestone, you’re safe.
+You are requested to attend oSoc 8 hours a day, which you are free to choose from the hours the location is open. As long as you are capable to deliver at every milestone and you're there when your team or client needs you, you’re safe.
 
 ### **§5 Freedom of speech**
 
