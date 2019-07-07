@@ -4,7 +4,7 @@ description: This is how we do it.
 
 # oSoc Code of Conduct
 
-The code of conduct applies to all attendees of open Summer of code, paid and unpaid, except for the enforcers \(cf. section A, paragraph 8\). Please read these rules carefully. If you infringe on one of them, you must fulfil a task from the punishments section, C.
+The code of conduct applies to all attendees of open Summer of code, paid and unpaid, except for the enforcers \(cf. section A, paragraph 9\). Please read these rules carefully. If you infringe on one of them, you must fulfil a task from the punishments section, C.
 
 No worries, we also have an achievements section. When we think you did a great job, there are some props to earn.
 
@@ -61,36 +61,34 @@ If you cannot work 8 hours during a certain day, you should mail [astrid@openkno
 1. All official communication, documentation and so on has to be done in English. You are free to speak your native language when talking to your neighbour. From the moment you’re in a group with someone who does not speak the same language, you switch to English.
 2. Our communication manager and coaches are responsible for the general management across and between the different projects. When they ask you to do something, you drop all work and help them in a best-effort manner.
 
-### **§7 Blog**
+### **§7 What's in a name**
+
+1. You must refer to our event as \#oSoc19 or “open Summer of code”
+2. The “open Summer of code” is written with one capital S. All other letters are lowercase \(except in case of the beginning of a sentence\). Always.
+
+### **§8 Blog**
 
 1. You are encouraged to write a blog post or vlog about the project you’re working on during the open Summer of code. Ask our communication manager about it.
 2. As said before, all communication happens in English, therefore also the blog/vlog. We don’t expect complete articles or movies, to explain the progress of your project is enough. Feel free to ask for help from our communication and project managers.
 3. People like pictures, don’t be afraid to take photographs or add some images to the blog post or online messages.
 
-### **§8 Enforcers**
+### **§9 Enforcers**
 
-The board members of Open Knowledge Belgium and the freelancers are the enforcers of this code of conduct.
+The [board members of Open Knowledge Belgium](http://be.okfn.org/okbe/) and the coaches \(not student coaches\) are the enforcers of this code of conduct.
 
 1. The enforcers are above this code of conduct; they cannot be punished.
 2. The board members of Open Knowledge Belgium are free to change the code of conduct at any time. When changes take place, all open Summer of code members will be informed. The last, true, version of the code of conduct is available at [https://help.osoc.be/global/students/the-student-job/code-of-conduct](https://help.osoc.be/global/students/the-student-job/code-of-conduct).
 3. Coaches, as mentioned in **section D**, can enforce the code of conduct. When in doubt, you can contest charges from a coach to someone of the board.
 
-## B. oSoc Tokens or "Lives"
+## B. oSoc Tokens
 
 ![Our osoc tokens look like a yellow-hearted coin](../../.gitbook/assets/screenshot-2019-06-30-at-13.37.13.png)
 
-At the beginning of oSoc, you'll be given a set of tokens. This can be a set of lollipops \(don't eat them yet\), badges, dices, ...
+At the beginning of oSoc, you'll be given a set of tokens. These are your oSoc lives. They can be used for two things:
 
-These are your oSoc lives. They can be used for two things:
-
-* Asking help or feedback from an other student.
-  * Search for the student that has the skill you need to fix your problem, or that can give you the right feedback.
-  * Ask if that student can help you. The student must help you, or give a \(reasonable\) time frame when they can help you out.
-  * Offer them your token.
-  * Enjoy the help, and the giving.
+* Showing respect.
+* Showing gratitude.
 * Bailing you out of a punishment — see punishments in section B.
-
-If you do not have any tokens left, and still need help: offer your expertise to give feedback or help out another person in return. Or just ask really nice.
 
 ## **C. Punishments**
 
