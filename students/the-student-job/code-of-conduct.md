@@ -8,7 +8,7 @@ The code of conduct applies to all attendees of open Summer of code, paid and un
 
 No worries, we also have an achievements section. When we think you did a great job, there are some props to earn.
 
-## **A Code of Conduct**
+## **A. Code of Conduct**
 
 ![Motivation &amp; Hard Work!](../../.gitbook/assets/screenshot-2019-06-18-at-15.11.32.png)
 
@@ -80,17 +80,7 @@ The [board members of Open Knowledge Belgium](http://be.okfn.org/okbe/) and the 
 2. The board members of Open Knowledge Belgium are free to change the code of conduct at any time. When changes take place, all open Summer of code members will be informed. The last, true, version of the code of conduct is available at [https://help.osoc.be/global/students/the-student-job/code-of-conduct](https://help.osoc.be/global/students/the-student-job/code-of-conduct).
 3. Coaches, as mentioned in **section D**, can enforce the code of conduct. When in doubt, you can contest charges from a coach to someone of the board.
 
-## B. oSoc Tokens
-
-![Our osoc tokens look like a yellow-hearted coin](../../.gitbook/assets/screenshot-2019-06-30-at-13.37.13.png)
-
-At the beginning of oSoc, you'll be given a set of tokens. These are your oSoc lives. They can be used for two things:
-
-* Showing respect.
-* Showing gratitude.
-* Bailing you out of a punishment — see punishments in section B.
-
-## **C. Punishments**
+## **B. Punishments**
 
 ![Challenge &amp; support each other, to get the best of each other.](../../.gitbook/assets/screenshot-2019-06-18-at-15.19.30.png)
 
@@ -98,9 +88,19 @@ When you infringe on one of the rules, you must choose one punishment.
 
 * P1: Buy drinks for the team of the person that spotted your infringement — and yourself. Drink it together.
 * P2: Get ice cream for the team of the person that spotted your infringement — and yourself. Brain freeze together.
-* P3: Give the person that spotted your infringement a token \(cfr. section B\). If you have no tokens left, choose from P1 or P2.
+* P3: Give the person that spotted your infringement a token, to thank them \(cfr. section B\). If you have no tokens left, choose from P1 or P2.
 
 Infringing  on one of the rules multiple times does not grant you remission at any time.
+
+## C. oSoc Tokens
+
+![Our osoc tokens look like a yellow-hearted coin](../../.gitbook/assets/screenshot-2019-06-30-at-13.37.13.png)
+
+At the beginning of oSoc, you'll be given a set of tokens. These are your oSoc lives. They can be used for three things:
+
+* Showing respect.
+* Showing gratitude.
+* Bailing you out of a punishment — see punishments in section B.
 
 ## D. Achievements
 
