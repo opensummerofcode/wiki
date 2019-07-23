@@ -110,27 +110,32 @@ There are lots of achievements to obtain. Here’s a hint on what we’re scorin
 
 You'll be asked to vote for your fellow students, for the following achievements:
 
-* A1: GitWizard = Wizard of contributions & commits
-* A2: BlogMaster = Master of the digital written word
-* A3: The Dribbbler = Their designs are dripping in gold & usability glitter
-* A4: Multilingual = Knows so many \(code\) languages!
-* A5: Presentator = You are a true Erlich Bachmann
+1. GitWizard = Wizard of contributions & commits
+2. BlogMaster = Master of the digital written word
+3. The Dribbbler = Their designs are dripping in gold
+4. The People Whisperer = The U in UX. Such user friendly designs
+5. The Presentator = A true Erlich Bachmann
+6. The Investigator = Nobody can keep a secret from them — their research skills are incredible!
+7. Santa's Little Helper = They're always here to help out people, even if those people not in their team
+8. Multilingual Beep Beep = Uses so many code languages
+9. Multilingual Human = Uses so many human languages
+10. The Generalist = Knows something about everything
+11. The CEO = A young Larry Page
+12. The Apprentice = Learner of skills and magic
+13. The Carebear = They take care of their team
+14. Little Sunshine= Always look on the bright side of life
+15. Early Bird = FIRST
+16. The Vampire = Feels much better working at night
+17. Determinator = You've got your eyes on the prize, dedicated to get to that deadline and you make every minute count
+18. The Motivator = Whenever we're down, we call on you our friend!
+19. Silent But Deadly = The driving but quiet force
+20. Ms./Mr. Propre = You reinvented the clean desk policy
+21. MVP = We’ll recommend the s\*\*t out of you afterwards
 
 Some achievements you can only get by chance:
 
-* A6: The Punisher = Got the most tokens left. Or you're wonderful at helping people, or you're very good at spotting infringements...
-* A7: The Rascal = Got the least amount of tokens left. Or you actually _got the guts_ to go out and ask for help unlike your colleagues, or you were a true rule "bender"...
-* A8:  Bingo! = Because Bingo
-
-The rest of the achievements will be voted by the coaches and the organisers:
-
-* A9: The Apprentice = Learner of skills and magic
-* A10 The Carebear = You take care of your team. You could've been a coach.
-* A11: Little Sunshine= Always look on the bright side of life
-* A12: Early Bird = When are you not here?
-* A13: Determinator = You've got your eyes on the prize, dedicated to get to that deadline and you make every minute count.
-* A14: Mr. Propre = You reinvented the clean desk policy
-* A15: MVP = We’ll recommend the s\*\*t out of you afterwards
+1. The Punisher = Got the most tokens left. Or you're wonderful at helping people, or you're very good at spotting infringements...
+2. The Rascal = Got the least amount of tokens left. Or you actually _got the guts_ to go out and ask for help unlike your colleagues, or you were a true rule "bender"...
 
 ## **E. Your freedoms**
 
