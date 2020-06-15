@@ -8,7 +8,7 @@
   * [Apply](students/being-a-student-at-osoc/apply.md)
   * [Attend](students/being-a-student-at-osoc/attend.md)
 * [The Student Job](students/the-student-job/README.md)
-  * [oSoc Code of Conduct](students/the-student-job/code-of-conduct.md)
+  * [Code of Conduct](students/the-student-job/code-of-conduct.md)
   * [Study material](students/the-student-job/study-material.md)
 * [Salary & Reimbursements](students/reimbursements.md)
 
@@ -32,6 +32,7 @@
 ## Tools
 
 * [Discord](tools/discord/README.md)
+  * [Discord etiquette](tools/discord/discord-etiquette.md)
   * [Setting your nickname](tools/discord/setting-your-nickname.md)
   * [Managing notifications](tools/discord/managing-notifications.md)
 

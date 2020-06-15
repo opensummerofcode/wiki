@@ -12,7 +12,7 @@ You can download the discord desktop app at [https://discord.com/](https://disco
 
 Discord also has an [iOS app](https://apps.apple.com/us/app/discord/id985746746) and [Android app](https://play.google.com/store/apps/details?id=com.discord&hl=en).
 
-Once you have your account and application ready - [join the \#osoc server](https://discord.gg/PJrDvcb).
+Once you have your account and application ready - [join the \#osoc20 server](https://discord.gg/PJrDvcb).
 
-## Getting started
+
 
