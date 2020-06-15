@@ -29,6 +29,12 @@
 * [Partners](coaches/partners.md)
 * [Salary & Reimbursements](coaches/salary-and-reimbursements.md)
 
+## Tools
+
+* [Discord](tools/discord/README.md)
+  * [Setting your nickname](tools/discord/setting-your-nickname.md)
+  * [Managing notifications](tools/discord/managing-notifications.md)
+
 ## partners
 
 * [Being a partner at oSoc](partners/partners/README.md)
