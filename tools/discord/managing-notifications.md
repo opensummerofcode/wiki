@@ -14,3 +14,5 @@ On Discord, you have fine-grained control over which notifications you receive a
 
 ![](../../.gitbook/assets/notifications-your-project-only.gif)
 
+To keep getting notifications without getting a notification sound or your operating system's notification message pop-up, you can [turn on Do Not Disturb mode](https://support.discord.com/hc/en-us/articles/227779547-Changing-Online-Status).
+
