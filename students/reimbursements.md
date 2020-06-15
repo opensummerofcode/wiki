@@ -3,11 +3,8 @@
 ## Pay
 
 **Belgium**  
-Student: You'll be making €10 an hour.  
-Student coach: You'll be making €15 an hour.
-
-**Spain**  
-Because we're still in an early phase, you'll be volunteering for now — as you're investing in a future!
+Student: You'll be making €10.5 an hour.  
+Student coach: You'll be making €12 an hour.
 
 ## Personal expenses
 
