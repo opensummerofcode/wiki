@@ -90,7 +90,7 @@ You are requested to attend osoc 8 hours a day, which you are free to choose.
 
 Make sure you attend planned activities with teams, clients and in group  \(such as streams, meetings and standups\) as communicated in the calendar and by your coach.
 
- As long as you are capable to deliver at every milestone and you're there when your team or client needs you, you’re safe.
+As long as you are capable to deliver at every milestone and you're there when your team or client needs you, you’re safe.
 
 ### **§5 Freedom of speech**
 
