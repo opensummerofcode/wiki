@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Open summer of code](README.md)
+* [Code of Conduct](code-of-conduct-1.md)
+* [The Osoc Way of Work & Play](code-of-conduct.md)
 
 ## Students
 
@@ -8,7 +10,6 @@
   * [Apply](students/being-a-student-at-osoc/apply.md)
   * [Attend](students/being-a-student-at-osoc/attend.md)
 * [The Student Job](students/the-student-job/README.md)
-  * [Code of Conduct](students/the-student-job/code-of-conduct.md)
   * [Study material](students/the-student-job/study-material.md)
 * [Salary & Reimbursements](students/reimbursements.md)
 
@@ -29,13 +30,6 @@
 * [Partners](coaches/partners.md)
 * [Salary & Reimbursements](coaches/salary-and-reimbursements.md)
 
-## Tools
-
-* [Discord](tools/discord/README.md)
-  * [Discord etiquette](tools/discord/discord-etiquette.md)
-  * [Setting your nickname](tools/discord/setting-your-nickname.md)
-  * [Managing notifications](tools/discord/managing-notifications.md)
-
 ## partners
 
 * [Being a partner at oSoc](partners/partners/README.md)
@@ -43,6 +37,13 @@
   * [Attend](partners/partners/attend.md)
 * [The Partner's Job](partners/the-partners-job.md)
 * [Projects](partners/projects.md)
+
+## Tools
+
+* [Discord](tools/discord/README.md)
+  * [Discord etiquette](tools/discord/discord-etiquette.md)
+  * [Setting your nickname](tools/discord/setting-your-nickname.md)
+  * [Managing notifications](tools/discord/managing-notifications.md)
 
 ## Organisers
 

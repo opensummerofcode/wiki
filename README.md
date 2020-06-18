@@ -7,21 +7,13 @@ description: >-
 
 # Open summer of code
 
-oSoc is for anyone who brings motivation, enthusiasm and talent to the table. This wiki has been brought to life to channel all of that energy, and create something valuable in the 4 weeks we have together!
+![You made it! We are excited to have you here.](.gitbook/assets/screenshot-2020-06-18-at-14.41.43.png)
 
-{% hint style="info" %}
-This wiki is a _guideline_. You're always free to break the rules; as long as you're trying to make it a better experience!
-{% endhint %}
-
-We’re so happy you want to be part of this community — and that you’re building it together, to what it is today. Thank you for that.
+This wiki has been created as a _guideline_ for participants of osoc: students, coaches, organisations and volunteers.
 
 {% hint style="info" %}
 🚧 This wiki is _always_ under construction — if something is missing or wrong, please contact us at info@osoc.be; and we'll make sure to fix it. 🚧
 
-You are welcome to add a contribution as well!
+You are welcome to contribute as well!
 {% endhint %}
-
-
-
-
 
