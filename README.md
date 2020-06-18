@@ -1,7 +1,7 @@
 ---
 description: >-
-  Open Summer of Code is one month of open innovation in which students create
-  real world projects with the help of experienced coaches for actual
+  During the month of July, teams of highly motivated students bring innovative
+  projects to life together with the help of experienced coaches, for wonderful
   organisations.
 ---
 
