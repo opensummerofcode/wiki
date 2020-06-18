@@ -16,7 +16,7 @@ This wiki is a _guideline_. You're always free to break the rules; as long as yo
 We’re so happy you want to be part of this community — and that you’re building it together, to what it is today. Thank you for that.
 
 {% hint style="info" %}
-🚧 This wiki is still under construction — if you couldn't find something, please contact us at info@osoc.be; and we'll make sure to add it. 🚧
+🚧 This wiki is _always_ under construction — if something is missing or wrong, please contact us at info@osoc.be; and we'll make sure to fix it. 🚧
 
 You are welcome to add a contribution as well!
 {% endhint %}
