@@ -7,9 +7,11 @@ description: >-
 
 # Open summer of code
 
-![You made it! We are excited to have you here.](.gitbook/assets/screenshot-2020-06-18-at-14.41.43.png)
+![You made it, we&apos;re so happy you are here!](.gitbook/assets/screenshot-2020-06-18-at-14.41.43%20%281%29.png)
 
 This wiki has been created as a _guideline_ for participants of osoc: students, coaches, organisations and volunteers.
+
+You're always free to break the rules; as long as you're trying to make it a better experience!
 
 {% hint style="info" %}
 🚧 This wiki is _always_ under construction — if something is missing or wrong, please contact us at info@osoc.be; and we'll make sure to fix it. 🚧
