@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Open summer of code](README.md)
-* [Code of Conduct](code-of-conduct-1.md)
-* [The Osoc Way of Work & Play](code-of-conduct.md)
+* [Code of Conduct](code-of-conduct.md)
+* [The Osoc Way of Work & Play](way-of-work.md)
 
 ## Students
 
