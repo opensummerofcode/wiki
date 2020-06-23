@@ -52,7 +52,7 @@
   * [Selection](organisers/how-to-set-up-osoc-for-your-country/selection.md)
   * [Practical](organisers/how-to-set-up-osoc-for-your-country/practical.md)
   * [Informing people](organisers/how-to-set-up-osoc-for-your-country/informing-people.md)
-* [4 weeks of well-organised serendipity](organisers/calendar/README.md)
+* [On-site editions: 4 weeks of well-organised serendipity](organisers/calendar/README.md)
   * [Kick-off day 1 \(or chaos day\)](organisers/calendar/kick-off-day-1.md)
   * [Hackathon day 2 — 4](organisers/calendar/hackathon-day-2-4.md)
   * [Build — week 2](organisers/calendar/build-week-2.md)
