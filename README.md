@@ -26,12 +26,14 @@ You're always free to break the rules; as long as you're trying to make it a bet
 
 ### Students
 
-Oof, you're in for a treat!
+Oof, you're in for a treat! We are super excited to meet you on 6 July...
 
 * If you have any practical questions, head over to [Practical: When, where, how long, food, sick days, ...](students/being-a-student-at-osoc/attend.md) and [Salary & Reimbursements](students/reimbursements.md)
 * Wondering what you'll be doing?
   * Get a broad idea at [Practical: When, where, how long, food, sick days, ...](students/being-a-student-at-osoc/attend.md)
   * Go to the [calendar](calendar-remote-edition/) to get a more detailed view of what we'll do do 
+
+See you soon!
 
 ![](.gitbook/assets/screenshot-2020-07-01-at-00.07.27.png)
 
@@ -48,13 +50,15 @@ Woah, we're so glad we can count on you and your expertise!
 
 Get your practical information at [Practical: When, where, sick days, ...](coaches/coaching/attend.md) and [Salary and reimbursements](coaches/salary-and-reimbursements.md).
 
+Any tips or recommendations; we love to hear from you [info@osoc.be](mailto:info@osoc.be)!
+
 ![](.gitbook/assets/screenshot-2020-07-01-at-00.07.34.png)
 
 ### Organisations, partners, clients
 
-Without you, we wouldn't be able to do this!
+Without you, we wouldn't be able to do this! Find more info about what you can expect during osoc at [The Partner's Job](partners/the-partners-job.md).
 
-Find more info about what you can expect during osoc at [The Partner's Job](partners/the-partners-job.md)
+If you have any tips, recommendations or questions; we love to hear from you [info@osoc.be](mailto:info@osoc.be)!
 
 ![](.gitbook/assets/screenshot-2020-07-01-at-00.07.44.png)
 
