@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to osoc!](README.md)
+* [You're here!](README.md)
 * [Code of Conduct](code-of-conduct.md)
 * [The Osoc Way of Work & Play](way-of-work.md)
 * [Calendar Remote Edition \(BE\)](calendar-remote-edition/README.md)
