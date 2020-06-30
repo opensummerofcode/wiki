@@ -12,7 +12,11 @@ This is a nice opportunity to extend your skill-set. Student coaches are aimed t
 
 You'll be getting a bit more responsibility. For instance, you might be part of a team with a coach that is not available all the time. This means, when that coach is not around, you'll be responsible to motivate the team and help them out.
 
-Because you have some more experience, we recommend going around and share the knowledge you have with other teams. You'll get to expand our network and meet new people, and help out others. You can have a pet-project on the side, and help others in your spare time — but keep in mind, your team needs you most.
+Because you have some more experience, we recommend going around and share the knowledge you have with other teams. You'll get to expand our network and meet new people, and help out others.
+
+### Ask for help
+
+If you need assistance, ideas or guidance; make sure you contact the other \(student\) coaches!
 
 ### A unique position
 

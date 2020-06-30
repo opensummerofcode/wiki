@@ -13,7 +13,6 @@ description: >-
 * [Creating a process and structure for your team](tasks.md#creating-a-process-and-structure-for-your-team)
 * [Arbiter of quality](tasks.md#arbiter-of-quality)
 * [Client meetings & contact](tasks.md#client-meetings-and-contact)
-* Buddy coaches
 * [Know your fellow \(student\) coaches](tasks.md#knowing-your-fellow-student-and-assistant-coaches)
 * [Helping out other teams](tasks.md#helping-out-other-teams)
 
@@ -66,40 +65,21 @@ Keep your client up to date, and don't leave them in the dark. A client needs to
 
 You can delegate the communication, but make sure the students run it past you before they send it. Most students do not have a lot of experience communicating in a professional context.
 
-At the end of Osoc, you'll also hand in a big **delivery document** with your students, that contains all the work. We'll share a link during Osoc.
+At the end of Osoc, you'll also hand in a big [delivery document](../../how-to-deliver-like-a-pro.md) with your students, that contains all the work.
 
-### Buddy coaches
+### Half-time coaches
 
-Most projects have two coaches, called buddies. Your buddy is here to make sure you have someone to bounce ideas off and make decisions faster. Your buddy is your ally, and you can prepare for battle together.
+If you are a half time coach, there are two scenario's
 
-* Keep your buddy up-to-date about what happened, and make sure there's a hand-over when the you're not available \(tasks, problems, progress\). You can hand over the information yourself, or delegate it to your students in a structured way.
+1. You have a strong team with one or more alumni and/or a student coach that can take over tasks
+2. You have a buddy coach that will take on the other half of the project
+
+Your buddies and alumni/student coaches are here to make sure you have someone to bounce ideas off and make decisions faster. They are your ally, and you can prepare for battle together.
+
+* Keep your buddies/alumni/student coaches up-to-date about what happened, and make sure there's a hand-over when the you're not available \(tasks, problems, progress\). You can hand over the information yourself, or delegate it to your students in a structured way.
 * Maintain structure and quality for the team together
 
-If you do not have a buddy, you can always ask help from other coaches or the lead coach!
-
-#### Lead or Assistant Coach
-
-Most of you are be assigned to two projects, whether you're full-time or a half-time coach. You'll be the _lead_ coach for one project \(your buddy will be the assistant\), and the _assistant_ coach for an other \(your buddy will be the lead\). Leads and assistants are usually paired to have a balanced skillset on the team.
-
-**The Lead Coach**
-
-The lead coach sets out the main structure.
-
-* Main point of contact for team
-* Provide structure \(standups, brainstorms, scoping sessions\)
-* Main client contact \(on days they are present\)
-* Take care of communication \(or delegate to assistant coach when not present\)
-* Be good to the buddy coach :-\)
-
-**The Assistant Coach**
-
-The assistant coach makes sure that when the lead coach isn't present, the team has someone to go to. Also, when there's a problem, you can ping-pong with your buddy coach \(or the coach of the coaches\) to figure out things. You can lean on each other, and learn from each other!
-
-* Take over lead tasks when lead is not present
-* Be a sounding board \(and vice versa\)
-* Provide expert advice from own field and skill set
-
-For more information about how to prepare for battle together, visit the [Buddy Coaches Battle Prep](battle-prep.md) section.
+If you need to check in with someone else, you can always ask help from other coaches or the lead coach!
 
 ### Knowing your fellow \(student\) coaches
 

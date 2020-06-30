@@ -30,23 +30,7 @@ Your pitch should include:
 
 ## 13:00 \[team only\] Documentation, site, handover document, ... 
 
-Make sure you have everything in your team folder, described in the handover document. [https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK](https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK)
-
-Step 1: Go to the cloud **folder for students** [https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK](https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK)
-
-![Go to the cloud folder for students](../../.gitbook/assets/osoc-deliverables-2020.001%20%281%29.jpeg)
-
-Step 2: Go to **Deliverables**
-
-![Go to deliverables](../../.gitbook/assets/osoc-deliverables-2020.002.jpeg)
-
-Step 3: find the deliverables **checklist**
-
-![Open the checklist online \(do not download\)](../../.gitbook/assets/osoc-deliverables-2020.003%20%281%29.jpeg)
-
-Step 4: Start **checking** boxes!
-
-![Start harassing your team&#x2028;with love&#xA0;&#x1F618;](../../.gitbook/assets/osoc-deliverables-2020.004%20%281%29.jpeg)
+Don't worry, we'll teach you how to deliver like a pro \[[tutorial](../../how-to-deliver-like-a-pro.md)\]!
 
 ## 17:00 have a nice day 🥳
 

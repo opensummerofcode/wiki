@@ -12,11 +12,10 @@ Welcome to open summer of code!
 
 * What is osoc?
 * What is Open Knowledge Belgium?
-* How does osoc work?
-* What’s the code of conduct?
+* What’s [the code of conduct](../../code-of-conduct.md)?
+* How does [osoc work](../../way-of-work.md)?
 * Calendar overview
-* Deliverables \(handover doc and checklist found on [https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK](https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK)\) 
-* Agenda of the day
+* Deliverables \[[tutorial](../../how-to-deliver-like-a-pro.md)\]
 
 ## **10:00 \[team only breakout\] Get to know your team**
 
@@ -31,30 +30,32 @@ Who’s who & what do you do?
 What are we going to do?
 
 * Study the briefing
+  * You can find the briefing in [the folder of your team](https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK)
 * Define goal
-* Summarise project
+* Summarise project \(± 200 words\) and [send it over by adding it to project descriptions](https://cloud.openknowledge.be/f/275729)
 * Compose list of questions for partner/client
+  * You can compose it together in [the folder of your team under "email preparations"](https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK)
 
 ## 12:00 Lunch 😍
 
-## **13:00 \[team only breakout\] Team Crest & Pitch Prep**
+## **13:00 \[team only breakout\] Team & Pitch Prep**
 
 Prepare to introduce yourselves to the other teams!
 
-* Think of a team name that reflects your members and project
-* Create a crest together
-* Write a summary of the project
-* Take a selfie with your osoc shirt
-* Send over team name, picture of each team member \(students and coaches\), project description and crest.
-* **Create short pitch \(to introduce the team and project, no slides needed\)**
+* Think of a **team name** that reflects your members and project
+  * Add it to the[ project descriptions](https://cloud.openknowledge.be/f/275729)
+* Create a **crest** together \[[Find out how](../../how-to-create-crests.md)\]
+  * Share the crest in the ["crests" folder](https://cloud.openknowledge.be/s/i8FjdnJc3FjkjN8), name it after your _project name_
+* Send over **a picture** of each team member \(take a selfie with students and coaches\)
+  * Create a folder called "team pictures" [in your team folder](https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK)
 
-## **15:30 \[all teams\] Live stream team presentations**
-
-Teams present themselves and their projects. One team member pitches the challenge you will face this month. Your pitch should include:
+**Create short pitch \(to introduce the team and project, no slides needed\).** You can base yourself on the project description you made. Decide who pitches.
 
 * Team introduction \(coaches and students\)
 * Client introduction
-* Pitch the project
+* Pitch the project goal
+
+## **15:30 \[all teams\] Live stream team presentations**
 
 Enjoy watching the other teams!
 

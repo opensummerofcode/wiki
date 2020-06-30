@@ -27,18 +27,16 @@
 
 ## Students
 
-* [Being a student at oSoc](students/being-a-student-at-osoc/README.md)
-  * [Apply](students/being-a-student-at-osoc/apply.md)
-  * [Attend](students/being-a-student-at-osoc/attend.md)
-* [The Student Job](students/the-student-job/README.md)
-  * [Study material](students/the-student-job/study-material.md)
+* [Applying as a student at osoc](students/apply.md)
+* [Being a student at osoc](students/being-a-student-at-osoc/README.md)
+  * [Practical: When, where, how long, food, sick days, ...](students/being-a-student-at-osoc/attend.md)
+* [The Student Job](students/the-student-job.md)
 * [Salary & Reimbursements](students/reimbursements.md)
 
 ## Coaches
 
 * [Being a coach at oSoc](coaches/coaching/README.md)
-  * [Apply](coaches/coaching/apply.md)
-  * [Attend](coaches/coaching/attend.md)
+  * [Practical: When, where, sick days, ...](coaches/coaching/attend.md)
 * [The Coaching Job](coaches/the-coaching-job/README.md)
   * [Soft Skills & Expectations](coaches/the-coaching-job/soft-skills-and-expectations.md)
   * [Tasks](coaches/the-coaching-job/tasks.md)
@@ -46,7 +44,6 @@
   * [First-time coaches](coaches/the-coaching-job/first-time-coaches.md)
   * [Student coaches](coaches/the-coaching-job/student-coaches.md)
   * [Screening students](coaches/the-coaching-job/screening-students.md)
-  * [Reading material](coaches/the-coaching-job/reading-material.md)
 * [Projects](coaches/projects.md)
 * [Partners](coaches/partners.md)
 * [Salary & Reimbursements](coaches/salary-and-reimbursements.md)
@@ -65,6 +62,16 @@
   * [Discord etiquette](tools/discord/discord-etiquette.md)
   * [Setting your nickname](tools/discord/setting-your-nickname.md)
   * [Managing notifications](tools/discord/managing-notifications.md)
+* [NextCloud](tools/nextcloud.md)
+
+## Tutorials
+
+---
+
+* [How to Create Crests](how-to-create-crests.md)
+* [How to Deliver Like a Pro](how-to-deliver-like-a-pro.md)
+* [Publishing a Github Page](publishing-a-github-page.md)
+* [Study material](study-material.md)
 
 ## Organisers
 

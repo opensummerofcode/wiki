@@ -1,19 +1,18 @@
 # Partners
 
-## Partners visiting
+## Partners meetings
 
-Some partners might just become almost part of the team, while others will only drop by 2 or 3 times.
+Some partners might just become almost part of the team, while others will only meet 2 or 3 times.
 
-We do have set days for clients to visit. An example:
+We do have set days for client meetings. An example:
 
 * Every Tuesday, week 1 to 3
-  * Week 1: briefing and questions
-  * Week 2: presenting the result and findings from the hackathon
-  * Week 3: presenting progress
-* Tuesday in week 4 is optional
-  * If you need some more guidance
+  * Week 1, Tuesday: briefing and questions
+  * Week 2, Tuesday: presenting the result and findings from the hackathon
+  * Week 3, Monday: presenting progress
 * The Demo day
   * See the end result!
+* If you need more meetings, feel free to plan them!
 
 ## Communicating with partners
 
@@ -25,11 +24,13 @@ Apart from the meeting days \(see previous topic\), it's a good idea to keep the
 
 Depending on your team, you can send out the email, or you can have the team send out te email. Set up a google doc, so everyone can read and comment, and then let a student send it from the entire team.
 
-## Partners on your Slack channel
+## Partners on your Discord channel
 
-Only make partners join the slack if they ask and if you feel the students are comfortable with that.
+Only make partners join the Discord if they ask and if you feel the students are comfortable with that.
 
-When your partner does join your slack channel, it's recommended to create a separate slack room without your partner. This way you can discuss things internally when needed.
+When your partner does join your Discord channel, it's recommended to create a separate slack room without your partner. This way you can discuss things internally when needed.
+
+Do inform the coordinators of this decision up front, so we don't have any surprises.
 
 
 

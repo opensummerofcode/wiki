@@ -4,7 +4,7 @@ description: Week 1 — Day 2 — 4
 
 # Hackathon day 2 — 4
 
-## Structure
+## Example structure
 
 1. Teams prepare client meeting \(day 1 and 2\) - Get briefing from coach - Prepare questions and meeting
 2. Teams meet with client \(day 2\) - Ask questions, take notes, ask input

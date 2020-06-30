@@ -2,16 +2,15 @@
 
 Here's a non-exhaustive list of things you can do to prepare for battle. If you need any guidance, contact the organisation!
 
-If you have a buddy coach, you can go through this together. Not sure what to do as a coach, and with a buddy? Read all about [tasks](tasks.md) first.
+If you have a buddy coach, you can go through this together. Not sure what to do as a coach, and with half-time or student coaches? Read all about [tasks](tasks.md) first.
 
-## In case you have a buddy, get to know your buddy
+## In case you have a coach that coaches half-time with you, get to know each other!
 
 I don't know you, you don't know me.
 
-* What do you do for a living? What do you do in your spare time? Hobbies?
-* Tell your buddy what you're good at \(skills and soft-skills like development, scoping sessions, challenging people, ...\)
-* Tell your buddy what you need help with
-* Tell your buddy about your coaching experience
+* Tell them what you're good at \(skills and soft-skills like development, scoping sessions, challenging people, ...\)
+* Tell them what you need help with
+* Tell them about your coaching experience
 
 ## Decide on how you're going to break the ice with your students
 
@@ -26,6 +25,8 @@ Gather the team\(s\) you're leading. Play a game or have a list of questions ava
   * What is your top skill?
   * What is your favourite food?
   * What is _the one thing_ we should know about you?
+
+Need ideas? Drop a line in the discord coaches channel!
 
 ## Decide on project management and structure
 
@@ -47,25 +48,25 @@ How are you going to guide your students day to day? Some examples to take care 
   * GitHub? Kanban?
 * Will you let your non-devs work in GitHub as well? Who teaches them?
 
-## Decide on hand-over
+Need ideas? Drop a line in the discord coaches channel!
 
-When one of both coaches is not present, the other one needs to know what to do. Decide on how you're going to do that. Some possibilities:
+## Decide on hand-over when you're not there
+
+When you're not present, the other coach or your student coaches need to know what to do. Decide on how you're going to do that. Some possibilities:
 
 * Assign a student to talk about what has been done in a structured way, for instance by using "kanban"
 * Type it yourself, so the other coach can read it and have it close-by whenever they need it.
-* Perhaps also prepare some key elements your buddy coach needs to pay attention to when you're not here. For instance "Student A had trouble with this. Can you make sure to follow up on it?"
+* Perhaps also prepare some key elements your half-time or student coach needs to pay attention to when you're not here. For instance "Student A had trouble with this. Can you make sure to follow up on it?"
+
+Need ideas? Drop a line in the discord coaches channel!
 
 ## Pitch the project
 
-The lead coach has to present the project in the Slack channels once all students are in the channel. The lead should also pitch the project on the first day to all the students.
-
-Try it out on your buddy or an other coach, so they can have a smooth run!
-
-
+The  coach has to present the project in the Discord channels once all students are in the channel. The coach should also pitch the project on the first day to their students when they figure out what the project is about \([see calendar](../../calendar-remote-edition/)\).
 
 ## Go through the deliverables document
 
-This is an example delivery document for your teams \(do not change it\): [https://docs.google.com/spreadsheets/d/14Mecp0oCcfMNJipWnh4XROGbYHwBG\_KL0Zdm-Vrn6xc/edit?usp=drive\_web&ouid=116393943963382490089](https://docs.google.com/spreadsheets/d/14Mecp0oCcfMNJipWnh4XROGbYHwBG_KL0Zdm-Vrn6xc/edit?usp=drive_web&ouid=116393943963382490089)
+[About the deliverables \[tutorial\]](../../how-to-deliver-like-a-pro.md)
 
 You can do this together or separately, and discuss if you still have questions beforehand. Ask the organisation to clarify if needed!
 
@@ -73,7 +74,7 @@ You can do this together or separately, and discuss if you still have questions 
 
 Weekly scoping sessions and retrospects are crucial to finding out what you're going to build something, and if you're doing well as a team.
 
-At the end of Osoc you'll also give feedback to each individual, which you can prepare together. You can write some positive notes on a postcard too!
+At the end of osoc you'll also give feedback to each individual, which you can prepare together. You can write some positive notes on a postcard too!
 
 If you need any techniques, please contact the organisation, they are working on it now!
 

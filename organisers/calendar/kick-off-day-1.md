@@ -6,8 +6,8 @@ description: Week 1 — Day 1
 
 A more detailed agenda can be found on the website.
 
-Belgium: [https://2019.summerofcode.be/practical.html](https://2019.summerofcode.be/practical.html)  
-Spain: [https://2019.summerofcode.es/whoweare.html](https://2019.summerofcode.es/whoweare.html)
+Belgium: [https://summerofcode.be/practical.html](https://summerofcode.be/practical.html)  
+Spain: [https://online2020.summerofcode.es/agenda.html](https://online2020.summerofcode.es/agenda.html)
 
 ![An example of day of a lot of information](../../.gitbook/assets/screenshot-2019-06-17-at-21.48.08.png)
 
