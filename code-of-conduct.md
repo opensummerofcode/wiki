@@ -4,11 +4,15 @@ description: How we interact with each other
 
 # Code of Conduct
 
+![](.gitbook/assets/screenshot-2019-06-18-at-15.11.12.png)
+
 ### Our Pledge <a id="our-pledge"></a>
 
 We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+
+![](.gitbook/assets/screenshot-2019-06-18-at-15.11.25.png)
 
 ### Our Standards <a id="our-standards"></a>
 
@@ -28,6 +32,8 @@ Examples of unacceptable behavior include:
 * Publishing others’ private information, such as a physical or email address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
+![](.gitbook/assets/screenshot-2019-06-18-at-15.19.30.png)
+
 ### Scope <a id="scope"></a>
 
 This Code of Conduct applies to all students, student coaches, coaches, volunteers and organisations that are part of Open summer of code when interacting with each other and representing our community in public spaces.
@@ -37,6 +43,8 @@ This Code of Conduct applies to all students, student coaches, coaches, voluntee
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the coordinators responsible for enforcement at [info@osoc.be](mailto:info@osoc.be). All complaints will be reviewed and investigated promptly and fairly.
 
 Any reporters will remain anonymous.
+
+![](.gitbook/assets/screenshot-2019-06-18-at-15.11.18.png)
 
 ### Attribution <a id="attribution"></a>
 

@@ -1,8 +1,6 @@
 # Table of contents
 
-* [You're here!](README.md)
-* [Code of Conduct](code-of-conduct.md)
-* [The Osoc Way of Work & Play](way-of-work.md)
+* [Welcome to osoc!](README.md)
 * [Calendar Remote Edition \(BE\)](calendar-remote-edition/README.md)
   * [Week 1: Explore](calendar-remote-edition/week-1-explore/README.md)
     * [Day 1: Welcome \(to the Madness 😏\)](calendar-remote-edition/week-1-explore/day-1-welcome-to-the-madness.md)
@@ -24,6 +22,8 @@
     * [Day 2: Pitch pitch pitch](calendar-remote-edition/week-4-deliver/day-2.md)
     * [Day 3: Delivery Day](calendar-remote-edition/week-4-deliver/day-3.md)
     * [Day 4: Demo Day](calendar-remote-edition/week-4-deliver/day-4-demo-day.md)
+* [Code of Conduct](code-of-conduct.md)
+* [The Osoc Way of Work & Play](way-of-work.md)
 
 ## Students
 
