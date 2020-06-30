@@ -19,13 +19,13 @@ We are ambitious, but we have systems and a solid structure in place to make sur
 
 We do not work on Fridays, weekends or holidays!
 
-* View the calendar: [https://osoc.be/practical](https://osoc.be/practical)
-* Embed in your own calendar: [https://calendar.google.com/calendar/b/0?cid=bWlldGNsYWVzLmNvbV9oMXJzMzFhNzk4MDlyNzQyZTVscGRwZWdiZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t ](https://calendar.google.com/calendar/b/0?cid=bWlldGNsYWVzLmNvbV9oMXJzMzFhNzk4MDlyNzQyZTVscGRwZWdiZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t%20)
 * Detailed calendar
   * [Week 1](week-1-explore/)
   * [Week 2](week-2-build/)
   * [Week 3](week-3-build-more/)
   * [Week 4](week-4-deliver/)
+* View the calendar: [https://osoc.be/practical](https://osoc.be/practical)
+* Embed in your own calendar: [https://calendar.google.com/calendar/ical/mietclaes.com\_h1rs31a79809r742e5lpdpegbg%40group.calendar.google.com/public/basic.ics](https://calendar.google.com/calendar/ical/mietclaes.com_h1rs31a79809r742e5lpdpegbg%40group.calendar.google.com/public/basic.ics) \(or google calendar: [https://calendar.google.com/calendar/b/0?cid=bWlldGNsYWVzLmNvbV9oMXJzMzFhNzk4MDlyNzQyZTVscGRwZWdiZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t ](https://calendar.google.com/calendar/b/0?cid=bWlldGNsYWVzLmNvbV9oMXJzMzFhNzk4MDlyNzQyZTVscGRwZWdiZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t%20)\)
 
 ## Spain edition
 
