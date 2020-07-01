@@ -42,11 +42,11 @@ Photo by [Ihtesham Ismail](https://unsplash.com/@ihtesham94?utm_source=unsplash&
 
 ## Take care of your significant other\(s\)
 
-You have a buddy, and the other coaches for a reason. You're not alone, and make sure the other coaches don't feel alone either.
+There are other coaches around when you need help. You're not alone, and make sure the other coaches don't feel alone either.
 
 * Help other coaches out
-* Ask if your buddy is okay and needs help
-* Keep your buddy and lead up-to-date, and make sure there's a hand-over when the other coach is not available
+* If you're a half-time coach, make sure you check in with your other half or student coach\(es\).
+  * Keep them up-to-date, and make sure there's a hand-over when the other coach is not available
 
 ![You and your buddy coach discussing coaching tactics](../../.gitbook/assets/gwen-weustink-95871-unsplash.jpg)
 
