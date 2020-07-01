@@ -17,5 +17,5 @@ Everybody needs to start somewhere. Not every coach knows what to do from the st
 
 In Belgium, you have a coach of coaches to help you out, in Spain — please contact your organisation.
 
-Feel free to reach out if you need some more information! Ping @m on slack, or mail [osoc@miet.be](mailto:osoc@miet.be).
+Feel free to reach out if you need some more information! Ping Miet on Discord, or mail[ miet@openknowledge.be](mailto:miet@openknowledge.be).
 
