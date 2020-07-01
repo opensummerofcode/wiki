@@ -2,9 +2,9 @@
 
 Here's a non-exhaustive list of things you can do to prepare for battle. If you need any guidance, contact the organisation!
 
-If you have a buddy coach, you can go through this together. Not sure what to do as a coach, and with half-time or student coaches? Read all about [tasks](tasks.md) first.
+If you are a half-time coach and you have an other half-time coach or student coaches in your team, you can go through this together. Not sure what to do as a coach, and with half-time or student coaches? Read all about [tasks](tasks.md) and [Soft Skills & Expectations](soft-skills-and-expectations.md) first.
 
-## In case you have a coach that coaches half-time with you, get to know each other!
+## In case you have a coach that coaches half-time with you, or have a student coach to help you out, get to know each other!
 
 I don't know you, you don't know me.
 
@@ -43,7 +43,6 @@ How are you going to guide your students day to day? Some examples to take care 
     * Type: Enhancement, bug, question
     * Priority: High, medium, low, wont-fix ...
     * State of todo: Todo, In Progress, Blocked, To review, "Bad issue" \(not well-written, nobody understands\), question, invalid, duplicate, help wanted, ...
-    * 
 * Where do you track issues?
   * GitHub? Kanban?
 * Will you let your non-devs work in GitHub as well? Who teaches them?
@@ -62,7 +61,7 @@ Need ideas? Drop a line in the discord coaches channel!
 
 ## Pitch the project
 
-The  coach has to present the project in the Discord channels once all students are in the channel. The coach should also pitch the project on the first day to their students when they figure out what the project is about \([see calendar](../../calendar-remote-edition/)\).
+The  coaches will present the project in their Discord project channels once all students are in the channel. The coach should also pitch the project on the first day to their students when they figure out what the project is about \([see calendar](../../calendar-remote-edition/)\). 
 
 ## Go through the deliverables document
 
