@@ -47,9 +47,7 @@ A non-exhaustive list of examples:
 * Will they conduct interviews?
 * How does that feedback roll back to the team?
 
-
-
-
+Go to [How to manage a team](../../how-to-manage-a-team.md) for tips and tricks! Something missing? Let us know.
 
 ### Arbiter of quality
 
