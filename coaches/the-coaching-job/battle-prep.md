@@ -26,7 +26,9 @@ Gather the team\(s\) you're leading. Play a game or have a list of questions ava
   * What is your favourite food?
   * What is _the one thing_ we should know about you?
 
-Need ideas? Drop a line in the discord coaches channel!
+![A great example by our coach Leenke De Donder](../../.gitbook/assets/screenshot-2020-07-05-at-11.09.31.png)
+
+Need more ideas? Drop a line in the discord coaches channel!
 
 ## Decide on project management and structure
 
