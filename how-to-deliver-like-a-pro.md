@@ -36,6 +36,10 @@ Make sure your project can survive on the internet, and you can refer to it in y
 
 ![Good documentation, assets &amp; guidance help future teams.](.gitbook/assets/screenshot-2020-06-30-at-22.27.37.png)
 
+Giving someone the 411 means you give them all context and updates they need to hit the ground running; to make sure that they are as informed as possible. It definitely is possible your project returns next year.
+
+So if you are working on a project that has been around the year before, make sure you get your hands on that information!
+
 ## The checklist
 
 ![We created a&#x2028;deliverable checklist &#x2028;to help teams accomplish these steps.&#x2028;](.gitbook/assets/screenshot-2020-06-30-at-22.31.43.png)
