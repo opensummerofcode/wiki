@@ -72,6 +72,7 @@
 * [How to Deliver Like a Pro](how-to-deliver-like-a-pro.md)
 * [Publishing a Github Page](publishing-a-github-page.md)
 * [Study material](study-material.md)
+* [How to manage a team](how-to-manage-a-team.md)
 
 ## Organisers
 

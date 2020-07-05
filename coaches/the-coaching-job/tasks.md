@@ -45,7 +45,11 @@ A non-exhaustive list of examples:
 * How does quality testing work?
 * How do they test with their target audience?
 * Will they conduct interviews?
-* How does that feedback roll back to the team?  Not sure how to create a process for your team? Contact your organisation! For Belgium, contact Miet!
+* How does that feedback roll back to the team?
+
+
+
+
 
 ### Arbiter of quality
 

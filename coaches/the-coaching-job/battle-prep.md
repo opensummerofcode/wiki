@@ -51,7 +51,11 @@ How are you going to guide your students day to day? Some examples to take care 
   * GitHub? Kanban?
 * Will you let your non-devs work in GitHub as well? Who teaches them?
 
-Need ideas? Drop a line in the discord coaches channel!
+Osoc tutorials:
+
+{% embed url="https://youtu.be/sLRmaIuwtHQ" caption="How to project manage" %}
+
+
 
 ## Decide on hand-over when you're not there
 
