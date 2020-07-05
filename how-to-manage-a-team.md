@@ -8,7 +8,7 @@ You can choose how to manage your teams, but here are some tips to get started!
 
 ## How to do a brainstorm session
 
-Coming soon!
+Coming soon! If you need tips, get in touch on discord.
 
 ## How to do a scoping session
 
