@@ -48,7 +48,7 @@ We will live stream the pitches again; live from Discord.
 
 ### 1. Pick your pitcher
 
-Pick who will pitch first for your team! Let us know who it will be here: [https://cloud.openknowledge.be/s/m8j7yjydtGFWD5X](https://cloud.openknowledge.be/s/m8j7yjydtGFWD5X)
+Pick who will pitch first for your team! Let us know who it will be here: [https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O\_vAOphsx2vnGE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O_vAOphsx2vnGE/edit?usp=sharing)
 
 Don't worry, everybody gets to pitch...
 
