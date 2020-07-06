@@ -36,6 +36,10 @@ What are we going to do?
 * Compose list of questions for partner/client
   * You can compose it together in [the folder of your team under "email preparations"](https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK)
 
+{% hint style="info" %}
+**WARNING**; it is possible you cannnot edit files in nextcloud. We are in the process of bumping our hosting. Please create a shared folder somewhere else, for instance on drive. We will let everyone know when this is fixed, so you can use nextcloud again and migrate the files back.
+{% endhint %}
+
 ## 12:00 Lunch 😍
 
 ## **13:00 \[team only breakout\] Team & Pitch Prep**
