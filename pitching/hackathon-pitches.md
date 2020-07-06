@@ -38,6 +38,10 @@ We have 3 tracks this year, and we will present them like this:
    3. Bike Data
    4. Data inventory
 
+{% hint style="info" %}
+If you decided to change your name, please change it in the channel and in the nextcloud folder for students as well! [https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK](https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK)
+{% endhint %}
+
 ## Where to pitch: on discord
 
 We will live stream the pitches again; live from Discord.
@@ -54,7 +58,7 @@ If you need any help, ask your colleagues on Discord in the \#pitch channel in t
 
 ![](../.gitbook/assets/screenshot-2020-07-06-at-11.34.24.png)
 
-### 3. At 13:00 the first pitcher goes to the voice channel _Waiting Room_, and the others follow
+### 3. At 15:30 the first pitcher goes to the voice channel _Waiting Room_, and the others follow
 
 This will be the osoc team. When the first pitcher is pitching, the second pitcher goes to the waiting room. Keep an eye on the sequence, don't miss a beat! [Hackathon pitches: up next](hackathon-pitches.md#up-next).
 
