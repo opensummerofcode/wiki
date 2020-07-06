@@ -66,9 +66,11 @@ This will be the osoc team. When the first pitcher is pitching, the second pitch
 
 ![Click to enter](../.gitbook/assets/screenshot-2020-07-06-at-10.24.42.png)
 
-### 4. You will be introduced to the Pitch arena
+### 4. You will be introduced to the Pitch arena \(magically\)
 
-This will happen magically. Oop!
+{% hint style="info" %}
+**When you are in there, please mute the osoc pitch stream \(YouTube\) so we do not create a feedback loop!**
+{% endhint %}
 
 ![It you!](../.gitbook/assets/screenshot-2020-07-06-at-10.27.02.png)
 
