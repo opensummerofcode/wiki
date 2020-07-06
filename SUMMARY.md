@@ -69,7 +69,9 @@
 ---
 
 * [Create Crests](how-to-create-crests.md)
-* [Hackathon pitches](hackathon-pitches.md)
+* [Pitching](pitching/README.md)
+  * [Hackathon pitches](pitching/hackathon-pitches.md)
+  * [How to pitch!](pitching/how-to-pitch.md)
 * [Deliver Like a Pro](how-to-deliver-like-a-pro/README.md)
   * [Publish a Github Page](how-to-deliver-like-a-pro/publishing-a-github-page.md)
 * [How to manage a team](how-to-manage-a-team.md)
