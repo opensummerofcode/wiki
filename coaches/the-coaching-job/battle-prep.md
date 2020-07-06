@@ -14,6 +14,10 @@ I don't know you, you don't know me.
 
 ## Decide on how you're going to break the ice with your students
 
+Make sure your students know where to go if they are lost; help them find their way!
+
+![Our coach Jonathan guiding a student arriving on Discord for the first time](../../.gitbook/assets/screenshot-2020-07-01-at-14.46.23.png)
+
 The first day is awkward. In the afternoon, the teams get assembled, and you'll get to know each other.
 
 Gather the team\(s\) you're leading. Play a game or have a list of questions available so you can get to know each other. Some examples:
@@ -73,7 +77,7 @@ The  coaches will present the project in their Discord project channels once all
 
 ## Go through the deliverables document
 
-[About the deliverables \[tutorial\]](../../how-to-deliver-like-a-pro.md)
+[About the deliverables \[tutorial\]](../../how-to-deliver-like-a-pro/)
 
 You can do this together or separately, and discuss if you still have questions beforehand. Ask the organisation to clarify if needed!
 

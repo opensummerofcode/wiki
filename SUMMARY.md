@@ -68,11 +68,12 @@
 
 ---
 
-* [How to Create Crests](how-to-create-crests.md)
-* [How to Deliver Like a Pro](how-to-deliver-like-a-pro.md)
-* [Publishing a Github Page](publishing-a-github-page.md)
-* [Study material](study-material.md)
+* [Create Crests](how-to-create-crests.md)
+* [Hackathon pitches](hackathon-pitches.md)
+* [Deliver Like a Pro](how-to-deliver-like-a-pro/README.md)
+  * [Publish a Github Page](how-to-deliver-like-a-pro/publishing-a-github-page.md)
 * [How to manage a team](how-to-manage-a-team.md)
+* [Study material](study-material.md)
 
 ## Organisers
 

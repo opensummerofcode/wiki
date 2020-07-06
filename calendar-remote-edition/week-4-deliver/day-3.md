@@ -10,7 +10,7 @@ description: 'Deliver like a professional: a well-documented, stable project.'
 
 Make sure you have everything in your team folder, described in the handover document. 
 
-How to deliver like a pro \[[tutorial](../../how-to-deliver-like-a-pro.md)\]!
+How to deliver like a pro \[[tutorial](../../how-to-deliver-like-a-pro/)\]!
 
 ## 13:00 \[team only\] Documentation, site, handover document, ... + Write client goodbye mail
 

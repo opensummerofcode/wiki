@@ -30,7 +30,7 @@ Your pitch should include:
 
 ## 13:00 \[team only\] Documentation, site, handover document, ... 
 
-Don't worry, we'll teach you how to deliver like a pro \[[tutorial](../../how-to-deliver-like-a-pro.md)\]!
+Don't worry, we'll teach you how to deliver like a pro \[[tutorial](../../how-to-deliver-like-a-pro/)\]!
 
 ## 17:00 have a nice day 🥳
 

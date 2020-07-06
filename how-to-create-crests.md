@@ -2,7 +2,7 @@
 description: 'Crests will appear on our website, to show off your team!'
 ---
 
-# How to Create Crests
+# Create Crests
 
 A glimpse of the 2019 crests [https://osoc.be/editions/2019](https://osoc.be/editions/2019)
 

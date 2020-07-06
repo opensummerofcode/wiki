@@ -15,7 +15,7 @@ Welcome to open summer of code!
 * What’s [the code of conduct](../../code-of-conduct.md)?
 * How does [osoc work](../../way-of-work.md)?
 * Calendar overview
-* Deliverables \[[tutorial](../../how-to-deliver-like-a-pro.md)\]
+* Deliverables \[[tutorial](../../how-to-deliver-like-a-pro/)\]
 
 ## **10:00 \[team only breakout\] Get to know your team**
 

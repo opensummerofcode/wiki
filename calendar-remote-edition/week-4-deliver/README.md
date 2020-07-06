@@ -4,7 +4,7 @@
 
 ## Goal of the Week
 
-This week we'll be focusing on [delivering to our clients \[tutorial\]](../../how-to-deliver-like-a-pro.md) , and showing off what we've made to the world
+This week we'll be focusing on [delivering to our clients \[tutorial\]](../../how-to-deliver-like-a-pro/) , and showing off what we've made to the world
 
 * A working project
 * Well-documented code / designs / communication plans/marketing plans / business plans / ...
