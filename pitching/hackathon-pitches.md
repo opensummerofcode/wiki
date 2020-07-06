@@ -60,7 +60,9 @@ If you need any help, ask your colleagues on Discord in the \#pitch channel in t
 
 ### 3. At 15:30 the first pitcher goes to the voice channel _Waiting Room_, and the others follow
 
-This will be the osoc team. When the first pitcher is pitching, the second pitcher goes to the waiting room. Keep an eye on the sequence, don't miss a beat! [Hackathon pitches: up next](hackathon-pitches.md#up-next).
+This will be the osoc team. **When the first pitcher is pitching, the second pitcher goes to the waiting** room. Keep an eye on the sequence, don't miss a beat! [Hackathon pitches: up next](hackathon-pitches.md#up-next).
+
+🔕 Mute your notifications.
 
 ![It&apos;s here](../.gitbook/assets/screenshot-2020-07-06-at-10.24.21.png)
 
@@ -69,7 +71,7 @@ This will be the osoc team. When the first pitcher is pitching, the second pitch
 ### 4. You will be introduced to the Pitch arena \(magically\)
 
 {% hint style="info" %}
-**When you are in there, please mute the osoc pitch stream \(YouTube\) so we do not create a feedback loop!**
+**🔇When you are in there, please mute the osoc pitch stream \(YouTube\) so we do not create a feedback loop!**
 {% endhint %}
 
 ![It you!](../.gitbook/assets/screenshot-2020-07-06-at-10.27.02.png)

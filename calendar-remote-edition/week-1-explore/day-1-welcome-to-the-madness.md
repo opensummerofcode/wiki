@@ -51,7 +51,9 @@ Prepare to introduce yourselves to the other teams!
 * Create a **crest** together \[[Find out how](../../how-to-create-crests.md)\]
   * Share the crest in the ["crests" folder](https://cloud.openknowledge.be/s/i8FjdnJc3FjkjN8), name it after your project and team name, like so: _project-name-team-name_
 * Send over **a picture** of each team member \(take a selfie with students and coaches\)
-  * Create a folder called "team pictures" [in your team folder](https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK)
+  * Add it here in the [team pictures](https://cloud.openknowledge.be/s/J3gixDwZ5knfsqj) folder
+    * Create a team folder for your team _project-name-team-name_
+    * Name each picture _project-name-team-name-member-name_, and if it's a group pic _project-name-team-name-team_
   * Make sure you wear your osoc shirt, and if you don't have it \(yet\), grab a colourful one 🌈
 
 **Create short pitch \(to introduce the team and project, no slides needed\).** You can base yourself on the project description you made. Decide who pitches.
