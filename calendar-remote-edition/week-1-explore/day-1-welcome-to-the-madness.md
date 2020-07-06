@@ -59,6 +59,8 @@ Prepare to introduce yourselves to the other teams!
 
 Enjoy watching the other teams!
 
+
+
 ## 17:00 have a nice day 🥳
 
 

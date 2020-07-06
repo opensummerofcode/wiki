@@ -100,17 +100,3 @@ See your colleagues shine on our livestream and bring your enthusiasm to the \#p
 Be nice, pay attention or else 😬!
 {% endhint %}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
