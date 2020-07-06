@@ -71,7 +71,9 @@ Go to your breakout room \(shared in advance\), ask someone to share the figma s
 
 ![A pro tip from our swag designer coach Niels](.gitbook/assets/screenshot-2020-07-06-at-12.01.24.png)
 
-* Pick colors [https://mycolor.space/](https://mycolor.space/)
+* Pick colors
+  * [https://mycolor.space/](https://mycolor.space/)
+  * [https://coolors.co/](https://coolors.co/) \(by Inti\)
 * Free vector graphics [https://thenounproject.com/](https://thenounproject.com/)
 * Use collaborative tools to work together [https://figma.com/](https://figma.com/)
 
