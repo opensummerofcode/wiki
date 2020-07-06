@@ -32,7 +32,7 @@ What are we going to do?
 * Study the briefing
   * You can find the briefing in [the folder of your team](https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK)
 * Define goal
-* Summarise project \(± 200 words\) and [send it over by adding it to project descriptions](https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O_vAOphsx2vnGE/edit?usp=sharing)
+* Summarise project \(± 200 characters\) and [send it over by adding it to project descriptions](https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O_vAOphsx2vnGE/edit?usp=sharing)
 * Compose list of questions for partner/client
   * You can compose it together in [the folder of your team under "email preparations"](https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK)
 
