@@ -47,7 +47,7 @@ What are we going to do?
 Prepare to introduce yourselves to the other teams!
 
 * Think of a **team name** that reflects your members and project
-  * Add it to the[ project descriptions](https://cloud.openknowledge.be/f/275729)
+  * Add it to the[ project descriptions](https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O_vAOphsx2vnGE/edit#gid=0)
 * Create a **crest** together \[[Find out how](../../how-to-create-crests.md)\]
   * Share the crest in the ["crests" folder](https://cloud.openknowledge.be/s/i8FjdnJc3FjkjN8), name it after your project and team name, like so: _project-name-team-name_
 * Send over **a picture** of each team member \(take a selfie with students and coaches\)
