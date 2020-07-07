@@ -14,11 +14,11 @@ Time to say goodbye and give each other some feedback... 🥰
 
 Showtime 🤹🏾‍♀️
 
-## 13:00 \[the world\] Project breakout rooms
+## 14:30 \[the world\] Project breakout rooms
 
 People can come over to breakout rooms and have a chat with the different teams!
 
-## 13:00 \[all teams\] Goodbye...
+## 16:00 \[all teams\] Goodbye...
 
 Osoc is over 👩🏽‍🎓
 

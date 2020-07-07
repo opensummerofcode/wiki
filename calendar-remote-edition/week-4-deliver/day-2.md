@@ -12,9 +12,7 @@ Last pitch to create; make it count!
 
 ## 12:00 \[coaches & student coaches only\] Optional Fika
 
-Talk about what's been going on your team; the good and the bad.
-
-{% embed url="https://meet.openknowledge.be/fika" caption="The channel where we\'ll meet" %}
+Talk about what's been going on your team; the good and the bad – in the Fika voice channel &lt;3
 
 ## 13:00 \[HARD DEADLINE\] Deliver your pitch!
 

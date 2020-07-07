@@ -22,9 +22,7 @@ _What did we learn? How can we work better as a team?_
 
 ## 12:00 \[coaches and student coaches only\] Optional Fika
 
-Talk about what's been going on your team; the good and the bad.
-
-{% embed url="https://meet.openknowledge.be/fika" caption="The channel where we\'ll meet" %}
+Talk about what's been going on your team; the good and the bad – in the Fika voice channel &lt;3
 
 ## 13:00 \[team only breakout\] Plan/scope for next week
 
