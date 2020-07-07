@@ -64,6 +64,8 @@ Take the time you need, the team decides when they are to start hacking!
 Oh and remember the rule of **π** \([pi](https://twitter.com/pietercolpaert)\)... When doing an estimation of a task, let's say, for an hour, it's most likely to take about 3.14 times longer. Thank us later.
 {% endhint %}
 
+Need to get the creative juices flowing first? Do a [brainstorm session](../../how-to-manage-a-team.md) first!
+
 ## 15:00 \[team only breakout\] Start Hackathon
 
 Let's get started!
