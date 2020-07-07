@@ -8,11 +8,17 @@ You can choose how to manage your teams, but here are some tips to get started!
 
 ## How to do a brainstorm session
 
-An in-depth version of how to do a brainstorm session:
+### 3 Brainstorm Ideas + 2 Bonus Adaptions
+
+We go through a couple of ideas to refresh your mind! Feel free to adapt everything to your liking.
+
+{% embed url="https://youtu.be/4-nRJcLktl0" %}
+
+### Extended Disney Brainstorm
+
+We walk you through each step of a Disney Brainstorm, \[adapted, there are many versions\] and give you extra tips and tricks.
 
 {% embed url="https://www.youtube.com/watch?v=FeWyfK8UbjU&feature=youtu.be" %}
-
-Other brainstorms than Disney coming soon!
 
 ## How to do a scoping session
 
