@@ -18,7 +18,7 @@ Prepare for your first client meeting!
 * Decide who does the talking
 * Decide who takes notes
 
-Some tips and tricks can come in handy if you've never attended a client meeting before!
+Some tips and tricks can come in handy if you've never attended a client meeting before:
 
 {% embed url="https://www.youtube.com/watch?v=SvO5EfTW6Hw&feature=youtu.be" caption="Tutorial: how to do a client meeting." %}
 
