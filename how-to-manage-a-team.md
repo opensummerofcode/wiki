@@ -8,7 +8,11 @@ You can choose how to manage your teams, but here are some tips to get started!
 
 ## How to do a brainstorm session
 
-Coming soon! If you need tips, get in touch on discord.
+An in-depth version of how to do a brainstorm session:
+
+{% embed url="https://www.youtube.com/watch?v=FeWyfK8UbjU&feature=youtu.be" %}
+
+Other brainstorms than Disney coming soon!
 
 ## How to do a scoping session
 
