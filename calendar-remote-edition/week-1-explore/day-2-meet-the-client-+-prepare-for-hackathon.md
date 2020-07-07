@@ -18,6 +18,10 @@ Prepare for your first client meeting!
 * Decide who does the talking
 * Decide who takes notes
 
+Some tips and tricks can come in handy if you've never attended a client meeting before!
+
+{% embed url="https://www.youtube.com/watch?v=SvO5EfTW6Hw&feature=youtu.be" caption="Tutorial: how to do a client meeting." %}
+
 ## **10:00 or 11:00** \[client and team\] Client meetings
 
 Depending on the team you are on, you will have a client meeting at 10:00 or 11:00.
@@ -44,7 +48,7 @@ We do hackathons at the start of osoc to...
 
 ### What happens during a scoping session
 
-Decide with the team what you want to create during the hackathon. This depends on your project, team members and goals!
+Decide with the team what you want to create during the hackathon. This depends on your project, team members and goals! There's a [tutorial on how to do a scoping session](../../how-to-manage-a-team.md#how-to-do-a-scoping-session).
 
 For example:
 
