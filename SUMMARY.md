@@ -33,7 +33,7 @@
 * [The Student Job](students/the-student-job.md)
 * [Salary & Reimbursements](students/reimbursements.md)
 
-## Coaches
+## Coaches & Student coaches <a id="coaches"></a>
 
 * [Being a coach at oSoc](coaches/coaching/README.md)
   * [Practical: When, where, sick days, ...](coaches/coaching/attend.md)
