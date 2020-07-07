@@ -42,7 +42,7 @@
   * [Tasks](coaches/the-coaching-job/tasks.md)
   * [Battle Prep](coaches/the-coaching-job/battle-prep.md)
   * [First-time coaches](coaches/the-coaching-job/first-time-coaches.md)
-  * [Student coaches](coaches/the-coaching-job/student-coaches.md)
+  * [Student Coaches](coaches/the-coaching-job/student-coaches.md)
   * [Screening students](coaches/the-coaching-job/screening-students.md)
 * [Projects](coaches/projects.md)
 * [Partners](coaches/partners.md)
