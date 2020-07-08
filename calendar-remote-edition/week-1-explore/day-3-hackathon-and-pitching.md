@@ -4,7 +4,7 @@ description: 'Dive deep, work together, deliver something valuable.'
 
 # Day 3: Hackathon & Pitching
 
-![](../../.gitbook/assets/osoc-2020-cal-week-1.003.jpeg)
+![The calendar for today](../../.gitbook/assets/osoc-2020-cal-week-1.003.jpeg)
 
 ## 09:00 \[team breakout only\] Continue Hackathon + optional user testing or interviews
 
