@@ -20,11 +20,11 @@ Keep in mind; the value lies in _learning together_, not in delivering a perfect
 
 ## 16:00 \[HARD DEADLINE\] Deliver your pitch!
 
-### How to create the pitching video
+### How to create the pitching video 
 
 {% embed url="https://youtu.be/RJXhD0ObWzg" %}
 
-### Pitching
+### Pitching 
 
 ![Content](../../.gitbook/assets/screenshot-2020-07-08-at-11.12.29.png)
 
@@ -32,7 +32,7 @@ Keep in mind; the value lies in _learning together_, not in delivering a perfect
 
 ![The feeling](../../.gitbook/assets/screenshot-2020-07-08-at-11.12.45.png)
 
-### Deadline
+### Deadline 
 
 Put your one-minute pitch video \[slides optional\] in our cloud **by 16:00**: [https://cloud.openknowledge.be/s/xjW6wXRbdoeXei4](https://cloud.openknowledge.be/s/xjW6wXRbdoeXei4)
 
