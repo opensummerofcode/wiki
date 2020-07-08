@@ -8,11 +8,20 @@ description: "See all hackathon results, zoom out and prepare for next week \U00
 
 ## 09:00 \[all teams\] Hackathon pitch stream
 
-In the morning we will show off all the pitches created by the teams during their teams. Tell us...
+In the morning we will show off all the pitches created by the teams during their teams 💪
+
+**Give the pitches you like a vote with your emoji in the \#pitch-vote channel! 👍**
+
+**Hype each other in the \#pitch-chat channel ♥️**
+
+**Give us your feedback in the form below 👀**
 
 * what you liked about each pitch
 * what needs work for each pitch \(constructive feedback!\)
-* which pitch was the best pitch according to you
+
+{% embed url="https://forms.gle/YVH394fJhK6pjiePA" %}
+
+![Vote - Love - Rate](../../.gitbook/assets/screenshot-2020-07-08-at-21.21.27.png)
 
 ## 11:00 \[team only breakout\] Team learnings
 
