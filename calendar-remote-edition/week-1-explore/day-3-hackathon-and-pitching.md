@@ -34,7 +34,7 @@ Keep in mind; the value lies in _learning together_, not in delivering a perfect
 
 ### Deadline 
 
-Put your one-minute pitch video \[slides optional\] in our cloud **by 16:00**: [https://cloud.openknowledge.be/s/xjW6wXRbdoeXei4](https://cloud.openknowledge.be/s/xjW6wXRbdoeXei4)
+Put your one-minute pitch video \[slides optional\] in our cloud **by 16:00 in mov or mp4 format**: [https://cloud.openknowledge.be/s/xjW6wXRbdoeXei4](https://cloud.openknowledge.be/s/xjW6wXRbdoeXei4)
 
 ![](../../.gitbook/assets/screenshot-2020-07-07-at-23.32.03.png)
 
