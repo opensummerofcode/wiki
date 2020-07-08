@@ -20,13 +20,23 @@ Keep in mind; the value lies in _learning together_, not in delivering a perfect
 
 ## 16:00 \[HARD DEADLINE\] Deliver your pitch!
 
-Put your one-minute pitch video \[slides optional\] in our cloud by 16:00: [https://cloud.openknowledge.be/s/xjW6wXRbdoeXei4](https://cloud.openknowledge.be/s/xjW6wXRbdoeXei4)
+### How to create the pitching video
 
-Your pitch should include:
+{% embed url="https://youtu.be/RJXhD0ObWzg" %}
 
-* Project description
-* What the goal of your team's hackathon was
-* What you've learnt
+### Pitching
+
+![Content](../../.gitbook/assets/screenshot-2020-07-08-at-11.12.29.png)
+
+![The form](../../.gitbook/assets/screenshot-2020-07-08-at-11.12.35.png)
+
+![The feeling](../../.gitbook/assets/screenshot-2020-07-08-at-11.12.45.png)
+
+### Deadline
+
+Put your one-minute pitch video \[slides optional\] in our cloud **by 16:00**: [https://cloud.openknowledge.be/s/xjW6wXRbdoeXei4](https://cloud.openknowledge.be/s/xjW6wXRbdoeXei4)
+
+![](../../.gitbook/assets/screenshot-2020-07-07-at-23.32.03.png)
 
 
 
