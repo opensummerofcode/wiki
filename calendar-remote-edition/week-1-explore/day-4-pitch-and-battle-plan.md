@@ -4,7 +4,7 @@ description: "See all hackathon results, zoom out and prepare for next week \U00
 
 # Day 4: Pitch & Battle Plan
 
-![](../../.gitbook/assets/osoc-2020-cal-week-1.004.jpeg)
+![](../../.gitbook/assets/screenshot-2020-07-08-at-12.47.18.png)
 
 ## 09:00 \[all teams\] Hackathon pitch stream
 
