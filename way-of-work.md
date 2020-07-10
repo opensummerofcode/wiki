@@ -2,7 +2,7 @@
 description: This is how we do it.
 ---
 
-# The Osoc Way of Work & Play
+# The osoc Way of Work & Play
 
 ## **How We Work**
 

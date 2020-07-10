@@ -49,6 +49,7 @@ Pick a retrospective:
 
 * [http://www.frederikvincx.com/8-sticky-note-walls-keep-team-track/](http://www.frederikvincx.com/8-sticky-note-walls-keep-team-track/) See "retrospective"
 * [http://www.funretrospectives.com/](http://www.funretrospectives.com/)
+* [https://agilestrides.com/blog/40-ideas-to-spice-up-your-retrospective/](https://agilestrides.com/blog/40-ideas-to-spice-up-your-retrospective/)
 
 ## 17:00 have a nice day 🥳
 

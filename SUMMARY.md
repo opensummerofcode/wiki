@@ -23,7 +23,7 @@
     * [Day 3: Delivery Day](calendar-remote-edition/week-4-deliver/day-3.md)
     * [Day 4: Demo Day](calendar-remote-edition/week-4-deliver/day-4-demo-day.md)
 * [Code of Conduct](code-of-conduct.md)
-* [The Osoc Way of Work & Play](way-of-work.md)
+* [The osoc Way of Work & Play](way-of-work.md)
 
 ## Students
 
