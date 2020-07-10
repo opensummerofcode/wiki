@@ -15,7 +15,7 @@ Something missing? Tell us in \#practical-questions
 * 👩‍🎤 [Visual](student-coaches-and-coaches-skill-overview.md#visual) UI/UX/Graphic design, videography 
 * 🦄 [Communication & Strategy](student-coaches-and-coaches-skill-overview.md#communication-and-strategy) Business development, marketing, communication, copywriting, pitching, strategy, videography 
 * 🦹🏽[Development](student-coaches-and-coaches-skill-overview.md#development) Front-end, back-end, maps 
-* 🧙🏼‍♀️[Coaching](student-coaches-and-coaches-skill-overview.md#coaching-techniques) Team retrospectives, scoping sessions, brainstorms, client meetings, team dynamics & communication 
+* 🧙🏼‍♀️[Coaching](student-coaches-and-coaches-skill-overview.md#coaching) Team retrospectives, scoping sessions, brainstorms, client meetings, team dynamics & communication 
 
 _Are you a \(student\) coach and you're not in here? You can use github/gitbook and add it yourself; just let us know and we'll give you access. Or you can fill out this form:_ [_https://forms.gle/EuaiaW1V4eBT3C4Q8_](https://forms.gle/EuaiaW1V4eBT3C4Q8) _and we'll update this wiki for you when you give us a heads up in \#student-coaches or \#coaches on Discord._
 
