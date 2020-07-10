@@ -47,7 +47,11 @@
 * [Projects](coaches/projects.md)
 * [Partners](coaches/partners.md)
 * [Salary & Reimbursements](coaches/salary-and-reimbursements.md)
-* [Student Coaches & Coaches Skills Overview](coaches/student-coaches-and-coaches-skill-overview.md)
+* [Student Coaches & Coaches Skills Overview](coaches/student-coaches-and-coaches-skill-overview/README.md)
+  * [🦹🏽 Development](coaches/student-coaches-and-coaches-skill-overview/development.md)
+  * [👩‍🎤Visual](coaches/student-coaches-and-coaches-skill-overview/visual.md)
+  * [🦄 Communication & Strategy](coaches/student-coaches-and-coaches-skill-overview/communication-and-strategy.md)
+  * [🧙🏼‍♀️ Coaching](coaches/student-coaches-and-coaches-skill-overview/coaching.md)
 
 ## partners
 
