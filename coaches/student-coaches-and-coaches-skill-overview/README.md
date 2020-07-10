@@ -2,7 +2,7 @@
 description: Got a question? Not sure who to ask? Find your solution here!
 ---
 
-# Student Coaches & Coaches Skills Overview
+# Student Coaches & Coaches Skill Overview
 
 {% hint style="info" %}
 **Students**: Reach out to our \(student\) coaches for help by mentioning them in one of our help channels!
