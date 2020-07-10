@@ -2,7 +2,7 @@
 
 On Discord, you have fine-grained control over which notifications you receive at which time.
 
-**Leave mentions for @everyone and @here on.** The only people who can use these are in the coordination team, and it's what we'll use when we need to be sure you read a message.
+**Leave mentions for @everyone and @here on.** The only people who can use these are in the coordination and communication team, and it's what we'll use when we need to be sure you read a message.
 
 **To only receive notifications when you're mentioned:**
 
