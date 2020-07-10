@@ -47,6 +47,7 @@
 * [Projects](coaches/projects.md)
 * [Partners](coaches/partners.md)
 * [Salary & Reimbursements](coaches/salary-and-reimbursements.md)
+* [Student Coaches and Coaches skill overview](coaches/student-coaches-and-coaches-skill-overview.md)
 
 ## partners
 

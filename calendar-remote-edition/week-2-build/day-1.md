@@ -6,6 +6,8 @@ description: >-
 
 # Day 1: Build, test, document + Learn how to vlog
 
+
+
 ![](../../.gitbook/assets/osoc-2020-cal-week-2.001.jpeg.001.jpeg)
 
 ## 09:00 \[all teams\] Week Overview
