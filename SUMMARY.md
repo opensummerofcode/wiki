@@ -49,7 +49,7 @@
 * [Salary & Reimbursements](coaches/salary-and-reimbursements.md)
 * [Student Coaches & Coaches Skills Overview](coaches/student-coaches-and-coaches-skill-overview/README.md)
   * [🦹🏽 Development](coaches/student-coaches-and-coaches-skill-overview/development.md)
-  * [👩‍🎤Visual](coaches/student-coaches-and-coaches-skill-overview/visual.md)
+  * [👩‍🎤Visuals](coaches/student-coaches-and-coaches-skill-overview/visual.md)
   * [🦄 Communication & Strategy](coaches/student-coaches-and-coaches-skill-overview/communication-and-strategy.md)
   * [🧙🏼‍♀️ Coaching](coaches/student-coaches-and-coaches-skill-overview/coaching.md)
 

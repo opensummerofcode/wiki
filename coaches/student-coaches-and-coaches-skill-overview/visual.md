@@ -2,7 +2,7 @@
 description: 'We can help you with: UI/UX/Graphic design, videography'
 ---
 
-# 👩‍🎤Visual
+# 👩‍🎤Visuals
 
 {% hint style="info" %}
 More coaches coming soon 😎
