@@ -10,6 +10,18 @@ description: 'Build, test, document and ship again!'
 
 Documentation is essential. Make sure you incorporate user interviews and testing 🔥😍
 
+## 09:30 \[optional talk\] Solid by Ruben Verborgh
+
+Time: Jul 22, 2020 09:30 AM Brussels
+
+Join Zoom Meeting [https://us02web.zoom.us/j/89619183473?pwd=RHJ1TzdmZmhXQlM5K3lGZ085dHJaQT09](https://us02web.zoom.us/j/89619183473?pwd=RHJ1TzdmZmhXQlM5K3lGZ085dHJaQT09)
+
+Password: will be shared on discord.
+
+{% hint style="info" %}
+Got other things to do with your team? Don't worry, it will be saved to our YouTube account! You can watch later, after work with some 🍿🥤.
+{% endhint %}
+
 ## 13:00 \[team only\] Build, test, document, ship
 
 Ship it real good! Make sure you incorporate user interviews and testing 🔥😍
