@@ -8,7 +8,7 @@ description: >-
 
 ## Asking for Help from Anyone
 
-We have a bunch of help channels in Discord. Got a question? Pop in in there. Someone might pick it up 👀.
+We have a bunch of help channels in Discord. Got a question? Pop in in there. Someone might pick it up 👀. 
 
 ![](../../.gitbook/assets/screenshot-2020-07-10-at-17.24.57.png)
 
