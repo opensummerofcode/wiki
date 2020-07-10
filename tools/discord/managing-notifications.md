@@ -16,3 +16,9 @@ On Discord, you have fine-grained control over which notifications you receive a
 
 To keep getting notifications without getting a notification sound or your operating system's notification message pop-up, you can [turn on Do Not Disturb mode](https://support.discord.com/hc/en-us/articles/227779547-Changing-Online-Status).
 
+**To hide channels and categories in the left-side panel that you are not interested in:**
+
+\*\*\*\*
+
+\*\*\*\*
+

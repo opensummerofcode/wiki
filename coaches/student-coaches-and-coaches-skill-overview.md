@@ -28,9 +28,9 @@ UI/UX/Graphic design, videography
 Coaching, user interface design, user experience design, graphic design, videography
 {% endhint %}
 
-> _Hi! This is where I introduce myself, and give a little insight about what I can help you with. Maybe I'll add something funny about myself._  
->   
-> [http://miet.be ](http://miet.be)
+> _In my day job I freelance as a digital product designer, working together with dev and business to ship software. I love both complex but perhaps boring applications just as much as simple yet effective applications; as long as they create value for our society. If you have any questions about design, hit me up on Discord._
+>
+> Find my extremely outdated portfolio here:[ http://miet.be ](http://miet.be)
 
 ## 🦄 Communication & Strategy
 
@@ -53,6 +53,13 @@ Coaches coming soon 😎
 Team retrospectives, scoping sessions, brainstorms, client meetings, team dynamics & communication
 
 {% hint style="info" %}
-Coaches coming soon 😎
+**Coach Miet Claes \[Miet\#7556\] – Coordination team**  
+Team retrospectives, scoping sessions, brainstorms, client meetings, team dynamics & communication
 {% endhint %}
+
+> _I'm here to support coaches and student coaches in their job. If you have any questions related to managing teams, you can ring my bell! I also take tutorial requests._
+>
+> _Interested to give a workshop/tutorial yourself? Let me know and we'll make it happen!_  
+>   
+> Find my extremely outdated portfolio here:[ http://miet.be ](http://miet.be)
 
