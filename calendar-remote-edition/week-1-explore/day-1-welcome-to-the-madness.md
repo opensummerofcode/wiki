@@ -13,7 +13,7 @@ Welcome to open summer of code!
 * What is osoc?
 * What is Open Knowledge Belgium?
 * What’s [the code of conduct](../../code-of-conduct.md)?
-* How does [osoc work](../../way-of-work.md)?
+* How does [osoc work](../../way-of-work/)?
 * Calendar overview
 * Deliverables \[[tutorial](../../how-to-deliver-like-a-pro/)\]
 

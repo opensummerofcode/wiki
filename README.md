@@ -14,7 +14,7 @@ This wiki has been created as a _guideline_ for participants of osoc: students, 
 ## What everybody should know before we start; students, coaches and clients alike!
 
 * [What we are like: the Code of Conduct](code-of-conduct.md)
-* [How we work: The Osoc Way of Work & Play](way-of-work.md)
+* [How we work: The Osoc Way of Work & Play](way-of-work/)
 
 You're always free to break the rules; as long as you're trying to make it a better experience!
 
