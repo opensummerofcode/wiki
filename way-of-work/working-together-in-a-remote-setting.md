@@ -28,6 +28,12 @@ Find a way to stay in touch and on top of work with your team. Some teams like t
 
 ![](../.gitbook/assets/doing.gif)
 
+This also applies when in meetings; use your lovely osoc cards to react on video \(if sound is not suitable\) or use chat to confirm; there's nothing worse than talking into the void 🕳😅
+
+![In real life we nod or make listening sounds in conversations.](../.gitbook/assets/void.gif)
+
+![Remote needs a different way of interacting!](../.gitbook/assets/photo_2020-07-13-15.49.55.jpeg)
+
 ### Ask for Help
 
 Don't stay stuck in a loop for longer than 20 minutes. [There's plenty of ways to ask for help](../tools/discord/remote-helping.md), don't be afraid to ask for it! \#osoc was built on helping each other out, so we encourage you to ask and give help.
