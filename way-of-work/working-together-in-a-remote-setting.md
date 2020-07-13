@@ -6,9 +6,9 @@ description: A guide on how to work together in a remote setting.
 
 ## 🎬 Where Do We Start?
 
-This is a new environment for all of us, so let's make the best out of it! Nobody knows _yet_ what the best way is, but we will find out together.
+This is a new environment for all of us, so let's make the best out of it.
 
-![We&apos;re all doing this for the first time at osoc. Let&apos;s get started!](../.gitbook/assets/screenshot-2020-07-11-at-15.16.34.png)
+![We&apos;re all doing this for the first time at osoc. Let us know what&apos;s good, what&apos;s bad.](../.gitbook/assets/screenshot-2020-07-11-at-15.16.34.png)
 
 ## 📣 Be Vocal
 
@@ -32,7 +32,7 @@ This also applies when in meetings; use your lovely osoc cards to react on video
 
 ![In real life we nod or make listening sounds in conversations.](../.gitbook/assets/void.gif)
 
-![Remote needs a different way of interacting!](../.gitbook/assets/photo_2020-07-13-15.49.55.jpeg)
+![Remote needs different ways of interacting!](../.gitbook/assets/photo_2020-07-13-15.49.55.jpeg)
 
 ### Ask for Help
 
