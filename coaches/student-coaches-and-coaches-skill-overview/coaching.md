@@ -23,3 +23,14 @@ Team retrospectives, scoping sessions, brainstorms, client meetings, team dynami
 >   
 > Find my extremely outdated portfolio here:[ http://miet.be ](http://miet.be)
 
+## 
+
+{% hint style="info" %}
+**Coach Toon Nelissen \[Toon Nelissen\#0050\] – FRIS**  
+Front-end, Back-end, Native apps, Business development, Project management, Team dynamics & communication
+{% endhint %}
+
+> _I'm Toon Nelissen manager and founder of AppSaloon and boardmember of Open Knowledge Belgium. I have broad general knowledge of many types of businesses with skills in coding, making, communications and managing. I'm an advocate for all things 'open' and value transparency highly._ 
+>
+> [https://www.appsaloon.be](https://www.appsaloon.be)
+
