@@ -35,6 +35,41 @@ UI design, UX design, Graphic design, Videography, Illustrations, motion graphic
 
 ## 
 
+## 
+
+{% hint style="info" %}
+**Student Coach Inti Valderas Caro \[Valderas\#1429\] – bit-of-trust**  
+UI design, UX design, Graphic design, Videography, Front-end, Pitching, Project management, Retros
+{% endhint %}
+
+> _I'm a master student Interaction Design at LUCA School of Arts. I've been a freelancer for 4 years. I help small businesses digitize, optimize and automate. At school I experiment with newer technologies like VR, AR, VUI. I also like experimenting with Arduino to create some hardware thingies!_
+>
+> \_\_[_https://valderas.be/_](https://valderas.be/)\_\_
+
+## 
+
+{% hint style="info" %}
+**Student Coach Alex Vandoren \[Zenigame\#1305\] – bit-of-trust**  
+UX design, Front-end, Project management, Brainstorms
+{% endhint %}
+
+> _Will add his profile soon. Stay tuned!_
+
+\_\_
+
+## 
+
+{% hint style="info" %}
+**Student Coach Nawang Tendar \[LT. Future\_Nawang\#5186\] – Simplification-election-procedures**  
+UI design, UX design, Front-end, Back-end, Pitching, Brainstorms
+{% endhint %}
+
+> I'm bachelor in New Media Development with the skill of Full Stack Developer & UI/UX design. But I do enjoy front-end a lot more, especially with React.js.
+>
+> [https://www.nawangtendar.be](https://www.nawangtendar.be)
+
+## 
+
 {% hint style="info" %}
 **Coach Miet Claes \[Miet\#7556\] – Coordination team**  
 Coaching, user interface design, user experience design, graphic design, videography

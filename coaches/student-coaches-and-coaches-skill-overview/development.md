@@ -2,7 +2,7 @@
 description: 'We can help you with: Front-end, back-end, maps'
 ---
 
-# 🦹🏽 Development
+# 🦹🏽 Development & Building
 
 {% hint style="info" %}
 **Student Coach Bao Truong \[Bao\#4145\] – urban-brussels**  
@@ -95,17 +95,6 @@ Back-end, Retros, Scoping, Brainstorms, rubber duckying
 ## 
 
 {% hint style="info" %}
-**Coach Bert Jehoul \[jeborsel\#6737\] – Bitoftrust & Bridges**  
-Marketing, Business development, Project management, Retros, Team dynamics & communication, How to handle partners & partner meetings
-{% endhint %}
-
-> _I'm a master student Interaction Design at LUCA School of Arts. I've been a freelancer for 4 years. I help small businesses digitize, optimize and automate. At school I experiment with newer technologies like VR, AR, VUI. I also like experimenting with Arduino to create some hardware thingies!_
->
-> [https://valderas.be/](https://valderas.be/)
-
-## 
-
-{% hint style="info" %}
 **Student Coach Tim Baccaert \[tim\#8080\] – bit-of-trust**  
 Front-end, Back-end, Project management, Retros, Scoping, Brainstorms, Databases
 {% endhint %}
@@ -138,17 +127,6 @@ UI design, UX design, Front-end, Back-end, Pitching, Brainstorms
 ## 
 
 {% hint style="info" %}
-**Student Coach Alex Vandoren \[Zenigame\#1305\] – bit-of-trust**  
-UX design, Front-end, Project management, Brainstorms
-{% endhint %}
-
-> _I'll provide this later this week if that's okay. I am feeling a bit too Monday today._
->
-> [https://www.nawangtendar.be](https://www.nawangtendar.be)
-
-## 
-
-{% hint style="info" %}
 **Coach Toon Nelissen \[Toon Nelissen\#0050\] – FRIS**  
 Front-end, Back-end, Native apps, Business development, Project management, Team dynamics & communication
 {% endhint %}
@@ -157,5 +135,25 @@ Front-end, Back-end, Native apps, Business development, Project management, Team
 >
 > [https://www.appsaloon.be](https://www.appsaloon.be)
 
+## 
 
+{% hint style="info" %}
+**Coach Milena Sonneveld \[Milen a\] – Fitigai**  
+Fablab makes
+{% endhint %}
+
+> _Hello, I’m Milena. I’m an engineer in energy and I’m a cyclist in the city and on long trips. One of my projects is named Vélo M² and it is a cycle-in cinéma where the spectators pedal to make the movie roll. I’m also at home in the fablab environment and I have animated many workshops with kids. Currently I’m working on a PhD where we look into the repairability of stuff in the context of the right to repair._
+>
+> [https://milenasonneveld.wordpress.com/](https://milenasonneveld.wordpress.com/)
+
+## 
+
+{% hint style="info" %}
+**Coach Ben Abelshausen \[xivk\#6679\] – \#bike-data**  
+Front-end, Back-end, Native apps, Maps, Project management
+{% endhint %}
+
+> _I'm Ben and I focus on building mobility and route planning solutions at ANYWAYS as CTO. I have been developing software for 15 years now and have a wide experience. I can build a decent website and setup, designed and built the microservices behind the ANYWAYS applications._
+
+[https://www.anyways.eu/](https://www.anyways.eu/)
 
