@@ -12,16 +12,14 @@ More coaches coming soon 😎
 
 
 
+
+
 {% hint style="info" %}
-**Coach Miet Claes \[Miet\#7556\] – Coordination team**  
-Team retrospectives, scoping sessions, brainstorms, client meetings, team dynamics & communication
+**Coach Bert Jehoul \[jeborsel\#6737\] – Bitoftrust & Bridges**  
+Marketing, Business development, Project management, Retros, Team dynamics & communication, How to handle partners & partner meetings
 {% endhint %}
 
-> _I'm here to support coaches and student coaches in their job. If you have any questions related to managing teams, you can ring my bell! I also take tutorial requests._
->
-> _Interested to give a workshop/tutorial yourself? Let me know and we'll make it happen!_  
->   
-> Find my extremely outdated portfolio here:[ http://miet.be ](http://miet.be)
+> _I am a Master student in Computer science at KU Leuven. My main skills lie in software engineering/architecture. I'm also a pretty good rubber ducky._
 
 ## 
 
@@ -33,4 +31,17 @@ Front-end, Back-end, Native apps, Business development, Project management, Team
 > _I'm Toon Nelissen manager and founder of AppSaloon and boardmember of Open Knowledge Belgium. I have broad general knowledge of many types of businesses with skills in coding, making, communications and managing. I'm an advocate for all things 'open' and value transparency highly._ 
 >
 > [https://www.appsaloon.be](https://www.appsaloon.be)
+
+## 
+
+{% hint style="info" %}
+**Coach Miet Claes \[Miet\#7556\] – Coordination team**  
+Team retrospectives, scoping sessions, brainstorms, client meetings, team dynamics & communication
+{% endhint %}
+
+> _I'm here to support coaches and student coaches in their job. If you have any questions related to managing teams, you can ring my bell! I also take tutorial requests._
+>
+> _Interested to give a workshop/tutorial yourself? Let me know and we'll make it happen!_  
+>   
+> Find my extremely outdated portfolio here:[ http://miet.be ](http://miet.be)
 

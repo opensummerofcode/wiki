@@ -70,16 +70,7 @@ Communication, Back-end, Native apps, Pitching, Project management, Retros, Team
 >   
 >  [https://github.com/JosseVanDelm](https://github.com/JosseVanDelm)
 
-## 
 
-{% hint style="info" %}
-**Coach Jonathan Beliën \[jbelien\#3989\] – Urban Brussels**  
-Front-end, Back-end, Maps
-{% endhint %}
-
-> _Full-stack web developer playing with geographical data for 15 years_  
->   
->  [https://jbelien.be/](https://jbelien.be/)
 
 ## 
 
@@ -147,7 +138,7 @@ UI design, UX design, Front-end, Back-end, Pitching, Brainstorms
 ## 
 
 {% hint style="info" %}
-**Student Coach** Alex Vandoren **\[**Zenigame\#1305**\] –** bit-of-trust  
+**Student Coach Alex Vandoren \[Zenigame\#1305\] – bit-of-trust**  
 UX design, Front-end, Project management, Brainstorms
 {% endhint %}
 
