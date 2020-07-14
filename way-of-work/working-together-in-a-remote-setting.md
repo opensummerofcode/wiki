@@ -40,26 +40,6 @@ Don't stay stuck in a loop for longer than 20 minutes. [There's plenty of ways t
 
 ![](../.gitbook/assets/screenshot-2020-07-11-at-15.26.44.png)
 
-## 🎳 Team Play
-
-### Team Work Makes the Dream Work
-
-We've selected you and your teammates because we think you have the right skills to bring this project to life, and each and everyone of you has value to offer. _**That means your teammates need you.**_ Take initiative and show us what you got!
-
-Feeling a bit lost in your role? Speak up, ask for help! We are in this _together_.
-
-![When one of us shines, all of us shine. When you work together, magic happens.](../.gitbook/assets/dogs.gif)
-
-### Take the Wheel
-
-The team gets to make decisions, and we expect you to take initiative. Coaches are here to protect/help you when situations gets hard, and to make sure you don't steer into an iceberg; but you are in charge as a student.
-
-![](../.gitbook/assets/panda.gif)
-
-{% hint style="info" %}
-Take ownership, stand up! This project and its outcome is yours 🔥
-{% endhint %}
-
 ## 👔⚖️⛹🏽‍♀️ Work-Life-Balance
 
 Working can be a lot of fun, and the team dynamics are exhilarating. However, it _is_ important to spend some time away from your screen; to reflect, recharge and give your brain some time to deal with the information throw at you every day.
@@ -85,6 +65,26 @@ You don't have to be online, constantly chatting with your team, 24/7. _**It's f
 ### Work Smoothly
 
 Don't give 200% now, you'll be at 0% in the delivery week. Work at your own pace, so your colleagues can still count on you in the last week 🧘🏽‍♀️
+
+## 🎳 Team Play
+
+### Team Work Makes the Dream Work
+
+We've selected you and your teammates because we think you have the right skills to bring this project to life, and each and everyone of you has value to offer. _**That means your teammates need you.**_ Take initiative and show us what you got!
+
+Feeling a bit lost in your role? Speak up, ask for help! We are in this _together_.
+
+![When one of us shines, all of us shine. When you work together, magic happens.](../.gitbook/assets/dogs.gif)
+
+### Take the Wheel
+
+The team gets to make decisions, and we expect you to take initiative. Coaches are here to protect/help you when situations gets hard, and to make sure you don't steer into an iceberg; but you are in charge as a student.
+
+![](../.gitbook/assets/panda.gif)
+
+{% hint style="info" %}
+Take ownership, stand up! This project and its outcome is yours 🔥
+{% endhint %}
 
 ## 🌊💦🚰💧🧊 Stay Hydrated
 
