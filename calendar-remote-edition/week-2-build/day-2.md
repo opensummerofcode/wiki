@@ -12,15 +12,13 @@ description: >-
 
 Build what you've defined. Go team!
 
-## **10:00 or 11:00** \[client and team\] Client meetings
+## **09:00 or 10:00** \[client and team\] Client meetings
 
-Depending on the team you are on, you will have a client meeting at 10:00 or 11:00.
+Depending on the team you are on, you will have a client meeting at 09:00 or 10:00.
 
-We will send out e-mails up front!
+The overview of the \#osoc20 partner meetings, with a link to a room for each project: [https://cloud.openknowledge.be/s/RyD2T6acDy9aAXy](https://cloud.openknowledge.be/s/RyD2T6acDy9aAXy)
 
 If you need more meetings, you are free to book them with the team and client.
-
-[https://cloud.openknowledge.be/apps/onlyoffice/s/RyD2T6acDy9aAXy](https://cloud.openknowledge.be/apps/onlyoffice/s/RyD2T6acDy9aAXy)
 
 ## 12:00 \[coaches & student coaches only\] Optional Fika
 
