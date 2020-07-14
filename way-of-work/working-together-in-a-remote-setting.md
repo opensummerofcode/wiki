@@ -30,9 +30,9 @@ Find a way to stay in touch and on top of work with your team. Some teams like t
 
 This also applies when in meetings; use your lovely osoc cards to react on video \(if sound is not suitable\) or use chat to confirm; there's nothing worse than talking into the void 🕳😅
 
-![In real life we nod or make listening sounds in conversations.](../.gitbook/assets/void.gif)
+In real life we nod or make listening sounds in conversations. Remote needs different ways of interacting!
 
-![Remote needs different ways of interacting!](../.gitbook/assets/photo_2020-07-13-15.49.55.jpeg)
+![How do you use these cars with your team?](../.gitbook/assets/photo_2020-07-13-15.49.55.jpeg)
 
 ### Ask for Help
 
