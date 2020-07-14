@@ -20,7 +20,7 @@ Make sure possible prospects, friends and loved ones attend the remote edition D
 
 Depending on the team you are on, you will have a client meeting at 10:00 or 11:00.
 
-We will send out e-mails up front!
+The overview of the \#osoc20 partner meetings, with a link to a room for each project: [https://cloud.openknowledge.be/s/RyD2T6acDy9aAXy](https://cloud.openknowledge.be/s/RyD2T6acDy9aAXy)
 
 If you need more meetings, you are free to book them with the team and client.
 
