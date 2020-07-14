@@ -10,12 +10,6 @@ description: Ship for the first time; don't forget to test with *actual living* 
 
 Documentation is essential. Make sure you incorporate user interviews and testing 🔥😍
 
-## 12:00 \[coaches & student coaches only\] Optional Fika
-
-Talk about what's been going on your team; the good and the bad.
-
-{% embed url="https://meet.openknowledge.be/fika" caption="The channel where we\'ll meet" %}
-
 ## 13:00 \[team only\] Build, test, document, ship
 
 Ship it real good! Make sure you incorporate user interviews and testing 🔥😍
