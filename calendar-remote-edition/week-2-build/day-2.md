@@ -6,7 +6,7 @@ description: >-
 
 # Day 2: Build, test, document
 
-![](../../.gitbook/assets/osoc-2020-cal-week-2.002%20%281%29.jpeg)
+![](../../.gitbook/assets/screenshot-2020-07-14-at-09.45.13%20%281%29.png)
 
 ## 09:00 \[team only\] Build, test, document
 
@@ -27,6 +27,14 @@ Talk about what's been going on your team; the good and the bad – in the Fika 
 ## 13:00 \[team only\] Build, test, document
 
 Build what you've defined. Go team!
+
+## 14:00 \[optional workshop\] How to go from concept to design by Niels
+
+A very useful workshop that outlines how you can go from concept to design, hosted by our wonderful coach Niels.
+
+It will be held on Zoom: [https://us02web.zoom.us/j/85881657645?pwd=Y3gwZ3JJODZtN05XQXRCOXJkQ083QT09](https://us02web.zoom.us/j/85881657645?pwd=Y3gwZ3JJODZtN05XQXRCOXJkQ083QT09)
+
+Meeting ID: 858 8165 7645 / **Password: osoc20**
 
 ## 17:00 have a nice day 🥳
 
