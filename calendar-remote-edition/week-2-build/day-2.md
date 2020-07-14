@@ -20,6 +20,8 @@ We will send out e-mails up front!
 
 If you need more meetings, you are free to book them with the team and client.
 
+[https://cloud.openknowledge.be/apps/onlyoffice/s/RyD2T6acDy9aAXy](https://cloud.openknowledge.be/apps/onlyoffice/s/RyD2T6acDy9aAXy)
+
 ## 12:00 \[coaches & student coaches only\] Optional Fika
 
 Talk about what's been going on your team; the good and the bad – in the Fika voice channel &lt;3
