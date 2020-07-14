@@ -20,7 +20,7 @@ You get some time to reflect on the hackathon and on the feedback you got on you
 
 _What did we learn? How can we work better as a team?_
 
-## 11:00 \[coaches and student coaches only\] Optional Fika
+## 12:00 \[coaches and student coaches only\] Optional Fika
 
 Talk about what's been going on your team; the good and the bad. 
 
