@@ -4,7 +4,7 @@ description: Ship for the first time; don't forget to test with *actual living* 
 
 # Day 3: Build, test, document, ship
 
-![](../../.gitbook/assets/osoc-2020-cal-week-2.003%20%281%29.jpeg)
+![](../../.gitbook/assets/screenshot-2020-07-14-at-10.10.44.png)
 
 ## 09:00 \[team only\] Build, test, document
 
