@@ -66,6 +66,10 @@ Working can be a lot of fun, and the team dynamics are exhilarating. However, it
 
 ![Give your colleagues space to take a break, and make sure you turn off your notifications! ](../.gitbook/assets/al.gif)
 
+Make your desk your work-environment. Keep it neat, so you can focus on what you do best; creating kick-ass projects.
+
+Eat somewhere else if you can, even if it's only half a meter away \(we do not all have the luxury of different rooms, but if you can, go to a different room!\). You can definitely take walks, and let in some fresh air in your office too 🌬
+
 ### Take Regular Breaks
 
 {% hint style="info" %}
