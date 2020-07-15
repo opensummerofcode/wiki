@@ -4,7 +4,7 @@ description: >-
   real people!
 ---
 
-# How to Conduct \(Remote\) Tests and Interviews with Real People
+# Conduct \(Remote\) Tests and Interviews with Real People
 
 {% embed url="https://www.youtube.com/watch?v=MZbydtrgCsI" %}
 
