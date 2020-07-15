@@ -4,7 +4,7 @@ description: 'Show off what you''ve built to the client, learn, pivot, go!'
 
 # Day 1: Build, test, document + How to deploy
 
-![](../../.gitbook/assets/osoc-2020-cal-week-3.001.jpeg.001.jpeg)
+![](../../.gitbook/assets/screenshot-2020-07-15-at-20.32.31.png)
 
 ## 09:00 \[all teams\] Week Overview
 

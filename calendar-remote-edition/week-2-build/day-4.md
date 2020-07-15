@@ -4,7 +4,7 @@ description: "See all pitches, zoom out and prepare for next week \U0001F525"
 
 # Day 4: Pitch & Battle Plan
 
-![](../../.gitbook/assets/screenshot-2020-07-15-at-10.40.27.png)
+![](../../.gitbook/assets/screenshot-2020-07-15-at-21.54.57.png)
 
 ## 09:00 \[team only breakout\] Plan/scope for next week
 
@@ -25,6 +25,13 @@ Tell us:
 * What is going well in the team?
 
 {% embed url="https://meet.openknowledge.be/fika" %}
+
+## 11:30 \[optional workshop\] Intro to Lottie by Niels
+
+[https://us02web.zoom.us/j/85843098626?pwd=dTZyNkdNRSswZ3dJVGdNV1NYRXFMUT09](https://us02web.zoom.us/j/85843098626?pwd=dTZyNkdNRSswZ3dJVGdNV1NYRXFMUT09)
+
+Meeting ID: 858 4309 8626  
+**Password: osoc20**
 
 ## 13:00 \[all teams\] Pitch stream
 
