@@ -4,9 +4,11 @@ description: Tips on how to pitch
 
 # How to pitch!
 
-{% hint style="info" %}
-🚧This page is under construction and will become more elaborate soon!
-{% endhint %}
+Here are some tips and tricks to create a pitch video:
+
+{% embed url="https://www.youtube.com/watch?v=RJXhD0ObWzg&t=6s" %}
+
+
 
 ## 60 seconds
 
