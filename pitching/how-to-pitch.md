@@ -24,3 +24,7 @@ Optional for hackathon!
 * The client \(who is it\)
 * The project
 
+## Music
+
+Do not just grab any music – copyright may be applied, and you would have to pay for it ;-\). Open source is the way to go! Ask for ideas and resources on Discord.
+
