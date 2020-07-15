@@ -75,6 +75,7 @@
 
 ---
 
+* [How to Conduct \(Remote\) Tests and Interviews with Real People](how-to-conduct-remote-tests-and-interviews-with-real-people.md)
 * [Create Crests](how-to-create-crests.md)
 * [Pitching](pitching/README.md)
   * [Hackathon pitches](pitching/hackathon-pitches.md)
