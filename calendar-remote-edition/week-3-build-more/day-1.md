@@ -4,7 +4,7 @@ description: 'Show off what you''ve built to the client, learn, pivot, go!'
 
 # Day 1: Build, test, document + How to deploy
 
-![](../../.gitbook/assets/screenshot-2020-07-15-at-20.32.31.png)
+![](../../.gitbook/assets/screenshot-2020-07-19-at-19.06.43.png)
 
 ## 09:00 \[all teams\] Week Overview
 
@@ -39,6 +39,10 @@ Tell us:
 ## 13:00 \[team only\] Build, test, document, ship
 
 Build what you've defined. Go team!
+
+Need help shipping? Please reach out to your coach and help channel!
+
+
 
 ## 14:00 \[workshop\] Docker & Deployment workshop
 

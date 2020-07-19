@@ -4,7 +4,7 @@ description: 'Build, test, document and ship again!'
 
 # Day 3: Build, test, document, ship
 
-![](../../.gitbook/assets/osoc-2020-cal-week-3.003%20%282%29.jpeg)
+![](../../.gitbook/assets/screenshot-2020-07-19-at-19.07.28.png)
 
 ## 09:00 \[team only\] Build, test, document
 

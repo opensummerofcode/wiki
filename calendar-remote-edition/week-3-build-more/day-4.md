@@ -4,7 +4,7 @@ description: "See all pitches, zoom out and prepare for next week \U0001F525"
 
 # Day 4: Pitch & Battle Plan
 
-![](../../.gitbook/assets/osoc-2020-cal-week-3.004%20%281%29.jpeg)
+![](../../.gitbook/assets/screenshot-2020-07-19-at-19.07.34.png)
 
 ## 09:00 \[all teams\] Pitch stream
 
