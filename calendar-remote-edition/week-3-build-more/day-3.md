@@ -35,6 +35,7 @@ Put your one-minute pitch video \(with slides\) in our cloud by 16:00: [https://
 Your pitch should include:
 
 * Project description
+  * Make it demo-day-ready!
 * What you've built
 * What you've learnt
 
