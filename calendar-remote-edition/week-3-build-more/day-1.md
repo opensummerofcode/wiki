@@ -42,13 +42,5 @@ Build what you've defined. Go team!
 
 Need help shipping? Please reach out to your coach and help channel!
 
-
-
-## 14:00 \[workshop\] Docker & Deployment workshop
-
-For people that want to freshen up their knowledge or have no clue how to get started, attend this workshop.
-
-Depending on your team and coach it's recommended to take this class!
-
 ## 17:00 have a nice day 🥳
 

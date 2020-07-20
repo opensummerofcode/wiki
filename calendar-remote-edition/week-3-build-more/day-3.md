@@ -38,6 +38,7 @@ Your pitch should include:
   * Make it demo-day-ready!
 * What you've built
 * What you've learnt
+* Give us a Call-To-Action!
 
 ## 17:00 have a nice day 🥳
 
