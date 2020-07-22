@@ -39,7 +39,9 @@ _Example:_
 
 ### After the Pitches: Project Breakouts
 
-After the pitches, you get the opportunity to view demos 😻. The selected teams show demos or give more information, other teams can roam & discover! Recommended: switch every 5 minutes 😉
+After the pitches, you get the opportunity to discover more and perhaps view demos 😻.
+
+The selected teams show demos or give more information, other teams can roam & discover! Recommended when roaming: switch every 5 minutes 😉
 
 #### Select a Host
 
