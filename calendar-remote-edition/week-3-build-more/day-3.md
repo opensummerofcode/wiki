@@ -10,6 +10,8 @@ description: 'Build, test, document and ship again!'
 
 Documentation is essential. Make sure you incorporate user interviews and testing 🔥😍
 
+How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../../how-to-conduct-remote-tests-and-interviews-with-real-people.md)
+
 ## 09:30 \[optional talk\] Solid by Ruben Verborgh
 
 Time: Jul 22, 2020 09:30 AM Brussels
@@ -30,15 +32,17 @@ Ship it real good! Make sure you incorporate user interviews and testing 🔥�
 
 MAKE IT LIKE IT'S DEMO DAY!
 
-Put your one-minute pitch video \(with slides\) in our cloud by 16:00: [https://cloud.openknowledge.be/s/z4Qc3866rg5MF7K](https://cloud.openknowledge.be/s/z4Qc3866rg5MF7K)
+Put your one-minute pitch video \(with slides\) in our cloud **by 16:00**:   
+[https://cloud.openknowledge.be/f/275132](https://cloud.openknowledge.be/f/275132)
 
 Your pitch should include:
 
 * Project description
   * Make it demo-day-ready!
-* What you've built
-* What you've learnt
+* Who is your client
 * Give us a Call-To-Action!
+
+![](../../.gitbook/assets/screenshot-2020-07-22-at-11.20.55.png)
 
 ## 17:00 have a nice day 🥳
 

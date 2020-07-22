@@ -12,6 +12,8 @@ Sync with your team, pick up where you left off and let's continue the hackathon
 
 Building something? Creating something? Talk to the people you're building it for! You can do user interviews and user tests.
 
+How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../../how-to-conduct-remote-tests-and-interviews-with-real-people.md)
+
 ## 13:00 \[team breakout only\] Continue Hackathon
 
 Take the afternoon to round up your hackathon. By 16:00 we expect a video pitch to show off what you've learnt 😏

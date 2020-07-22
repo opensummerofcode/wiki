@@ -10,6 +10,8 @@ description: Ship for the first time; don't forget to test with *actual living* 
 
 Documentation is essential. Make sure you incorporate user interviews and testing 🔥😍
 
+How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../../how-to-conduct-remote-tests-and-interviews-with-real-people.md)
+
 ## 13:00 \[team only\] Build, test, document, ship
 
 Ship it real good! Make sure you incorporate user interviews and testing 🔥😍

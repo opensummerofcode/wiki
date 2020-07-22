@@ -16,6 +16,8 @@ Let's go over the week together
 
 Build what you've defined. Go team!
 
+How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../../how-to-conduct-remote-tests-and-interviews-with-real-people.md)
+
 ## 10:00 \[optional talk\] Open Street Map by Pieter Vander Vennet
 
 Our coach Pieter shows you why Open Street Map is cool, why you _should_ use it and _how_ to use it!

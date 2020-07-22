@@ -42,5 +42,7 @@ Build what you've defined. Go team!
 
 Need help shipping? Please reach out to your coach and help channel!
 
+How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../../how-to-conduct-remote-tests-and-interviews-with-real-people.md)
+
 ## 17:00 have a nice day 🥳
 

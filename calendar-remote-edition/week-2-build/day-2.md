@@ -12,6 +12,8 @@ description: >-
 
 Build what you've defined. Go team!
 
+How to conduct user interviews and tests: [Conduct \(Remote\) Tests and Interviews with Real People](../../how-to-conduct-remote-tests-and-interviews-with-real-people.md)
+
 ## **09:00 or 10:00** \[client and team\] Client meetings
 
 Depending on the team you are on, you will have a client meeting at 09:00 or 10:00.
