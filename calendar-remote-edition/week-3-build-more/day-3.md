@@ -32,8 +32,9 @@ Ship it real good! Make sure you incorporate user interviews and testing ðŸ”¥ðŸ˜
 
 MAKE IT LIKE IT'S DEMO DAY!
 
-Put your one-minute pitch video \(with slides\) in our cloud **by 16:00**:   
-[https://cloud.openknowledge.be/f/275132](https://cloud.openknowledge.be/f/275132)
+Put your one-minute pitch video \(with slides\) in our cloud **by 16:00**: 
+
+[https://cloud.openknowledge.be/s/z4Qc3866rg5MF7K](https://cloud.openknowledge.be/s/z4Qc3866rg5MF7K)
 
 Your pitch should include:
 
