@@ -96,7 +96,7 @@ Tell us:
 
 ## 13:00 \[all teams\] Pitch stream
 
-We will show off all of our pitches! Go to the [instructions](day-4.md#prepare-for-the-pitching-rehearsal) to see what needs to happen.
+We will show off all of our pitches! Go to the [instructions](day-4.md#prepare-for-the-pitching-rehearsal-instructions) to see what needs to happen.
 
 ## 15:00 \[team only breakout\] Team learnings
 
