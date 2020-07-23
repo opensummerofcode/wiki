@@ -84,17 +84,9 @@ Your job is to make things go _smoooooth_. [Write down who will](https://docs.go
 
 _Do apply the rule of π!_
 
-## 11:00 \[coaches and student coaches only\] Optional Fika
+## ~~11:00 \[coaches and student coaches only\] Optional Fika~~
 
-Talk about what's been going on your team; the good and the bad. 
-
-Tell us:
-
-* how are you doing as a person and as a coach?
-* What is not going well in the team?
-* What is going well in the team?
-
-{% embed url="https://meet.openknowledge.be/fika" %}
+Cancelled due to hard work!
 
 ## 13:00 \[all teams\] Pitch stream
 
