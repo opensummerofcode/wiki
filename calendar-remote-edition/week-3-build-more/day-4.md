@@ -73,7 +73,7 @@ Your job is to make things go _smoooooth_. [Write down who will](https://docs.go
 * **11** Bike Data Project [meet.openknowledge.be/11](http://meet.openknowledge.be/11)
 * **12** Cyclofix [meet.openknowledge.be/12](http://meet.openknowledge.be/12)
 * **13** Fast and Slow [meet.openknowledge.be/13](http://meet.openknowledge.be/13)
-* **14** FRIS [meet.openknowledge.be/14](http://meet.openknowledge.be/FRIS)
+* **14** FRIS [meet.openknowledge.be/14](https://meet.openknowledge.be/14)
 * **15** Job match [meet.openknowledge.be/15](http://meet.openknowledge.be/15)
 * **16** Shmdoc [meet.openknowledge.be/16](http://meet.openknowledge.be/16)
 * **17** RML.io Dashboard [meet.openknowledge.be/17](http://meet.openknowledge.be/17)
