@@ -48,6 +48,12 @@ Time stamps
   * [How to write clear tasks, issues and bugs 12:33](https://youtu.be/gYXekYt045Y?t=753)
   * [Assigning people 14:28](https://youtu.be/gYXekYt045Y?t=869)
 
+## How To Vent, Improve and Replenish the Team With a Team Retrospective
+
+{% embed url="https://www.youtube.com/watch?v=UiuFR0FI-tA&t=6s" %}
+
+
+
 ## More good resources
 
 {% embed url="http://www.frederikvincx.com/8-sticky-note-walls-keep-team-track/" caption="Great ways to manage your team by our coach Frederik Vincx" %}
