@@ -44,21 +44,25 @@ So if you are working on a project that has been around the year before, make su
 
 ![We created a&#x2028;deliverable checklist &#x2028;to help teams accomplish these steps.&#x2028;](../.gitbook/assets/screenshot-2020-06-30-at-22.31.43.png)
 
-Step 1: Go to the cloud **folder for students** [https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK](https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK)
+Step 1: Go to the drive **folder for students** [**https://drive.google.com/drive/folders/1n4SAYpis-DJbNmb5zPcaw6bjP-aQEFRm?usp=sharing**](https://drive.google.com/drive/folders/1n4SAYpis-DJbNmb5zPcaw6bjP-aQEFRm?usp=sharing)\*\*\*\*
 
-![Go to the cloud folder for students](../.gitbook/assets/osoc-deliverables-2020.001%20%281%29.jpeg)
+{% hint style="info" %}
+We have changed from Nextcloud to **Drive** because of editing issues. Sorry for the inconvenience!
+{% endhint %}
+
+![](../.gitbook/assets/screenshot-2020-07-25-at-22.44.31.png)
 
 Step 2: Go to **Deliverables**
 
-![Go to deliverables](../.gitbook/assets/osoc-deliverables-2020.002.jpeg)
+![](../.gitbook/assets/screenshot-2020-07-25-at-22.45.08.png)
 
 Step 3: find the deliverables **checklist**
 
-![Open the checklist online \(do not download\)](../.gitbook/assets/osoc-deliverables-2020.003%20%281%29.jpeg)
+![](../.gitbook/assets/screenshot-2020-07-25-at-22.45.33.png)
 
 Step 4: Start **checking** boxes!
 
-![Start harassing your team&#x2028;with love&#xA0;&#x1F618;](../.gitbook/assets/osoc-deliverables-2020.004%20%281%29.jpeg)
+![](../.gitbook/assets/screenshot-2020-07-25-at-22.45.54.png)
 
 ## Some help
 
@@ -71,8 +75,8 @@ This will help the client understand what kind ship the team has built, how they
 
 ![](../.gitbook/assets/screenshot-2020-06-30-at-22.41.05.png)
 
-* Find the template in your team folder [https://cloud.openknowledge.be/f/272925](https://cloud.openknowledge.be/f/272925)
-* Find examples of the handover dossier here: [https://cloud.openknowledge.be/f/275772](https://cloud.openknowledge.be/f/275772)
+* Find the template in your team folder [https://drive.google.com/drive/folders/1n4SAYpis-DJbNmb5zPcaw6bjP-aQEFRm?usp=sharing](https://drive.google.com/drive/folders/1n4SAYpis-DJbNmb5zPcaw6bjP-aQEFRm?usp=sharing)
+* Find examples of the handover dossier here [https://drive.google.com/drive/folders/16z6e39rb6t7AAgYl0InFLsG09o8BI3BC?usp=sharing](https://drive.google.com/drive/folders/16z6e39rb6t7AAgYl0InFLsG09o8BI3BC?usp=sharing)
 
 ### Github Pages
 
