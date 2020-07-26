@@ -1,3 +1,7 @@
+---
+description: Ooooooooooooooooooooooaaaaaaaaeeeeeeeeeeeuuuuuuuiiiiiiiiiiiii
+---
+
 # Day 4: Demo Day
 
 ![](../../.gitbook/assets/screenshot-2020-07-26-at-19.04.03.png)
