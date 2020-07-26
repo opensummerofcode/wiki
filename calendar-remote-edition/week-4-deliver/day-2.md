@@ -35,7 +35,7 @@ Your pitch should include:
 * Project description
   * Make it demo-day-ready!
 * Who is your client
-* Give us a Call-To-Action, tell us why to come to your project breakout room!
+* Give us a Call-To-Action!
 
 ![](../../.gitbook/assets/screenshot-2020-07-22-at-11.20.55.png)
 
