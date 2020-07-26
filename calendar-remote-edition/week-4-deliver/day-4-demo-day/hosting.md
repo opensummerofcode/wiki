@@ -11,7 +11,7 @@ description: >-
 
 During the breakout sessions, the whole team is present in the breakout room to welcome visitors, show off their work and answer questions \(just like in a live edition where they'd come to your booth!\).
 
-This is a chance for you to present yourself to future employers, meet like-minded people and to show people what you've made.
+_This is a chance for you to present yourself to future employers, meet like-minded people and to show people what you've made. Use it as an opportunity_ 😊
 
 {% hint style="info" %}
 During the first breakout room test it was clear this job can get quite heavy; so you can definitely split up tasks over your team members and coach\(es\)!
