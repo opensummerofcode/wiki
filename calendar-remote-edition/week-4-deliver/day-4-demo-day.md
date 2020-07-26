@@ -12,7 +12,7 @@ If something went terribly wrong... You can still fix it now 😬
 
 ![](../../.gitbook/assets/elmo.gif)
 
-## \[team only\] Team Goodbyes
+## 11:00 \[team only\] Team Goodbyes
 
 Time to say goodbye to your team and give each other some feedback... 🥰
 
