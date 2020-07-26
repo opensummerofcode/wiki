@@ -22,32 +22,7 @@ We show 3 pitches, then we have an interview with a 3 team representatives for e
 
 1. Decide who is going to be the team representative that will answer that question?
 2. Test that person's mic and surroundings \(we need good sound, and not too much background noise!\)
-
-{% hint style="info" %}
-As an interviewee:  
-  
-**Reduce noise** 😅  
-Make sure you're in a space with little background noise or echo \(sitting in a closet or broom closet sometimes helps   
-  
-**Reduce distraction** 💃  
-Create an environment that focuses on you: sit yourself in a space with a _"clean"_  background behind you. Just make sure it isn't distracting.  
-  
-**Light your face 🙍🏽‍♀️🔦☀️**  
-Make sure we can see your face well. Light your face; not your back – always face windows & lights.  
-  
-**Look at us** 👀  
-Look in the camera, so it feels like you're looking at us   
-  
-**Use a good mic 🎙**  
-Use a good microphone, that is preferably not your laptop's microphone.  
-- option A: Connect your phone as a mic, and keep it close to you; as if you're talking to someone on videochat. Try out different positions to avoid "pops" in your voice.  
-- option B: use the microphone of your earbuds or headphones. Try all of them! It'll work better than your laptop's mic, as it is closer to your mouth.
-
-**Energy! ⚡️**  
-_****_Breathe in.. stretch.. take up space... smile. Bring your best energy.
-
-_**Please test this with your teammates in advance!**_
-{% endhint %}
+3. Check out the extra [Extra Pitch and Interview Tips](the-pitch.md) to reassure quality 👌
 
 ### What does the team representative do?
 

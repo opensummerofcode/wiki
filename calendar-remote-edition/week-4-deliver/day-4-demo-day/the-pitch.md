@@ -23,8 +23,8 @@ Look in the camera, so it feels like you're looking at us!
 {% hint style="success" %}
 **Use a good mic 🎙**  
 Use a good microphone, that is preferably not your laptop's microphone.  
-- option A: Connect your phone as a mic, and keep it close to you; as if you're talking to someone on videochat. Try out different positions to avoid "pops" in your voice.  
-- option B: use the microphone of your earbuds or headphones. Try all of them! It'll work better than your laptop's mic, as it is closer to your mouth.
+- option A, for **pre-recorded videos**: Connect your phone as a mic \(you can connect your video too!\), and keep it close to you; as if you're talking to someone on videochat. Try out different positions to avoid "pops" in your voice.  
+- option B, for **live videos**: use the microphone of your earbuds or headphones. Try all of them! It'll work better than your laptop's mic, as it is closer to your mouth.
 {% endhint %}
 
 {% hint style="success" %}
@@ -40,7 +40,7 @@ Go for it. 1 take. Practice. Go for _not too_ perfect 😏
 {% endhint %}
 
 {% hint style="success" %}
-**Energy! ⚡️**  
+**Energy! ⚡️for everyone**  
 _****_Breathe in.. stretch.. take up space... smile. Bring your _best energy._
 {% endhint %}
 
