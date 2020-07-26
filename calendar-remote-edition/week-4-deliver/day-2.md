@@ -45,5 +45,15 @@ Your pitch should include:
 
 Don't worry, we'll teach you how to deliver like a pro \[[tutorial](../../how-to-deliver-like-a-pro/)\]!
 
+## 13:30 \[hosts and interviewees\] Run through + mic check with Miet
+
+To make sure the demo day will go _smoooooth_ 
+
+## \[student coaches only\] Student Coach Retro
+
+We would love to hear your feedback. If you really can't make it, we'll send the questions afterwards.
+
+We meet via Discord \(or via Zoom, depending on the load!\)
+
 ## 17:00 have a nice day 🥳
 
