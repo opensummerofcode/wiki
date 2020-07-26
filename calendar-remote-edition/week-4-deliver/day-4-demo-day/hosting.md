@@ -102,8 +102,6 @@ A lot of questions coming in? Help out the host.
 
 ![Example of delegating answering questions](../../../.gitbook/assets/screenshot-2020-07-26-at-22.18.03.png)
 
-
-
 {% hint style="info" %}
 Good luck and remember to have fun 🤩
 {% endhint %}
