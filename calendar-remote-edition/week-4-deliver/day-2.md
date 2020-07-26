@@ -4,15 +4,13 @@ description: Pitch and document!
 
 # Day 2: Pitch pitch pitch
 
-![](../../.gitbook/assets/osoc-2020-cal-week-4.002.jpeg)
-
 ## 09:00 \[team only\] Create your Demo Day pitch 🥳
 
 Last pitch to create; make it count!
 
 ## ~~11:00 \[coaches & student coaches only\] Optional Fika~~
 
-Cancelled due to other priorities.
+Cancelled due to other priorities –we have retro's planned this week to replace.
 
 ## 13:00 \[HARD DEADLINE\] Deliver your _final_ pitch!
 
@@ -37,7 +35,7 @@ Your pitch should include:
 * Project description
   * Make it demo-day-ready!
 * Who is your client
-* Give us a Call-To-Action!
+* Give us a Call-To-Action, tell us why to come to your project breakout room!
 
 ![](../../.gitbook/assets/screenshot-2020-07-22-at-11.20.55.png)
 
