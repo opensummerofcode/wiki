@@ -1,5 +1,7 @@
 ---
-description: What the interviews are about.
+description: >-
+  One of the team members will be representing your team, and will answer a
+  short question during the livestream!
 ---
 
 # Interviews
