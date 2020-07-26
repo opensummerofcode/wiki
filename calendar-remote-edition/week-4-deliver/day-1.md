@@ -34,6 +34,12 @@ We want to make sure Jitsi will hold up when we are doing the project breakout r
 
 ### 1. Jitsi stress test + chance to scream
 
+{% hint style="info" %}
+We all meet in 1 [jitsi room](https://meet.openknowledge.be/vent), with our **cams on** and... scream, sob, complain, laugh hysterically, swear, sing – for 1 minute ^^  
+  
+Don't have a mic or a cam? Come over anyways! Every extra test is a good one 👌
+{% endhint %}
+
 ![](../../.gitbook/assets/screenshot-2020-07-26-at-15.34.20.png)
 
 {% embed url="http://meet.openknowledge.be/vent" caption="This is the meeting room where we\'ll vent" %}
