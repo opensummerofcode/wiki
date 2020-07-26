@@ -24,7 +24,7 @@ Put your one-minute pitch video \(slides optional\) in our **DRIVE \(we have mig
 Please warn Miet if you'll be later than 13:00.
 {% endhint %}
 
-### Update the project description document! 
+### Update the project description document
 
 Update the host and interviewee in the spreadsheets: [https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O\_vAOphsx2vnGE/edit\#gid=0](https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O_vAOphsx2vnGE/edit#gid=0)
 
