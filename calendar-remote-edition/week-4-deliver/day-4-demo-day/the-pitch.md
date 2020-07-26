@@ -2,7 +2,7 @@
 
 {% hint style="success" %}
 **Reduce noise 📣**  
-Make sure you're in a space with little background noise or echo. Sitting in a closet sometimes helps 😅
+Make sure you're in a space with little background noise or echo. Sitting in a closet or cupboard sometimes helps 😅
 {% endhint %}
 
 {% hint style="success" %}
