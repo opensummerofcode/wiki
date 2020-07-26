@@ -1,5 +1,5 @@
 ---
-description: Ooooooooooooooooooooooaaaaaaaaeeeeeeeeeeeuuuuuuuiiiiiiiiiiiii
+description: Ooooooooooooooooooooooaaaaaaaaeeeeeeeeeeeuuuuuuuiiiiiiiii
 ---
 
 # Day 4: Demo Day
