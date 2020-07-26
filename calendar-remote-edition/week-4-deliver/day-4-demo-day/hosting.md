@@ -73,13 +73,38 @@ Urge people to enter a name, so we know who to address. This makes it easier to 
 
 ![](../../../.gitbook/assets/screenshot-2020-07-26-at-20.57.14.png)
 
+## Pick Who Will Show the Demo, a Website, ...?
+
+Multiple people can take on this role, but the most important part is that you made good agreements about it.
+
 ## Pick a Question Moderator
 
-The Master of Ceremony might need some backup while answering questions, if there's a lot of people in there.
+The Master of Ceremony might need some backup while answering questions, especially if there's a lot of people in there.
 
 ### Keep an eye on questions
 
-Someone in the team can help pick interesting questions and bundle similar questions if needed. Use discord or the private message function 
+A lot of questions coming in? Help out the host.
 
-How would you approach role division in a break out? How many members of your teams should remain in the break out room? Can it all be done by one person? Like pitching, MC'ing and moderating \(muting people, seeing which relevant questions there are\), showing demo tools answering questions? Seems like a lot to handle
+* Pick interesting and bundle similar questions
+* Give the hosts a heads up on:
+  * which question is going to be answered
+  * who posed the question \(and thus who to invite to the screen with mic\)
+  * who will answer the question \(the team member that can answer; this is especially useful in bigger teams\)
+
+#### How to delegate
+
+1. Use discord
+2. Use the DM function in Jitsi
+
+![How to DM in Jitsi: click on the three dots besides the person you want to DM](../../../.gitbook/assets/screenshot-2020-07-26-at-22.14.44.png)
+
+![Example message to host](../../../.gitbook/assets/screenshot-2020-07-26-at-22.15.53.png)
+
+![Example of delegating answering questions](../../../.gitbook/assets/screenshot-2020-07-26-at-22.18.03.png)
+
+
+
+{% hint style="info" %}
+Good luck and remember to have fun 🤩
+{% endhint %}
 
