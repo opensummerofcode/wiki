@@ -10,27 +10,36 @@ description: Pitch and document!
 
 Last pitch to create; make it count!
 
-## 11:00 \[coaches & student coaches only\] Optional Fika
+## ~~11:00 \[coaches & student coaches only\] Optional Fika~~
 
-Tell us:
+Cancelled due to other priorities.
 
-* How are you doing as a person and as a coach?
-* What is **not** going well in the team?
-* What **is** going well in the team?
-
-{% embed url="https://meet.openknowledge.be/fika" %}
-
-## 13:00 \[HARD DEADLINE\] Deliver your pitch!
+## 13:00 \[HARD DEADLINE\] Deliver your _final_ pitch!
 
 Demo Day Pitch! Whoop!
 
-Put your one-minute pitch video \(slides optional\) in our cloud by 16:00: [https://cloud.openknowledge.be/s/sJKJGx7nY7qspms](https://cloud.openknowledge.be/s/nsJwzoM5AXwezAk)
+Put your one-minute pitch video \(slides optional\) in our **DRIVE \(we have migrated\)** by 13:00: [https://drive.google.com/drive/folders/1I2GqIO9YJAbySfwkuNNpEZaKgC0nyD\_e?usp=sharing](https://drive.google.com/drive/folders/1I2GqIO9YJAbySfwkuNNpEZaKgC0nyD_e?usp=sharing)
+
+{% hint style="info" %}
+Please warn Miet if you'll be later than 13:00.
+{% endhint %}
+
+### Update the project description document! 
+
+Update the host and interviewee in the spreadsheets: [https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O\_vAOphsx2vnGE/edit\#gid=0](https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O_vAOphsx2vnGE/edit#gid=0)
+
+{% hint style="info" %}
+Host instructions coming
+{% endhint %}
 
 Your pitch should include:
 
 * Project description
-* What you've built
-* What you've learnt
+  * Make it demo-day-ready!
+* Who is your client
+* Give us a Call-To-Action!
+
+![](../../.gitbook/assets/screenshot-2020-07-22-at-11.20.55.png)
 
 ## 13:00 \[team only\] Documentation, site, handover document, ... 
 
