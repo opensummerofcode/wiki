@@ -1,6 +1,6 @@
 # Day 4: Demo Day
 
-![](../../.gitbook/assets/screenshot-2020-07-26-at-15.09.47.png)
+![](../../.gitbook/assets/screenshot-2020-07-26-at-19.04.03.png)
 
 ## 09:00 \[team only\] Everything is on fire
 
