@@ -4,7 +4,7 @@ description: 'Deliver like a professional: a well-documented, stable project.'
 
 # Day 3: Delivery Day
 
-![Deliver like a professional: a well-documented, stable project.](../../.gitbook/assets/osoc-2020-cal-week-4.003.jpeg)
+![](../../.gitbook/assets/screenshot-2020-07-26-at-15.09.35.png)
 
 ## 09:00 \[team only\] Documentation, site, handover document, ... 
 

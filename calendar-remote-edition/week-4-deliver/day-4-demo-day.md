@@ -1,6 +1,6 @@
 # Day 4: Demo Day
 
-![](../../.gitbook/assets/osoc-2020-cal-week-4.004.jpeg)
+![](../../.gitbook/assets/screenshot-2020-07-26-at-15.09.47.png)
 
 ## 09:00 \[team only\] Everything is on fire
 

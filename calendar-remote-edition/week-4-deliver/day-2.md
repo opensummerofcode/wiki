@@ -4,6 +4,8 @@ description: Pitch and document!
 
 # Day 2: Pitch pitch pitch
 
+![](../../.gitbook/assets/screenshot-2020-07-26-at-15.09.23.png)
+
 ## 09:00 \[team only\] Create your Demo Day pitch 🥳
 
 Last pitch to create; make it count!
@@ -35,7 +37,7 @@ Your pitch should include:
 * Project description
   * Make it demo-day-ready!
 * Who is your client
-* Give us a Call-To-Action!
+* Give us a Call-To-Action, tell us why to come to your project breakout room!
 
 ![](../../.gitbook/assets/screenshot-2020-07-22-at-11.20.55.png)
 
