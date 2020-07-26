@@ -1,4 +1,4 @@
-# Extra Pitch Tips
+# Extra Pitch and Interview Tips
 
 {% hint style="success" %}
 **Reduce noise 📣**  
@@ -28,10 +28,15 @@ Use a good microphone, that is preferably not your laptop's microphone.
 {% endhint %}
 
 {% hint style="success" %}
-**Position yourself like a pro 🏆**  
+**Position yourself like a pro 🏆**\(for pitches and vlogging\)  
 Use the golden ratio to position yourself in front of the camera  
 [https://photographyhero.com/golden-ratio-photography/\#:~:text=What%20is%20the%20Golden%20Ratio,art%20from%20paintings%20to%20architecture.](https://photographyhero.com/golden-ratio-photography/#:~:text=What%20is%20the%20Golden%20Ratio,art%20from%20paintings%20to%20architecture.)  
 _Make sure you look "in the screen", into empty space next to you, not outside of the video._
+{% endhint %}
+
+{% hint style="success" %}
+**No video editing software? No problem!** \(for pitches and vlogging\)  
+Go for it. 1 take. Practice. Go for _not too_ perfect 😏
 {% endhint %}
 
 {% hint style="success" %}

@@ -22,7 +22,7 @@
     * [Day 2: Pitch pitch pitch](calendar-remote-edition/week-4-deliver/day-2.md)
     * [Day 3: Delivery Day](calendar-remote-edition/week-4-deliver/day-3.md)
     * [Day 4: Demo Day](calendar-remote-edition/week-4-deliver/day-4-demo-day/README.md)
-      * [Extra Pitch Tips](calendar-remote-edition/week-4-deliver/day-4-demo-day/the-pitch.md)
+      * [Extra Pitch and Interview Tips](calendar-remote-edition/week-4-deliver/day-4-demo-day/the-pitch.md)
       * [Interviews](calendar-remote-edition/week-4-deliver/day-4-demo-day/interviews.md)
       * [Hosting](calendar-remote-edition/week-4-deliver/day-4-demo-day/hosting.md)
 * [Code of Conduct](code-of-conduct.md)
