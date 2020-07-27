@@ -51,6 +51,16 @@ If you're speaking and people are noisy, you can mute everyone 😇
 
 But make sure you're not a troll yourself by using this power foolishly!
 
+## Set the Stage
+
+1. Make sure everyone knows what will happen during the breakout session; and what is expected of them. Prepare a slide to welcome everyone, and outline the rules.
+   1. If people are shy, you can add example questions to the chat!
+2. Share your contact details in the end! Network mode 🔥
+
+Our wonderful Aïsha prepared a template for you:
+
+{% file src="../../../.gitbook/assets/hi\_welcome \(2\).pptx" caption="Breakout room Welcome + Goodbye Template" %}
+
 ## Pick a Master of Ceremony to Welcome People
 
 Make sure people feel welcome in your temporary home!
