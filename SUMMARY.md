@@ -65,7 +65,7 @@
 * [The Partner's Job](partners/the-partners-job.md)
 * [Projects](partners/projects.md)
 
-## Tools
+## Tools & Resources <a id="tools"></a>
 
 * [Discord](tools/discord/README.md)
   * [Discord etiquette](tools/discord/discord-etiquette.md)
@@ -73,6 +73,7 @@
   * [Managing notifications](tools/discord/managing-notifications.md)
   * [Offering and Receiving Help](tools/discord/remote-helping.md)
 * [NextCloud](tools/nextcloud.md)
+* [The \#osoc Emoji](tools/the-osoc-emoji.md)
 
 ## Tutorials
 
