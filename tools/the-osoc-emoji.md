@@ -6,11 +6,11 @@ description: 'Created in 2020, for the printed cards!'
 
 These emoji are adapted from [Freepik.com](https://www.freepik.com/) \(under a Freepik license\); and adapted to the osoc branding. Colours and branding are created by Open Knowledge Belgium \(free to use!\).
 
-## Download all emoji at once \(PDF\)
+## Download all emoji at once \(Zip file with PDF\)
 
 {% file src="../.gitbook/assets/osoc-emoji.zip" caption="osoc-all-emoji" %}
 
-## Download separate files
+## Download separate files \(PDF\)
 
 {% file src="../.gitbook/assets/osoc-osoc.pdf" caption="osoc" %}
 
