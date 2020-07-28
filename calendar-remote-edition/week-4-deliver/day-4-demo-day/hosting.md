@@ -51,6 +51,8 @@ If you're speaking and people are noisy, you can mute everyone 😇
 
 But make sure you're not a troll yourself by using this power foolishly!
 
+**If the room exceeds 30 people**, kindly send them a personal message that the room is full and refer them to one of the other 3 \(or 4\) rooms are available. Prepare a little text in advance, so you can easily copy-paste it ;-\) If they will not leave by themselves, kick them!
+
 ## Set the Stage
 
 1. Make sure everyone knows what will happen during the breakout session; and what is expected of them. Prepare a slide to welcome everyone, and outline the rules.
