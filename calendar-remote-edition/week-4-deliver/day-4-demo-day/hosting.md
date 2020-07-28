@@ -7,9 +7,30 @@ description: >-
 
 # Hosting
 
+## TDLR; Todo's
+
+### Day before
+
+* [Divide](hosting.md#get-ready-as-a-team-and-divide-work) the work
+* Have a [welcome slide](hosting.md#set-the-stage) while people come in, and a [goodbye slide](hosting.md#set-the-stage) to say goodbye
+
+### An hour before
+
+* [Be in your breakout room first](hosting.md#pick-a-noise-and-troll-moderator), at the start of the pitch stream already.
+
+### During
+
+* [Keep the noise down](hosting.md#pick-a-noise-and-troll-moderator)
+* Make sure not more than 30 people are in the room at the same time. Kindly ask them to leave in-chat, or[ kick them if](hosting.md#pick-a-noise-and-troll-moderator) needed.
+* [Welcome](hosting.md#pick-a-master-of-ceremony-to-welcome-people) people \(and use the slides\)
+* [Show off](hosting.md#pick-who-will-show-the-demo-a-website) what you've made
+* [Moderate](hosting.md#pick-a-question-moderator) questions
+
 ## Get Ready as a Team & Divide work
 
 During the breakout sessions, the whole team is present in the breakout room to welcome visitors, show off their work and answer questions \(just like in a live edition where they'd come to your booth!\).
+
+During the demo day **you won't not roam around**, only visitors will \(to make sure we do not overload the servers\). The team is present the assigned breakout waiting for their visitors.
 
 _This is a chance for you to present yourself to future employers, meet like-minded people and to show people what you've made. Use it as an opportunity_ 😊
 
