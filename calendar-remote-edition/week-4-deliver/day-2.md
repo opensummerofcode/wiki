@@ -45,9 +45,13 @@ Your pitch should include:
 
 Don't worry, we'll teach you how to deliver like a pro \[[tutorial](../../how-to-deliver-like-a-pro/)\]!
 
-## 13:30 \[hosts and interviewees\] Run through + mic check with Miet
+## 13:30 \[hosts and interviewees\] Run through + mic check with Miet + Stress test 2
 
 To make sure the demo day will go _smoooooth_ 
+
+![](../../.gitbook/assets/screenshot-2020-07-28-at-09.50.45.png)
+
+![](../../.gitbook/assets/screenshot-2020-07-28-at-09.50.49.png)
 
 ## \[student coaches only\] Student Coach Retro
 
