@@ -7,7 +7,7 @@ description: >-
 
 # Hosting
 
-## TDLR; Todo's
+## TDLR \(yes, too didn't long read\); Todo's
 
 ### Day before
 
