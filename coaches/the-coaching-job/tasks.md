@@ -22,7 +22,7 @@ description: >-
 
 _Make sure that your team is balanced. Match the right people with the right skills for the project, and make sure their characters will work._
 
-Before Open Summer of Code starts, we start[ screening the students](screening-students.md) beforehand. We will invite some coaches to do the screening. After that, we start building teams. We all aim for a healthy mix; on skill-level and on character type. It's important that teams are balanced:
+Before open summer of code starts, we start[ screening the students](screening-students.md) beforehand. We will invite some coaches to do the screening. After that, we start building teams. We all aim for a healthy mix; on skill-level and on character type. It's important that teams are balanced:
 
 * You can't have all unicorns in one team, nor can you have all inexperienced students in an other.
 * It's also good to have some introverts and some extraverts in one team; leaders and followers. These types of teams motivate and complete each other in social skills.
