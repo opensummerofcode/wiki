@@ -14,6 +14,10 @@ You'll be protecting your team. From the client, themselves, each other... and f
 
 Make sure the _client_ knows what to expect, and _students_ get a grasp of what is realistic. Your students will want to build something amazing, but still have a lot to learn.
 
+![You rooting for your team](../../.gitbook/assets/samuel-scrimshaw-168189-unsplash.jpg)
+
+Photo by [Samuel Scrimshaw](https://unsplash.com/@samscrim?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/lion-roar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 #### Curb their enthusiasm \(a little\)
 
 Usually, the teams will want to make the client as happy as possible, which can result into overpromising. This mostly comes from a place of enthusiasm — but also a lack of experience. A good rule of thumb, is that an estimated task takes up 3.14 times more time than your team members estimate  \(refer to the rule of Π or pi\). Manage the expectations of your teams and clients into something realistic, and you've done a good job.
@@ -27,10 +31,6 @@ Let your students struggle a little. Remember how you learnt to do the stuff you
 #### Honesty & transparency
 
 Clients might also expect more of the team. It's hard to estimate what a team is capable of. The only way to keep a client happy is to keep them informed. Make the scope of your project as tiny as possible per milestone \(a hackathon or sprint week, for instance\), and communicate honest and on a regular base.
-
-![You rooting for your team](../../.gitbook/assets/samuel-scrimshaw-168189-unsplash.jpg)
-
-Photo by [Samuel Scrimshaw](https://unsplash.com/@samscrim?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/lion-roar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## Let them do the work
 
