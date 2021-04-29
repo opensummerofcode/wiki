@@ -17,17 +17,15 @@ Welcome to open summer of code!
 * Calendar overview
 * Deliverables \[[tutorial](../../how-to-deliver-like-a-pro/)\]
 
-## **10:00 \[team only breakout\] Get to know your team**
+## **10:00 \[team only breakout\] Get to know your team & your project**
 
-Who’s who & what do you do?
+### Who’s who & what do you do?
 
 * Icebreaker; get to know each other!
 * Share your skills, talents hobbies, …
 * Tell us what you can help other people with
 
-## **11:00 \[team only breakout\] Get to know your project**
-
-What are we going to do?
+### What are we going to do?
 
 * Study the briefing
   * You can find the briefing in [the folder of your team](https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK)
