@@ -26,11 +26,11 @@ Depending on your team, you can send out the email, or you can have the team sen
 
 ## Partners on your Discord channel
 
-Only make partners join the Discord if they ask and if you feel the students are comfortable with that.
+Only make partners join the Discord if this is really needed, if they want to and if you feel the students are comfortable with that.
 
-When your partner does join your Discord channel, it's recommended to create a separate slack room without your partner. This way you can discuss things internally when needed.
+When your partner does join your Discord channel, it's recommended to create a separate room _without_ your partner. This way you can discuss things internally when needed.
 
+{% hint style="warning" %}
 Do inform the coordinators of this decision up front, so we don't have any surprises.
-
-
+{% endhint %}
 
