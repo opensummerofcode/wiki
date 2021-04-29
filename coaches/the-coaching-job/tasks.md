@@ -16,9 +16,7 @@ description: >-
 * [Know your fellow \(student\) coaches](tasks.md#knowing-your-fellow-student-and-assistant-coaches)
 * [Helping out other teams](tasks.md#helping-out-other-teams)
 
-
-
-### Assemble your team
+## Assemble your team
 
 _Make sure that your team is balanced. Match the right people with the right skills for the project, and make sure their characters will work._
 
@@ -29,12 +27,12 @@ Before open summer of code starts, we start[ screening the students](screening-s
 
 This balance is hard to figure out beforehand — even if you gave those students a call and had an interview with them. It happens a team isn't working together as well as you thought it would. This could be an issue of skill, experience or character. If this is the case, reach out to the organisation/your fellow coaches and find out if there's other teams you can switch members with. This can be hard, but keep in mind it's about the whole of Osoc, not just about your team. It could happen one of your rockstars might be switched out with someone less experienced; but is a better fit for Osoc.
 
-### Expectation management of your client
+## Expectation management of your client
 
 * At the start of osoc, it's your job to manage the partner's expectations \(just like you would in your own projects\). Keep in mind these are students, and it's _possible_ the outcome won't be what they want it to be. You'll have to adjust along the way in those 4 weeks.
 * Scoping a project is very important from the start. After you receive the briefing, ask the right questions to chop the tasks into smaller parts, prioritise the tasks and make sure the client knows what's absolutely not feasible, and what might be feasible. Not sure how to conduct a scoping session? Contact your organisation!
 
-### Creating a process and structure for your team
+## Creating a process and structure for your team
 
 A non-exhaustive list of examples:
 
@@ -49,19 +47,19 @@ A non-exhaustive list of examples:
 
 Go to [How to manage a team](../../how-to-manage-a-team.md) for tips and tricks! Something missing? Let us know.
 
-### Arbiter of quality
+## Arbiter of quality
 
 You are the arbiter of quality. You decide what is shipped, what is not, and what is communicated to the client. Of course, it's the student's job to deliver good code, a good design and a decent communication plan. It is your job to have it tested \(by the students and yourself\), and deliver the right information to your client in times when you see fit. For instance, you can communicate every week, every two days or every day, after every big release… depending on what you see fit. As long as your client isn't left in the dark, up-to-date and can trust you.
 
-### Client meetings & contact
+## Client meetings & contact
 
-#### Client meetings
+### Client meetings
 
 A client meeting happens at least once a week. Most of our students have no experience with attending or guiding a client meeting, so your presence is crucial — before \(preparation\), during \(guidance\) and after the meeting \(feedback\). A very experienced team can probably do this on their own at some point, but you should always be up-to-date.
 
 The meetings should be well-prepared \(agenda, demo, questions prepared\), well-executed \(concise, polite, clear\) and written down during the meeting \(meeting-minutes\). A feedback session is helpful for the students to learn about what they can do better in the future.
 
-#### Contact
+### Contact
 
 Keep your client up to date, and don't leave them in the dark. A client needs to be able to trust your team, and know what the team is up to. You can communicate every week, every two days or every day, after every big release… depending on what you see fit. 
 
@@ -69,7 +67,26 @@ You can delegate the communication, but make sure the students run it past you b
 
 At the end of Osoc, you'll also hand in a big [delivery document](../../how-to-deliver-like-a-pro/) with your students, that contains all the work.
 
-### Half-time coaches
+## First-time coaches
+
+Everybody needs to start somewhere. Not every coach knows what to do from the start, and this is why we have an assistant coach program. We assist you with [coaching tasks](./). This includes:
+
+* Scoping sessions \(SLIP\)
+* Team assembly
+* Creating structure for the team
+  * Standups
+  * Conducting retrospects
+  * Workflow
+* "Team crisis"
+* etc.
+
+In Belgium, you have a coach of coaches to help you out, in Spain — please contact your organisation.
+
+{% hint style="info" %}
+Feel free to reach out if you need some more information! Ping Miet on Discord, or mail[ miet@openknowledge.be](mailto:miet@openknowledge.be).
+{% endhint %}
+
+## Half-time coaches
 
 If you are a half time coach, there are two scenario's
 
@@ -83,13 +100,13 @@ Your buddies and alumni/student coaches are here to make sure you have someone t
 
 If you need to check in with someone else, you can always ask help from other coaches or the lead coach!
 
-### Knowing your fellow \(student\) coaches
+## Knowing your fellow \(student\) coaches
 
 You're a coach in the first place. But you'll also have other skills. For instance, you're a designer, a dev, a marketer, a copyright expert or a yogi.
 
 Other teams might need your expertise to move forward; and you might need an other coaches' expertise as well. Osoc is all about sharing and learning from each other. So it's your job to figure out who is on board, to ask for help whenever you or your team needs it — and to help others out. Right now, we don't have a great system for this \(yet\), so grab your fellow coaches for lunch in the first week and get to know each other ;-\)
 
-### Helping out other teams
+## Helping out other teams
 
 You have a set of skills other coaches might not have. For instance, a team needs feedback on a poster design and only has dev coaches. Or a designer coach has no clue how to help their team with implementing a map. Use your spare time to get to know the others, and help out a little. Sharing is caring, and you'll get to know some interesting people!
 

@@ -46,7 +46,7 @@ Woah, we're so glad we can count on you and your expertise!
   * A more detailed overview you can find in [Tasks](coaches/the-coaching-job/tasks.md) and [How to work with partners](coaches/partners.md)
   * And if you want to know what will happen day-by-day go to [calendar](calendar-remote-edition/).
   * Before osoc gets started, make sure you take a look at [**How to prepare before osoc**](coaches/the-coaching-job/battle-prep.md)\*\*\*\*
-* First time, or student coach? Visit [this page for first-time coaches](coaches/the-coaching-job/first-time-coaches.md) or [this page for student coaches](coaches/the-coaching-job/student-coaches.md)
+* First time, or student coach? Visit [this page for first-time coaches]() or [this page for student coaches](coaches/the-coaching-job/student-coaches.md)
 
 Get your practical information at [Practical: When, where, sick days, ...](coaches/coaching/attend.md) and [Salary and reimbursements](coaches/salary-and-reimbursements.md).
 
