@@ -31,7 +31,7 @@ This balance is hard to figure out beforehand — even if you gave those student
 
 ### Expectation management of your client
 
-* At the start of Osoc, it's your job to manage the partner's expectations \(just like you would in your own projects\). Keep in mind these are students, and it's _possible_ the outcome won't be what they want it to be. You'll have to adjust along the way in those 4 weeks.
+* At the start of osoc, it's your job to manage the partner's expectations \(just like you would in your own projects\). Keep in mind these are students, and it's _possible_ the outcome won't be what they want it to be. You'll have to adjust along the way in those 4 weeks.
 * Scoping a project is very important from the start. After you receive the briefing, ask the right questions to chop the tasks into smaller parts, prioritise the tasks and make sure the client knows what's absolutely not feasible, and what might be feasible. Not sure how to conduct a scoping session? Contact your organisation!
 
 ### Creating a process and structure for your team
