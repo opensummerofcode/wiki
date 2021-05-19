@@ -8,6 +8,10 @@ Have their back. Guide your team to do the best they can. Support them and remov
 
 _Photo by_ [_Tom Skarbek-Wazynski_](https://unsplash.com/@wazynski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\_\_
 
+{% hint style="info" %}
+**Example**: Channel the feedback of the partner_s._ If for instance, information gets scattered during a meeting, try solidifying it and make it clear. This will make the students more confident in what they are building!
+{% endhint %}
+
 ## Protect your team
 
 You'll be protecting your team. From the client, themselves, each other... and from yourself.
