@@ -20,12 +20,7 @@ description: >-
 
 _Make sure that your team is balanced. Match the right people with the right skills for the project, and make sure their characters will work._
 
-Before open summer of code starts, we start[ screening the students](screening-students.md) beforehand. We will invite some coaches to do the screening. After that, we start building teams. We all aim for a healthy mix; on skill-level and on character type. It's important that teams are balanced:
-
-* You can't have all unicorns in one team, nor can you have all inexperienced students in an other.
-* It's also good to have some introverts and some extraverts in one team; leaders and followers. These types of teams motivate and complete each other in social skills.
-
-This balance is hard to figure out beforehand — even if you gave those students a call and had an interview with them. It happens a team isn't working together as well as you thought it would. This could be an issue of skill, experience or character. If this is the case, reach out to the organisation/your fellow coaches and find out if there's other teams you can switch members with. This can be hard, but keep in mind it's about the whole of Osoc, not just about your team. It could happen one of your rockstars might be switched out with someone less experienced; but is a better fit for Osoc.
+Before open summer of code starts, we start[ screening the students](screening-students.md) beforehand. We will invite some coaches to do the screening. After that, we start building teams.
 
 ## Expectation management of your client
 

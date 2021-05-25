@@ -7,6 +7,10 @@ description: >-
 
 # Screening students
 
+> I love bringing a project to life in collaboration with a group of people, that have different backgrounds.  
+>   
+> Eveline Vlassenroot
+
 ## What do we screen our students for?
 
 ### Filling out the Form
@@ -91,19 +95,55 @@ We do not negotiate their pay. It's not about money.
 
 ## Screening students with _The Selection Tool_
 
-You can 
+### Getting in
 
-* Yes
-* Maybe
-* No
+We have created a selection tool to make the process a bit easier: [selections.osoc.be](http://selections.osoc.be) 
+
+![The login screen](../../.gitbook/assets/screenshot-2021-05-25-at-15.56.45.png)
+
+To get access, connect with your Google account. _Yes, we want to get rid of this dependency too._
+
+When you sign up, you'll get approved. You will not get an email \(we are working on this\) – if you cannot get access, get in touch!
+
+### Overview
+
+When you get in you will get an overview of all the students that applied. Click on a student to see what their application looked like.
+
+![Example of student](../../.gitbook/assets/screenshot-2021-05-25-at-15.51.47.png)
+
+[Based on the criteria](screening-students.md#what-do-we-screen-our-students-for), you can suggest **yes**, **maybe** or **no** for a student. To help other coaches in making their decision – and for us to be able to give a reason to the student, provide a reason!
+
+![Write a decision](../../.gitbook/assets/screenshot-2021-05-25-at-15.51.28%20%281%29.png)
+
+### Searching & Filtering
+
+To find students that are part of a certain field, you can use the role filters.
+
+![](../../.gitbook/assets/screenshot-2021-05-25-at-16.42.17.png)
+
+* You can quickly find alumni, students that applied as student coach or students you've suggested for.
+* The students that had a definite yes, you can filter on as well.
+
+![The search box &amp; filters](../../.gitbook/assets/screenshot-2021-05-25-at-16.41.23.png)
 
 ## Assembling your team
 
-After we've gone through selections, and we have some projects lined up, it's time to assemble your team – see "[Tasks – Assemble Your Team](tasks.md#assemble-your-team)"
+After we've gone through selections, and we have some projects lined up, it's time to assemble your team.
 
+### Criteria
 
+We all aim for a healthy mix; on skill-level and on character type. It's important that teams are balanced:
 
-> I love bringing a project to life in collaboration with a group of people, that have different backgrounds.  
->   
-> Eveline Vlassenroot
+* You can't have all unicorns in one team, nor can you have all inexperienced students in an other.
+* It's also good to have some introverts and some extraverts in one team; leaders and followers. These types of teams motivate and complete each other in social skills.
+
+This balance is hard to figure out beforehand — even if you gave those students a call and had an interview with them. It happens a team isn't working together as well as you thought it would. This could be an issue of skill, experience or character. If this is the case, reach out to the organisation/your fellow coaches and find out if there's other teams you can switch members with. This can be hard, but keep in mind it's about the whole of Osoc, not just about your team. It could happen one of your rockstars might be switched out with someone less experienced; but is a better fit for Osoc.
+
+### How to assemble your team in the selection tool
+
+![Drag the student on top of the team.](../../.gitbook/assets/screenshot-2021-05-25-at-16.51.53.png)
+
+You cannot add a student to two teams. Resolve the issue with your fellow coach, to create healthy balanced teams! ♥️
+
+![](../../.gitbook/assets/screenshot-2021-05-25-at-16.55.14.png)
 
