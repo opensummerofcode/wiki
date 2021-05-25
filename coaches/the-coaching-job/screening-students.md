@@ -136,10 +136,13 @@ We all aim for a healthy mix; on skill-level and on character type. It's importa
 
 * You can't have all unicorns in one team, nor can you have all inexperienced students in an other.
 * It's also good to have some introverts and some extraverts in one team; leaders and followers. These types of teams motivate and complete each other in social skills.
+* Try to have a healthy mix of skills, background and gender as much as possible as well.
 
 This balance is hard to figure out beforehand — even if you gave those students a call and had an interview with them. It happens a team isn't working together as well as you thought it would. This could be an issue of skill, experience or character. If this is the case, reach out to the organisation/your fellow coaches and find out if there's other teams you can switch members with. This can be hard, but keep in mind it's about the whole of Osoc, not just about your team. It could happen one of your rockstars might be switched out with someone less experienced; but is a better fit for Osoc.
 
 ### How to assemble your team in the selection tool
+
+Drag the student on the project that needs it. Only assign as many students as you need!
 
 ![Drag the student on top of the team.](../../.gitbook/assets/screenshot-2021-05-25-at-16.51.53.png)
 
