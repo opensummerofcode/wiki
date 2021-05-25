@@ -31,14 +31,17 @@ Usually, the teams will want to make the client as happy as possible, which can 
 It's hard to see someone struggle. That's no reason to pull their laptop from their hands and do it yourself. Use your words, give them examples.
 
 {% hint style="danger" %}
-**Let your students struggle a little**
-
+**Let your students struggle a little**  
 Remember how you learnt to do the stuff you do? By figuring it out yourself and falling flat on your face. It's terrible to see your students do that, though.
 {% endhint %}
 
 #### Honesty & transparency
 
 Clients might also expect more of the team. It's hard to estimate what a team is capable of. The only way to keep a client happy is to try to keep the scope of your project _as realistic as possible_ and to keep them informed – communicate honest and on a regular base. Keep the milestones of your project as tiny as possible as well, and reevaluate on a weekly base.
+
+#### When you're a coach but also the partner
+
+The students are going to turn to you when there's an issue. Make sure that they know you're on their side, even though your relationship with the organisation they'll be building for is tighter. You want to make sure they don't overpromise or overwork themselves; because they'll want to do their utter best for you.
 
 ## Let them do the work
 
