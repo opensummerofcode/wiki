@@ -130,6 +130,8 @@ To find students that are part of a certain field, you can use the role filters.
 
 After we've gone through selections, and we have some projects lined up, it's time to assemble your team.
 
+_Make sure that your team is balanced. Match the right people with the right skills for the project, and make sure their characters will work._
+
 ### Criteria
 
 We all aim for a healthy mix; on skill-level and on character type. It's important that teams are balanced:

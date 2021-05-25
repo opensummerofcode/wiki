@@ -20,7 +20,7 @@ description: >-
 
 _Make sure that your team is balanced. Match the right people with the right skills for the project, and make sure their characters will work._
 
-Before open summer of code starts, we start[ screening the students](screening-students.md) beforehand. We will invite some coaches to do the screening. After that, we start building teams.
+Before open summer of code starts, we start screening the students beforehand. We will invite some coaches to do the screening. After that, we start building teams. Check out the [Screening students](screening-students.md) page on how this works!
 
 ## Expectation management of your client
 
