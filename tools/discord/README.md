@@ -4,6 +4,10 @@ description: How we communicate at Open Summer of Code
 
 # Discord
 
+{% hint style="info" %}
+You need to be accepted before you can be part of the Discord server of the respective year ♥️
+{% endhint %}
+
 ## Getting started
 
 [Create an account](https://discord.com/register) and verify your email address. Feel free to use a Discord account you already have for personal purposes, but note that we ask to use a picture of yourself so that we can all get to know and learn to recognize each other during a remote edition.
@@ -12,7 +16,7 @@ You can download the discord desktop app at [https://discord.com/](https://disco
 
 Discord also has an [iOS app](https://apps.apple.com/us/app/discord/id985746746) and [Android app](https://play.google.com/store/apps/details?id=com.discord&hl=en).
 
-Once you have your account and application ready - [join the \#osoc20 server](https://discord.gg/PJrDvcb).
+Once you have your account and application ready - you will receive a link to the osoc server of that year.
 
 
 
