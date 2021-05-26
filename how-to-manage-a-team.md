@@ -6,6 +6,17 @@ description: Tips and tricks on how to project manage
 
 You can choose how to manage your teams, but here are some tips to get started!
 
+## Ice breakers
+
+### 36 questions
+
+How to fall in love \(or make your love even stronger\). [http://36questionsinlove.com](http://36questionsinlove.com)
+
+### Show your portfolio
+
+What can I do, what can I help you with?  
+What project are you most happy about? Why?
+
 ## How to do a brainstorm session
 
 ### 3 Brainstorm Ideas + 2 Bonus Adaptions
@@ -48,11 +59,29 @@ Time stamps
   * [How to write clear tasks, issues and bugs 12:33](https://youtu.be/gYXekYt045Y?t=753)
   * [Assigning people 14:28](https://youtu.be/gYXekYt045Y?t=869)
 
-## How To Vent, Improve and Replenish the Team With a Team Retrospective
+## Retrospective: How To Vent, Improve and Replenish the Team
 
 {% embed url="https://www.youtube.com/watch?v=UiuFR0FI-tA&t=6s" %}
 
+### Futurespectives
 
+The new kid on the block.
+
+{% embed url="https://www.funretrospectives.com/category/futurespective/" %}
+
+## Scrum poker
+
+### Scrumoji poker™️
+
+Select 5 estimoji's from your pile of osoc cards that you received at the beginning of osoc. For example:
+
+* Thumbs up
+* Thumbs down
+* Exhausted
+* Happy hearts
+* Poop \(Hankey\)
+
+For every task you have set out the team to do, they can select one card to express how they feel about the task. This gives you an idea of the general mood!
 
 ## More good resources
 
