@@ -85,7 +85,7 @@
 * [Deliver Like a Pro](how-to-deliver-like-a-pro/README.md)
   * [Publish a Github Page](how-to-deliver-like-a-pro/publishing-a-github-page.md)
 * [How to manage a team](how-to-manage-a-team.md)
-* [Conduct \(Remote\) Tests and Interviews with Real People](how-to-conduct-remote-tests-and-interviews-with-real-people.md)
+* [Conduct \(Remote\) Tests and Interviews with Real People + Archetypes](how-to-conduct-remote-tests-and-interviews-with-real-people.md)
 * [Study material](study-material.md)
 
 ## Organisers

@@ -28,15 +28,11 @@ Welcome to open summer of code!
 ### What are we going to do?
 
 * Study the briefing
-  * You can find the briefing in [the folder of your team](https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK)
+  * You can find the briefing in the folder of your team – which will be shared by your coach at the start of the week. Bookmark it!
 * Define goal
-* Summarise project \(± 200 characters\) and [send it over by adding it to project descriptions](https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O_vAOphsx2vnGE/edit?usp=sharing)
+* Summarise project \(± 200 characters\) and send it over by adding it to [project descriptions](https://docs.google.com/spreadsheets/d/1DeD9CD7lxpku2ijj-MCJNNNCVGIMpjc3hRFm3IBignQ/edit?usp=sharing)
 * Compose list of questions for partner/client
-  * You can compose it together in [the folder of your team under "email preparations"](https://cloud.openknowledge.be/s/8QHH7oXRSWpY8eK)
-
-{% hint style="info" %}
-**WARNING**; it is possible you cannnot edit files in nextcloud right now. We are in the process of bumping our hosting to make this possible again. Please create a shared folder somewhere else, for instance on drive. We will let everyone know when this is fixed, so you can use nextcloud again and migrate the files back.
-{% endhint %}
+  * You can compose it together in the folder of your team under _meeting minutes_
 
 ## 12:00 Lunch 😍
 
@@ -45,13 +41,15 @@ Welcome to open summer of code!
 Prepare to introduce yourselves to the other teams!
 
 * Think of a **team name** that reflects your members and project
-  * Add it to the[ project descriptions](https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O_vAOphsx2vnGE/edit#gid=0)
+  * Add it to the[ project descriptions](https://docs.google.com/spreadsheets/d/1DeD9CD7lxpku2ijj-MCJNNNCVGIMpjc3hRFm3IBignQ/edit?usp=sharing)
 * Create a **crest** together \[[Find out how](../../how-to-create-crests.md)\]
-  * Share the crest in the ["crests" folder](https://cloud.openknowledge.be/s/i8FjdnJc3FjkjN8), name it after your project and team name, like so: _project-name-team-name_
+  * Share the crest in the _crests_ folder, name it after your project and team name, like so: _team-name-crest_
 * Send over **a picture** of each team member \(take a selfie with students and coaches\)
-  * Add it here in the [team pictures](https://cloud.openknowledge.be/s/J3gixDwZ5knfsqj) folder
-    * Create a team folder for your team _project-name-team-name_
-    * Name each picture _project-name-team-name-member-name_, and if it's a group pic _project-name-team-name-team_
+  * Add it here in the [team pictures](https://drive.google.com/drive/folders/1_hnV3hBNnCnsu8qxwDlQgDi0776lyYpQ?usp=sharing) folder
+    * Create a team folder for your team _team-name_
+    * Name each picture _team-name-member-name-picture_
+
+      , and if it's a group pic _team-name-team-picture_
   * Make sure you wear your osoc shirt, and if you don't have it \(yet\), grab a colourful one 🌈
 
 **Create short pitch \(to introduce the team and project, no slides needed\).** You can base yourself on the project description you made. Decide who pitches.
