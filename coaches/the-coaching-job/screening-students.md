@@ -144,9 +144,11 @@ This balance is hard to figure out beforehand — even if you gave those student
 
 ### How to assemble your team in the selection tool
 
-Drag the student on the project that needs it. Only assign as many students as you need!
+Drag the student on the project that needs it, assign them a role and give a reason why. Only assign as many students as you need!
 
 ![Drag the student on top of the team.](../../.gitbook/assets/screenshot-2021-05-25-at-16.51.53.png)
+
+{% file src="../../.gitbook/assets/how-to-select.mov" caption="How to select a student for your project" %}
 
 You cannot add a student to two teams. Resolve the issue with your fellow coach, to create healthy balanced teams! ♥️
 
