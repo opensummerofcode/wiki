@@ -34,6 +34,8 @@ Gather the team\(s\) you're leading. Play a game or have a list of questions ava
 
 ![Another wonderful example by our coach Niels](../../.gitbook/assets/screenshot-2020-07-05-at-10.00.23.png)
 
+
+
 Need more ideas? Drop a line in the discord coaches channel!
 
 ## Decide on project management and structure

@@ -8,8 +8,29 @@ You can choose how to manage your teams, but here are some tips to get started!
 
 ## Ice breakers
 
+The first day is awkward. In the afternoon, the teams get assembled, and you'll get to know each other.
+
+Gather the team\(s\) you're leading. Play a game or have a list of questions available so you can get to know each other. Some examples:
+
+* Let your team members take a prop with them that says something about themselves. This requires informing them beforehand.
+* Let your team members make a short presentation of things they've made in school \(and outside school, something they're proud of\). This requires informing them beforehand.
+* Prepare a list of questions that can break the ice
+  * What's your name?
+  * What is your top skill?
+  * What is your favourite food?
+  * What is _the one thing_ we should know about you?
+
+![A great example by our coach Leenke De Donder](.gitbook/assets/screenshot-2020-07-05-at-11.09.31.png)
+
+![Another wonderful example by our coach Niels](.gitbook/assets/screenshot-2020-07-05-at-10.00.23.png)
+
+
+
+Need more ideas? Drop a line in the discord coaches channel!
+
 ### 36 questions
 
+This is a super lovely awkward game that helps melt the ice with laser power:  
 How to fall in love \(or make your love even stronger\). [http://36questionsinlove.com](http://36questionsinlove.com)
 
 ### Show your portfolio

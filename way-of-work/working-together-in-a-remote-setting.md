@@ -122,7 +122,7 @@ We unfortunately cannot reimburse you for your travel expenses.
 
 #### Travel reimbursements
 
-_In progress._
+In remote editions we do not reimburse travel costs.
 
 #### Insurance
 
