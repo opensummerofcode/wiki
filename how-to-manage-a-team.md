@@ -8,6 +8,8 @@ You can choose how to manage your teams, but here are some tips to get started!
 
 ## Ice breakers
 
+![Our coach Jonathan guiding a student arriving on Discord for the first time](.gitbook/assets/screenshot-2020-07-01-at-14.46.23.png)
+
 The first day is awkward. In the afternoon, the teams get assembled, and you'll get to know each other.
 
 Gather the team\(s\) you're leading. Play a game or have a list of questions available so you can get to know each other. Some examples:

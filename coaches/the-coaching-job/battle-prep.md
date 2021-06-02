@@ -14,27 +14,7 @@ I don't know you, you don't know me.
 
 ## Decide on how you're going to break the ice with your students
 
-Make sure your students know where to go if they are lost; help them find their way!
-
-![Our coach Jonathan guiding a student arriving on Discord for the first time](../../.gitbook/assets/screenshot-2020-07-01-at-14.46.23.png)
-
-The first day is awkward. In the afternoon, the teams get assembled, and you'll get to know each other.
-
-Gather the team\(s\) you're leading. Play a game or have a list of questions available so you can get to know each other. Some examples:
-
-* Let your team members take a prop with them that says something about themselves. This requires informing them beforehand.
-* Let your team members make a short presentation of things they've made in school \(and outside school, something they're proud of\). This requires informing them beforehand.
-* Prepare a list of questions that can break the ice
-  * What's your name?
-  * What is your top skill?
-  * What is your favourite food?
-  * What is _the one thing_ we should know about you?
-
-![A great example by our coach Leenke De Donder](../../.gitbook/assets/screenshot-2020-07-05-at-11.09.31.png)
-
-![Another wonderful example by our coach Niels](../../.gitbook/assets/screenshot-2020-07-05-at-10.00.23.png)
-
-
+Find some lovely ideas on [How to manage a team &gt; Ice breakers](../../how-to-manage-a-team.md#ice-breakers) ✨
 
 Need more ideas? Drop a line in the discord coaches channel!
 
@@ -57,37 +37,46 @@ How are you going to guide your students day to day? Some examples to take care 
   * GitHub? Kanban?
 * Will you let your non-devs work in GitHub as well? Who teaches them?
 
-Osoc tutorials:
+### Project management tips
 
-{% embed url="https://youtu.be/sLRmaIuwtHQ" caption="How to project manage" %}
+[All gathered here](../../how-to-manage-a-team.md)!
 
-
-
-## Decide on hand-over when you're not there
-
-When you're not present, the other coach or your student coaches need to know what to do. Decide on how you're going to do that. Some possibilities:
-
-* Assign a student to talk about what has been done in a structured way, for instance by using "kanban"
-* Type it yourself, so the other coach can read it and have it close-by whenever they need it.
-* Perhaps also prepare some key elements your half-time or student coach needs to pay attention to when you're not here. For instance "Student A had trouble with this. Can you make sure to follow up on it?"
-
-Need ideas? Drop a line in the discord coaches channel!
-
-## Pitch the project
-
-The  coaches will present the project in their Discord project channels once all students are in the channel. The coach should also pitch the project on the first day to their students when they figure out what the project is about \([see calendar](../../calendar-remote-edition/)\). 
-
-## Go through the deliverables document
-
-[About the deliverables \[tutorial\]](../../how-to-deliver-like-a-pro/)
-
-You can do this together or separately, and discuss if you still have questions beforehand. Ask the organisation to clarify if needed!
-
-## Decide on how you're going to do scoping sessions and retrospects
+#### Decide on how you're going to do scoping sessions and retrospects
 
 Weekly scoping sessions and retrospects are crucial to finding out what you're going to build something, and if you're doing well as a team.
 
 At the end of osoc you'll also give feedback to each individual, which you can prepare together. You can write some positive notes on a postcard too!
 
 If you need any techniques, please contact the organisation, they are working on it now!
+
+### Osoc tutorials all together:
+
+{% embed url="https://youtu.be/sLRmaIuwtHQ" caption="How to project manage" %}
+
+### Tips-and-tricks calendar
+
+We are in progress of creating a calendar that is supplemental to the calendar with the actual deadlines, that focuses on project management and giving the right information at the right time. Are you interested in applying this technique? Get in touch!
+
+{% embed url="https://calendar.google.com/calendar/embed?src=c\_4nhrlvngkdqq142g31c6uuucg0%40group.calendar.google.com&ctz=Europe%2FBrussels" %}
+
+## Decide on hand-over when you're not there
+
+When you're not present, the other coach or your student coaches need to know what to do. Decide on how you're going to do that. Some possibilities:
+
+* Assign a student to talk / type about what has been done in a structured way, for instance by using "kanban"
+* Type it yourself, so the other coach can read it and have it close-by whenever they need it.
+* Perhaps also prepare some key elements your half-time or student coach needs to pay attention to when you're not here. For instance "Student A had trouble with this. Can you make sure to follow up on it?"
+* Create a shared calendar or excel sheet that outlines who to reach when, and who to ask for which kind of help \(councillors as well\).
+
+Need ideas? Drop a line in the discord coaches channel!
+
+## Pitch the project
+
+The  coaches will present the project in their Discord project channels once all students are in the channel. The coach should also pitch the project on the first day to their students when they figure out what the project is about. 
+
+## Go through the deliverables document
+
+[About the deliverables \[tutorial\]](../../how-to-deliver-like-a-pro/)
+
+You can do this together or separately, and discuss if you still have questions beforehand. Ask the organisation to clarify if needed!
 
