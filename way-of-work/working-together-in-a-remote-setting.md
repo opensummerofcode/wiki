@@ -111,7 +111,7 @@ Not everyone has been vaccinated yet. We don't want to put anyone at risk \(or p
 We can only allow an exception for teams if we keep the following factors in mind:
 
 1. **The project requires on-site investigation to understand or build the project.** If you need help to jump the hurdle of digital teambuilding, please reach out – we unfortunately cannot allow an exception for teambuilding.
-2. **The students in that specific project team agree.** Nobody should feel pressured, and everyone should feel safe. If some people are left out, consider how this will impact the team and their motivation – this also applies to teams with international students.
+2. **The students in that specific project team agree.** We communicated this as a remote edition, so students expect this edition to be remote. Nobody should feel pressured, and everyone should feel safe to say no. If some people are left out in your team, consider how this will impact the team and their motivation – this also applies to teams with international students.
 3. **Corona measures are followed** [https://www.info-coronavirus.be/en/faq/](https://www.info-coronavirus.be/en/faq/)
 
 #### Individuals
