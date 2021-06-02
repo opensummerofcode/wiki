@@ -86,6 +86,50 @@ The team gets to make decisions, and we expect you to take initiative. Coaches a
 Take ownership, stand up! This project and its outcome is yours 🔥
 {% endhint %}
 
+### Fun Fact: International Editions Are Possible When Remote
+
+The upside of having a remote edition is that we can give international students or students that live in the outskirts of Belgium to take part in this edition. This gives us the chance to represent a broader audience as well, and reach more people.
+
+![Blackpink is also an international girl band, which is one of the driving powers of their success.](https://img.wattpad.com/1240d02e2572498de371edd921ef94ce015ad552/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f326e4b4767575a637479727352513d3d2d3732333130383736302e313539376535313033303362396239633633393931323032323537322e676966)
+
+## Exceptions to Remote Work
+
+For the \#osoc20 and \#osoc21 edition, we think remote first.
+
+### COVID-19 regulations
+
+We follow Belgian regulations for the Belgian edition. At time of writing, they encourage working from home; which is why we made sure we have a remote edition.
+
+Not everyone has been vaccinated yet. We don't want to put anyone at risk \(or put their family / house mates at risk\) – or make people feel left out \(similar to international students\).
+
+{% embed url="https://www.info-coronavirus.be/en/faq/" %}
+
+### Exceptions
+
+#### Teams
+
+We can only allow an exception for teams if we keep the following factors in mind:
+
+1. **The project requires on-site investigation to understand or build the project.** If you need help to jump the hurdle of digital teambuilding, please reach out – we unfortunately cannot allow an exception for teambuilding.
+2. **The students in that specific project team agree.** Nobody should feel pressured, and everyone should feel safe. If some people are left out, consider how this will impact the team and their motivation – this also applies to teams with international students.
+3. **Corona measures are followed** [https://www.info-coronavirus.be/en/faq/](https://www.info-coronavirus.be/en/faq/)
+
+#### Individuals
+
+If you do not have stable internet at home, we can offer you a seat at Be-Central in Brussels. Please get in touch beforehand, so we can coordinate and make sure it is safe for everyone.
+
+We unfortunately cannot reimburse you for your travel expenses.
+
+#### Travel reimbursements
+
+_In progress._
+
+#### Insurance
+
+_In progress._
+
+
+
 ## 🌊💦🚰💧🧊 Stay Hydrated
 
 ![Drink Water &#x1F44C;](../.gitbook/assets/water.gif)
