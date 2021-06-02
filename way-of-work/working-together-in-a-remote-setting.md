@@ -126,7 +126,7 @@ _In progress._
 
 #### Insurance
 
-_In progress._
+Civil liability and workplace accidents apply to the students on our payroll.
 
 
 
