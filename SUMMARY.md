@@ -71,7 +71,7 @@
   * [Setting your nickname](tools/discord/setting-your-nickname.md)
   * [Managing notifications](tools/discord/managing-notifications.md)
   * [Offering and Receiving Help](tools/discord/remote-helping.md)
-  * [Find Your Discord Username](tools/discord/finding-your-discord-handle.md)
+  * [Find Your Discord Username](tools/discord/find-your-discord-username.md)
 * [NextCloud](tools/nextcloud.md)
 * [The \#osoc Emoji](tools/the-osoc-emoji.md)
 
