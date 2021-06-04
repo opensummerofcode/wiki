@@ -1,4 +1,4 @@
-# Finding Your Discord Handle
+# Find Your Discord Username
 
 1. Find your name bottom left of the app.
 2. Click it.
