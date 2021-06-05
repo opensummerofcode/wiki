@@ -1,8 +1,12 @@
 # Battle Prep
 
+{% hint style="info" %}
 Here's a non-exhaustive list of things you can do to prepare for battle. If you need any guidance, contact the organisation!
+{% endhint %}
 
-If you are a half-time coach and you have an other half-time coach or student coaches in your team, you can go through this together. Not sure what to do as a coach, and with half-time or student coaches? Read all about [tasks](tasks.md) and [Soft Skills & Expectations](soft-skills-and-expectations.md) first.
+\#osoc is about to get started; teams are being assembled, you have an idea of which projects you'll be coaching and who will help you do it... Now you can start planning together with your coaches and councillors!
+
+Not sure what to do as a coach, and with half-time or student coaches? Read all about [tasks](tasks.md) and [Soft Skills & Expectations](soft-skills-and-expectations.md) first.
 
 ## Coaching teams together
 
@@ -14,11 +18,19 @@ _When you're a coach, you'll be the lead of one \(or more\) project\(s\)._
 
 The lead coach makes sure the teams knows what to do, and **creates the outline for the team** \(what does project management look like, what tools do we use to do project management, when do we do stand-ups, ...\). See [Decide on project management and structure](battle-prep.md#decide-on-project-management-and-structure) for more information.
 
+The lead makes sure that when they're not there, the team also knows what to do \(e.g. doing stand-ups by themselves, perhaps write down a summary in Discord, assign a student that takes the lead, ...\).
+
 We make sure every coach has back-up, in the form of support coaches and/or councillors. We try to pair coaches so they can fill each other's gaps, and they can learn from each other \(especially for first-time coaches\).
 
 Coordinate and consult each other up front what the coaching st
 
 #### Support coaches
+
+{% hint style="info" %}
+Support coaches give support to the lead coaches in the form of consult and helping out when 💩hits the fan.
+{% endhint %}
+
+_For instance, you can coordinate about project management, and exchange techniques – designers and devs can for instance give each other ideas on different topics \(ideation, scoping, task assignment, ...\)_
 
 #### Councillors
 

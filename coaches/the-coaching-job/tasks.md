@@ -75,12 +75,6 @@ Everybody needs to start somewhere. Not every coach knows what to do from the st
 * "Team crisis"
 * etc.
 
-In Belgium, you have a coach of coaches to help you out, in Spain — please contact your organisation.
-
-{% hint style="info" %}
-Feel free to reach out if you need some more information! Ping Miet on Discord, or mail[ miet@openknowledge.be](mailto:miet@openknowledge.be).
-{% endhint %}
-
 ## Half-time coaches
 
 If you are a half time coach, there are two scenario's
