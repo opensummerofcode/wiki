@@ -21,21 +21,27 @@ Not sure what to do as a coach, and with half-time or student coaches? Read all 
 
 _When you're a coach, you'll be the lead of one \(or more\) project\(s\)._
 
+{% hint style="info" %}
 The lead coach makes sure the teams knows what to do, and **creates the outline for the team** \(what does project management look like, what tools do we use to do project management, when do we do stand-ups, ...\). See [Decide on project management and structure](battle-prep.md#decide-on-project-management-and-structure) for more information.
 
-The lead makes sure that when they're not there, the team also knows what to do \(e.g. doing stand-ups by themselves, perhaps write down a summary in Discord, assign a student that takes the lead, ...\).
+The lead makes sure that **when they're not there, the team also knows what to do** \(e.g. doing stand-ups by themselves, perhaps write down a summary in Discord, assign a student that takes the lead, ...\).
+{% endhint %}
 
 We make sure every coach has back-up, in the form of support coaches and/or councillors. We try to pair coaches so they can fill each other's gaps, and they can learn from each other \(especially for first-time coaches\).
 
-Coordinate and consult each other up front what the coaching strategy is.
+🎩_Coordinate and consult with your support coaches and councillors up front what the coaching strategy is._
 
 #### Support coaches
 
+_Every coach also has an other coaches' back on one or more projects; to make sure that everyone has a buddy to ping-pong with – to have a tight support system._
+
 {% hint style="info" %}
 Support coaches give support to the lead coaches in the form of consult and helping out when 💩hits the fan.
+
+When the lead coach is not available, you check in with the team how they are doing. Depending on how you decided on project management, you'll be there when they do stand-ups, or read about it – and make sure they get unblocked when needed.
 {% endhint %}
 
-_For instance, you can coordinate about project management, and exchange techniques – designers and devs can for instance give each other ideas on different topics \(ideation, scoping, task assignment, ...\)_
+🎩_Check in with your lead coach if they need any help on making project management decisions, exchange ideas and techniques, and see if they have a system in place when they are not there – so you know what to do when that 💩hits that fan._
 
 #### Councillors
 
@@ -44,7 +50,7 @@ Councillors are volunteers that help out because they like the project, have a s
 1. They hang out in Discord when they choose to, and if there's a question, they try to answer it!
 2. Some councillors give workshops during osoc.
 
-We are trying this out in \#osoc21 – and we'll see how it turns out!
+We are trying this out in \#osoc21 – and we'll see how it turns out! We are working on a list of councillors and their skills.
 
 #### Student coaches
 
