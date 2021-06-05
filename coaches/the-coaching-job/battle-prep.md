@@ -1,10 +1,15 @@
+---
+description: >-
+  #osoc is about to get started; teams are almost assembled, you know which
+  projects you'll be coaching and who will help you... Now you can start
+  planning together with your coaches & councillors!
+---
+
 # Battle Prep
 
 {% hint style="info" %}
-Here's a non-exhaustive list of things you can do to prepare for battle. If you need any guidance, contact the organisation!
+Here's a non-exhaustive list of things you can do to prepare for battle. If you need any guidance, explanation or tips, contact the organisation!
 {% endhint %}
-
-\#osoc is about to get started; teams are being assembled, you have an idea of which projects you'll be coaching and who will help you do it... Now you can start planning together with your coaches and councillors!
 
 Not sure what to do as a coach, and with half-time or student coaches? Read all about [tasks](tasks.md) and [Soft Skills & Expectations](soft-skills-and-expectations.md) first.
 
@@ -40,6 +45,10 @@ Councillors are volunteers that help out because they like the project, have a s
 2. Some councillors give workshops during osoc.
 
 We are trying this out in \#osoc21 – and we'll see how it turns out!
+
+#### Student coaches
+
+Student coaches are usually students that have been part of osoc before. They know how everything works, and they'll likely be a great help to you as well. They make sure that when there's no coach, they keep the team together and know where to ask help. They take on a bit more responsibility.
 
 ### Get to know each other!
 
