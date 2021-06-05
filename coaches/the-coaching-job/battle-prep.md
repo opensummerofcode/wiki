@@ -25,6 +25,8 @@ _When you're a coach, you'll be the lead of one \(or more\) project\(s\)._
 The lead coach makes sure the teams knows what to do, and **creates the outline for the team** \(what does project management look like, what tools do we use to do project management, when do we do stand-ups, ...\). See [Decide on project management and structure](battle-prep.md#decide-on-project-management-and-structure) for more information.
 
 The lead makes sure that **when they're not there, the team also knows what to do** \(e.g. doing stand-ups by themselves, perhaps write down a summary in Discord, assign a student that takes the lead, ...\).
+
+Leads do a scoping session, with our without their support coaches, together with the client before osoc starts.
 {% endhint %}
 
 We make sure every coach has back-up, in the form of support coaches and/or councillors. We try to pair coaches so they can fill each other's gaps, and they can learn from each other \(especially for first-time coaches\).
