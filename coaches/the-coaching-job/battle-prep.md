@@ -27,7 +27,7 @@ The lead makes sure that when they're not there, the team also knows what to do 
 
 We make sure every coach has back-up, in the form of support coaches and/or councillors. We try to pair coaches so they can fill each other's gaps, and they can learn from each other \(especially for first-time coaches\).
 
-Coordinate and consult each other up front what the coaching st
+Coordinate and consult each other up front what the coaching strategy is.
 
 #### Support coaches
 
