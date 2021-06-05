@@ -29,7 +29,7 @@ The lead makes sure that **when they're not there, the team also knows what to d
 
 We make sure every coach has back-up, in the form of support coaches and/or councillors. We try to pair coaches so they can fill each other's gaps, and they can learn from each other \(especially for first-time coaches\).
 
-🎩_Coordinate and consult with your support coaches and councillors up front what the coaching strategy is._
+🎩_Coordinate and consult with your support coaches and councillors up front what the coaching strategy is. See "_[_Decisions to make up front_](battle-prep.md#decisions-to-make-up-front)_" to get an idea of what to figure out together before it starts._
 
 #### Support coaches
 
@@ -41,7 +41,7 @@ Support coaches give support to the lead coaches in the form of consult and help
 When the lead coach is not available, you check in with the team how they are doing. Depending on how you decided on project management, you'll be there when they do stand-ups, or read about it – and make sure they get unblocked when needed.
 {% endhint %}
 
-🎩_Check in with your lead coach if they need any help on making project management decisions, exchange ideas and techniques, and see if they have a system in place when they are not there – so you know what to do when that 💩hits that fan._
+🎩_Check in with your lead coach if they need any help on making project management decisions, exchange ideas and techniques, and see if they have a system in place when they are not there – so you know what to do when that 💩hits that fan.See "_[_Decisions to make up front_](battle-prep.md#decisions-to-make-up-front)_" to get an idea of what to figure out together before it starts._
 
 #### Councillors
 
@@ -60,17 +60,25 @@ Student coaches are usually students that have been part of osoc before. They kn
 
 I don't know you, you don't know me.
 
-* Tell them what you're good at \(skills and soft-skills like development, scoping sessions, challenging people, ...\)
-* Tell them what you need help with
-* Tell them about your coaching experience
+* Tell them what you're good at \(skills and soft-skills like development, scoping sessions, challenging people, ...\).
+* Tell them what you need help with.
+* Tell them about your coaching experience.
 
 ## Decisions to make up front
 
-### Decide on how you're going to break the ice with your students
+Decide on how you'll...
+
+### Break the ice with your students
 
 Find some lovely ideas on [How to manage a team &gt; Ice breakers](../../how-to-manage-a-team.md#ice-breakers) ✨
 
 Need more ideas? Drop a line in the discord coaches channel!
+
+### Pitch the project
+
+The coaches will present the project in their Discord project channels once all students are in the channel. You'll get a clear project template before July starts, and links to relevant topics as well.
+
+In a live edition, this will be presented live.
 
 ### Decide on project management and structure
 
@@ -114,11 +122,6 @@ We are in progress of creating a calendar that is supplemental to the calendar w
 {% embed url="https://calendar.google.com/calendar/embed?src=c\_4nhrlvngkdqq142g31c6uuucg0%40group.calendar.google.com&ctz=Europe%2FBrussels" %}
 
 Go to July 2021 😌
-
-### Pitch the project
-
-* The coaches will present the project in their Discord project channels once all students are in the channel.
-* They will also pitch the project on the first day to their students when they figure out what the project is about. 
 
 ### Go through the deliverables document
 
