@@ -64,15 +64,6 @@ If you have any tips, recommendations or questions; we love to hear from you [in
 
 
 
-
-
-## More questions?
-
-* Organisational questions, contact Dries Van Ransbeeck on discord, or mail [dries@openknowledge.be](mailto:dries@openknowledge.be)
-* Technical questions, contact Michiel Leyman on discord, or mail [michiel@openknowledge.be](mailto:michiel@openknowledge.be)
-* Design questions, contact Niels on discord, or mail [niels@flagship.studio](mailto:niels@flagship.studio)
-* Coaching questions, contact Miet on discord or mail [miet@openknowledge.be](mailto:miet@openknowledge.be)
-
 {% hint style="info" %}
 🚧 This wiki is _always_ under construction — if something is missing or wrong, please contact us at info@osoc.be; and we'll make sure to fix it. 🚧
 
