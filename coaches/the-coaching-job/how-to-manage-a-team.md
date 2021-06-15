@@ -37,7 +37,7 @@ Get that rhythm going;
   * You can also do _stand-downs_ at the end of the day, to make sure you know everyone leaves the chat with confidence and won't mull about everything at night; so they can start the day fresh.
 * **If there's a part-time coach** helping you out, have students help you with writing a **summary** at the end of the day of what \(didn't\) happen – so that the people that weren't there are up-to-speed immediately.
 * **Test what's made**. Not just in code. Every week. We need real people to use what's been created and we want it to be [valuable to them](../../how-to-conduct-remote-tests-and-interviews-with-real-people.md).
-* **Pitch what's made**. Every week, you'll get the opportunity [to pitch](../../pitching/)!
+* **Pitch what's made**. Every Thursday, you'll get the opportunity [to pitch](../../pitching/)!
 * **Check in and adapt**.
   * At the end of week 1, 2 and 3 it would be good to see how people did and how they felt with a [retrospective](how-to-manage-a-team.md#retrospective-how-to-vent-improve-and-replenish-the-team) – so you can do things better the week after.
   * To make sure people learn from their estimations, you can compare their estimations from during the start of the week [\(scrumoji™️\)](how-to-manage-a-team.md#scrumoji-poker-tm) to the outcome. Now is the time to see if the end-goal is still feasible, communicate with your partner, and see where you can adapt. Next time they'll probably want do overestimate, rather than underestimate.
