@@ -2,7 +2,7 @@
 description: Tips on how to pitch
 ---
 
-# How to pitch!
+# How to Pitch
 
 Here are some tips and tricks to create a pitch video:
 

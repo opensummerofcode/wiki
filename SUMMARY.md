@@ -39,22 +39,19 @@
 
 ## Coaches & Student coaches <a id="coaches"></a>
 
-* [Being a coach at oSoc](coaches/coaching/README.md)
-  * [Practical: When, where, sick days, ...](coaches/coaching/attend.md)
+* [Being a coach at oSoc](coaches/coaching.md)
 * [The Coaching Job](coaches/the-coaching-job/README.md)
   * [Soft Skills & Expectations](coaches/the-coaching-job/soft-skills-and-expectations.md)
   * [Tasks](coaches/the-coaching-job/tasks.md)
+  * [How to Manage a Team: Techniques](coaches/the-coaching-job/how-to-manage-a-team.md)
+  * [Coaching Cases](coaches/the-coaching-job/coaching-cases.md)
   * [Battle Prep](coaches/the-coaching-job/battle-prep.md)
   * [Student Coaches](coaches/the-coaching-job/student-coaches.md)
   * [Screening students](coaches/the-coaching-job/screening-students.md)
+  * [Scrumology](coaches/the-coaching-job/scrumology.md)
 * [Projects](coaches/projects.md)
-* [Partners](coaches/partners.md)
-* [Salary & Reimbursements](coaches/salary-and-reimbursements.md)
-* [Student Coaches & Coaches Skill Overview](coaches/student-coaches-and-coaches-skill-overview/README.md)
-  * [🦹🏽 Development & Building](coaches/student-coaches-and-coaches-skill-overview/development.md)
-  * [👩‍🎤Visuals](coaches/student-coaches-and-coaches-skill-overview/visual.md)
-  * [🦄 Communication & Strategy](coaches/student-coaches-and-coaches-skill-overview/communication-and-strategy.md)
-  * [🧙🏼‍♀️ Coaching](coaches/student-coaches-and-coaches-skill-overview/coaching.md)
+* [Partner Communication](coaches/partners.md)
+* [Practical](coaches/attend.md)
 
 ## partners
 
@@ -81,11 +78,10 @@
 
 * [Create Crests](how-to-create-crests.md)
 * [Pitching](pitching/README.md)
-  * [Hackathon pitches](pitching/hackathon-pitches.md)
-  * [How to pitch!](pitching/how-to-pitch.md)
+  * [Where to Pitch](pitching/hackathon-pitches.md)
+  * [How to Pitch](pitching/how-to-pitch.md)
 * [Deliver Like a Pro](how-to-deliver-like-a-pro/README.md)
   * [Publish a Github Page](how-to-deliver-like-a-pro/publishing-a-github-page.md)
-* [How to manage a team](how-to-manage-a-team.md)
 * [Conduct \(Remote\) Tests and Interviews with Real People + Archetypes](how-to-conduct-remote-tests-and-interviews-with-real-people.md)
 * [Study material](study-material.md)
 
@@ -107,4 +103,6 @@
 * [Taking over the world](organisers/taking-over-the-world.md)
 * [Salary & Reimbursements](organisers/untitled.md)
 * [Managing teams](organisers/managing-teams.md)
+
+## test
 

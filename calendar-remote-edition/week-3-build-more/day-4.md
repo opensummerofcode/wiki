@@ -100,7 +100,7 @@ _What did we learn? How can we work better as a team?_
 
 ## 15:30 \[team only breakout\] Retro
 
-Create some room for each other to talk about what's good and what could go better. [A 7-minute tutorial](../../how-to-manage-a-team.md#how-to-vent-improve-and-replenish-the-team-with-a-team-retrospective).
+Create some room for each other to talk about what's good and what could go better. [A 7-minute tutorial](../../coaches/the-coaching-job/how-to-manage-a-team.md#how-to-vent-improve-and-replenish-the-team-with-a-team-retrospective).
 
 Pick a retrospective:
 

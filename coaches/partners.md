@@ -1,4 +1,4 @@
-# Partners
+# Partner Communication
 
 ## Partners meetings
 

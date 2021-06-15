@@ -46,7 +46,7 @@ We do hackathons at the start of osoc to...
 
 ### What happens during a scoping session
 
-Decide with the team what you want to create during the hackathon. This depends on your project, team members and goals! There's a [tutorial on how to do a scoping session](../../how-to-manage-a-team.md#how-to-do-a-scoping-session).
+Decide with the team what you want to create during the hackathon. This depends on your project, team members and goals! There's a [tutorial on how to do a scoping session](../../coaches/the-coaching-job/how-to-manage-a-team.md#how-to-do-a-scoping-session).
 
 For example:
 
@@ -62,7 +62,7 @@ Take the time you need, the team decides when they are to start hacking!
 Oh and remember the rule of **π** \([pi](https://twitter.com/pietercolpaert)\)... When doing an estimation of a task, let's say, for an hour, it's most likely to take about 3.14 times longer. Thank us later.
 {% endhint %}
 
-Need to get the creative juices flowing first? Do a [brainstorm session](../../how-to-manage-a-team.md) first!
+Need to get the creative juices flowing first? Do a [brainstorm session](../../coaches/the-coaching-job/how-to-manage-a-team.md) first!
 
 ## 15:00 \[team only breakout\] Start Hackathon
 

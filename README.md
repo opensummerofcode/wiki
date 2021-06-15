@@ -48,7 +48,7 @@ Woah, we're so glad we can count on you and your expertise!
   * Before osoc gets started, make sure you take a look at [**How to prepare before osoc**](coaches/the-coaching-job/battle-prep.md)\*\*\*\*
 * Student coach? Visit [this page for student coaches](coaches/the-coaching-job/student-coaches.md)
 
-Get your practical information at [Practical: When, where, sick days, ...](coaches/coaching/attend.md) and [Salary and reimbursements](coaches/salary-and-reimbursements.md).
+Get your practical information at [Practical: When, where, sick days, ...](coaches/attend.md) and [Salary and reimbursements]().
 
 Any tips or recommendations; we love to hear from you [info@osoc.be](mailto:info@osoc.be)!
 
