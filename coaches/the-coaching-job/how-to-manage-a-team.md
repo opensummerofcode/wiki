@@ -47,6 +47,8 @@ Get that rhythm going;
 
 You can keep using the techniques you use for the other weeks, only the outcome of that week should be focused on finishing up their project, documenting everything, the [Delivery Document](../../how-to-deliver-like-a-pro/) and on their [Pitch](../../pitching/).
 
+If you figured out what to do better in the future, write it down in the delivery document so the next team can hit te ground running!
+
 ## Tutorials
 
 ### Ice Breakers
