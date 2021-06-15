@@ -20,9 +20,9 @@ Focus on **exploration and the bigger picture**. To get some examples on how to 
 
 Create a first **learning opportunity during the hackathon** in week 1 \(AKA making mistakes\).
 
-* **Learn about the project**: pick something about the project that is important to the partner, and where your team would benefit in learning together. Set ~~~~a goal together like "implement this technology", "find out if your target group wants to use that" or "combine this dataset with the other one".
-* **Learn about working together as a team**: it's a good time to start scoping and estimating. Almost every team will declare there wasn't enough time to finish what they started!  We have our [own version of scrum poker](how-to-manage-a-team.md#scrumoji-poker-tm), [scrumoji™️](how-to-manage-a-team.md#scrumoji-poker-tm), that is highly suitable for an osoc edition. It can reveil how confident everyone is about the tasks you've set up in the scope for your hackathon. You can use this during the week as well.
-* **Learn about pitching**: The team will get two opportunities to pitch in week one already; and they'll only get better at it. Encourage \(but don't force\) everyone to try it!
+* **Learn about the project**: pick something about the project that is important to the partner, and where your team would benefit in learning together. Set a goal together like "implement this technology", "find out if your target group wants to use that" or "combine this dataset with the other one". Use this technique of defining what you'll learn for the week during the other upcoming three weeks.
+* **Learn about working together as a team**: it's a good time to start [scoping](how-to-manage-a-team.md#how-to-do-a-scoping-session) and estimating. Almost every team will declare there wasn't enough time to finish what they started!  We have our [own version of scrum poker](how-to-manage-a-team.md#scrumoji-poker-tm), [scrumoji™️](how-to-manage-a-team.md#scrumoji-poker-tm), that is highly suitable for an osoc edition. It can reveil how confident everyone is about the tasks you've set up in the scope for your hackathon. You can use this during the week as well.
+* **Learn about pitching**: The team will get two opportunities to [pitch](../../pitching/) in week one already; and they'll only get better at it. Encourage \(but don't force\) everyone to try it!
 
 ### All Weeks: Build Good Habits
 
