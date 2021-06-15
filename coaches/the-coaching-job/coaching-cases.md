@@ -20,7 +20,7 @@ The answer to "**What is possible?**" lies in between the answers to those quest
 
 ## Get To Know Your Team
 
-![](../../.gitbook/assets/land-of-opportunity-skills-team.png)
+![Skills &amp; Team](../../.gitbook/assets/land-of-opportunity-skills-team.png)
 
 Use the first days of osoc to do this. Everything depends on the people you have in your team. Their skills will decide where you can meet the partner's needs. Find techniques on [breaking the ice here](how-to-manage-a-team.md#ice-breakers), and move forward with finding out about the next topics:
 
@@ -80,7 +80,7 @@ All teams will needs help with project management \(see "[Set up a good routine]
 
 ## Get to Know Your Partner & Project
 
-![](../../.gitbook/assets/land-of-opportunity-goals-value.png)
+![Goals &amp; Value](../../.gitbook/assets/land-of-opportunity-goals-value.png)
 
 Different projects require different approaches. In any case, we want students to thoroughly think about the project and the approach. We don't want any student to just execute what is thrown at them, we want them to use their brains to study the subject and ask critical questions.
 
@@ -153,7 +153,13 @@ Big teams can be split up in the [abstract](coaching-cases.md#abstract-visionary
 
 If you decide to split up your teams, set up a plan of how you're going to get _back together_. In week 1, they'll probably be exploring separately mostly, starting from the information they got from the client. But from week 2, you'll probably want to make sure they're working towards a shared goal.
 
+## What & How
 
+![What &amp; How](../../.gitbook/assets/land-of-opportunity-what-how.png)
+
+You now know how to approach your team; and how to adapt along the way if things turn out to be a bit different.
+
+Go to [How to Manage a Team: Techniques](how-to-manage-a-team.md) to get started!
 
 
 

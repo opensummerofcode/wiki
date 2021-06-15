@@ -48,7 +48,6 @@
   * [Battle Prep](coaches/the-coaching-job/battle-prep.md)
   * [Student Coaches](coaches/the-coaching-job/student-coaches.md)
   * [Screening students](coaches/the-coaching-job/screening-students.md)
-  * [Scrumology](coaches/the-coaching-job/scrumology.md)
 * [Projects](coaches/projects.md)
 * [Partner Communication](coaches/partners.md)
 * [Practical](coaches/attend.md)
