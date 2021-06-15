@@ -6,7 +6,7 @@ description: >-
 
 # How to Manage a Team: Techniques
 
-## Project Management AKA _Scrumology_
+## Creating Good Team Routines AKA _Scrumology_
 
 Create your routine to guide your team towards success. We don't care about strict rules on project management, but we care about good routines adapted to the team's needs.
 
