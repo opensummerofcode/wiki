@@ -10,7 +10,7 @@ description: >-
 
 Create your routine to guide your team towards success. We don't care about strict rules on project management, but we care about good routines adapted to the team's needs.
 
-### First week: Exploration & Learning
+### First Week: Exploration & Learning
 
 {% hint style="info" %}
 _This week is a bit exceptional, because we still need to get to know the teams and the projects!_
@@ -24,7 +24,7 @@ Create a first **learning opportunity during the hackathon** in week 1 \(AKA mak
 * **Learn about working together as a team**: it's a good time to start scoping and estimating. Almost every team will declare there wasn't enough time to finish what they started!  We have our [own version of scrum poker](how-to-manage-a-team.md#scrumoji-poker-tm), [scrumoji™️](how-to-manage-a-team.md#scrumoji-poker-tm), that is highly suitable for an osoc edition. It can reveil how confident everyone is about the tasks you've set up in the scope for your hackathon. You can use this during the week as well.
 * **Learn about pitching**: The team will get two opportunities to pitch in week one already; and they'll only get better at it. Encourage \(but don't force\) everyone to try it!
 
-### All weeks: Build Good Habits
+### All Weeks: Build Good Habits
 
 Get that rhythm going;
 
@@ -49,7 +49,7 @@ You can keep using the techniques you use for the other weeks, only the outcome 
 
 ## Tutorials
 
-### Ice breakers
+### Ice Breakers
 
 ![Our coach Jonathan guiding a student arriving on Discord for the first time](../../.gitbook/assets/screenshot-2020-07-01-at-14.46.23.png)
 
@@ -69,19 +69,19 @@ Gather the team\(s\) you're leading. Play a game or have a list of questions ava
 
 ![Another wonderful example by our coach Niels](../../.gitbook/assets/screenshot-2020-07-05-at-10.00.23.png)
 
-#### 36 questions
+#### 36 Questions
 
 This is a super lovely awkward game, used and loved by coach Rutger's teams in the past, that helps melt the ice with laser power:  
 How to fall in love \(or make your love even stronger\). [http://36questionsinlove.com](http://36questionsinlove.com)
 
-#### Show your portfolio
+#### Show Your Portfolio
 
-What can I do, what can I help you with?  
-What project are you most happy about? Why?
+Have students present themselves.  
+_What can I do, what can I help you with? What project are you most happy about? Why?_
 
 _Need more ideas? Drop a line in the discord coaches channel!_
 
-### How to project manage
+### How to Project Manage
 
 After brainstorms and scoping sessions we need to plan for disaster, divide work and follow up on that work!
 
@@ -115,13 +115,13 @@ We walk you through each step of a Disney Brainstorm, \[adapted, there are many 
 
 {% embed url="https://www.youtube.com/watch?v=FeWyfK8UbjU&feature=youtu.be" %}
 
-### How to do a scoping session
+### How To Do a Scoping Session
 
 Scoping sessions get everybody aligned on what is going to built, why and when. It's like sprinkling fairy dust on a team.
 
 {% embed url="https://www.youtube.com/watch?v=1jJCPcrTJek" %}
 
-### Scrum poker
+### Scrum Poker
 
 Osoc is too short to do actual scrum poker usually – but we have a very good alternative called_..._ 
 
@@ -155,7 +155,7 @@ Nobody has tried this before, but let us know if you did.
 
 
 
-### More good resources
+### More Good Resources
 
 {% embed url="http://www.frederikvincx.com/8-sticky-note-walls-keep-team-track/" caption="Great ways to manage your team by our coach Frederik Vincx" %}
 

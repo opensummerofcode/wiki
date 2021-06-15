@@ -43,7 +43,7 @@ Teams will consist out of different people with different skill levels – which
 **They'll all do their best, but it's possible some expectations will** _**not**_ **be met.**
 {% endhint %}
 
-### Adapt your coaching style
+### Adapt Your Coaching Style
 
 All teams will needs help with project management \(see "[Set up a good routine](coaching-cases.md#week-1-4-set-up-a-good-routine)"\). Depending on how your team works together, their experience and confidence level, you can adjust your coaching style – based on the [previous assessment](coaching-cases.md#getting-to-know-the-team) – but don't be afraid to switch it up if needed in the weeks after.
 
@@ -89,7 +89,7 @@ You can use [brainstorm](how-to-manage-a-team.md#3-brainstorm-ideas-2-bonus-adap
 
 We've made sure you can see your client every Tuesday to have a conference call, but don't be afraid to send them \(with everyone in cc\) an email now and then.
 
-### Abstract, visionary projects
+### Abstract, Visionary Projects
 
 _AKA "Niels Projects"_
 
@@ -115,7 +115,7 @@ It's easy to get lost in abstract projects, so make sure everyone knows what to 
 
 **Brainstorming together about "the bigger picture" with your partner** might be useful the first week-and-a-half. They'll give you a ton of ideas. If they don't, you can take the lead here and present them cases for them to give feedback on. Make sure you do **show confidence when you make a choice in concepts, because you want your team to have time to build something** _**concrete**_ ****in the end as well.
 
-### **Concrete projects**
+### **Concrete Projects**
 
 _AKA "VLIZ & Pieter projects"_
 
@@ -143,7 +143,7 @@ When there's a technical hurdle, it would be wise **involving your partner when 
 
 One of the most important things you need from the client is data and access \(codebases, information\). Without it, students can't do anything. And if you want to do data analysis, you'll need even more data! 
 
-### Mixed projects
+### Mixed Projects
 
 _AKA "ABB projects"_
 
