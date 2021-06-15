@@ -1,16 +1,17 @@
 ---
 description: >-
   Together with coach Jodi, we've set out a couple of guidelines and cases you
-  can use to guide your students with.
+  can use to guide your students with – based on some cases we've had in the
+  past.
 ---
 
 # Coaching Cases
 
 {% hint style="success" %}
-Together with coach Jodi, we've set out a couple of guidelines and cases you can use to guide your students with. Have an edge case? Get in touch!
+Together with coach Jodi, we've set out a couple of guidelines and cases you can use to guide your students with – based on some cases we've had in the past. Have an edge case? Get in touch!
 {% endhint %}
 
-Coaching teams is balancing between **thinking and doing.  
+Choosing a coaching style is balancing between **thinking and doing.  
 Why are we building this?** \(what is the goal, what would be valuable, where are we going long term, for whom, ...\)  
 **How are we building this?** \(team, skills, tools, technology, data at hand, ...\)  
   
