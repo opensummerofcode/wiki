@@ -84,7 +84,7 @@ In a live edition, this will be presented live.
 
 ### Decide on project management and structure
 
-How are you going to guide your students day to day? Find some tips and tricks here: [How to manage a team](how-to-manage-a-team.md) – and take a look at our [tutorials on YouTube](https://www.youtube.com/playlist?list=PLEHc_BULYm1B3-xLdfwfktL5Qps6PW61u)!
+How are you going to guide your students day to day? Find some tips and tricks here: [How to manage a team](how-to-manage-a-team.md) – and take a look at our [tutorials on YouTube](https://www.youtube.com/playlist?list=PLEHc_BULYm1B3-xLdfwfktL5Qps6PW61u)! We also have some [cases where you could learn from different approaches](coaching-cases.md) to different teams and projects.
 
 Some examples to take care of:
 
