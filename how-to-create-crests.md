@@ -85,7 +85,7 @@ Select the artboard and export as SVG \(bottom right\)
 
 ### Share
 
-Share your crest in the folder "crests", with the name of your project [https://cloud.openknowledge.be/s/i8FjdnJc3FjkjN8](https://cloud.openknowledge.be/s/i8FjdnJc3FjkjN8)
+Share your crest in the folder "crests", with the name of your project. Ask your coach for the team folder.
 
 Afterwards, we'll share you crest, with project description, on our website!
 
