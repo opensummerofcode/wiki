@@ -48,7 +48,7 @@ If you cannot work 8 hours during a certain day, you should mail [info@osoc.be](
 
 1. Only for on-site editions: During the event, interest\(ing\|ed\) people \(e.g., journalists, potential employers, experts\) may enter the location. When they’re asking about your project, cease work and answer them in a best-effort way.
 2. Everyone in your team is an ambassador of the project, without exception \(yes, also the back-end coder\). You will explain your project with pride and will train yourself to pitch the project as if it was your own start-up.
-3. The project doesn’t end at the last day of \#osoc20. You should try to “design” your open source project that it becomes a win for you when you are asked to pitch your project later on, or when you’re contacted by journalists, asked to attend an event, and so forth.
+3. The project doesn’t end at the last day of \#osoc21. You should try to “design” your open source project that it becomes a win for you when you are asked to pitch your project later on, or when you’re contacted by journalists, asked to attend an event, and so forth.
 
 ### **§6 Communication**
 
@@ -57,7 +57,7 @@ If you cannot work 8 hours during a certain day, you should mail [info@osoc.be](
 
 ### **§7 What's in a name**
 
-1. You must refer to our event as \#osoc20 or “Open summer of code”
+1. You must refer to our event as \#osoc21 or “Open summer of code”
 
 ### **§8 Blog**
 
@@ -71,7 +71,7 @@ If you cannot work 8 hours during a certain day, you should mail [info@osoc.be](
 
 ### **§1 Freedom to change projects**
 
-If you don’t feel at ease in your team, or you feel there’s a serious mismatch with your project, we will try to switch you with someone from another project who has a similar role and skill set. Please send an email to [dries@openknowledge.be](mailto:dries@openknowledge.be) or talk to Astrid in person.
+If you don’t feel at ease in your team, or you feel there’s a serious mismatch with your project, we will try to switch you with someone from another project who has a similar role and skill set. Please send an email to [info@osoc.be](mailto:info@osoc.be) or get in touch with one of the coordinators.
 
 ### **§2 Freedom of tools**
 
@@ -94,7 +94,7 @@ As long as you are capable to deliver at every milestone and you're there when y
 
 ### **§5 Freedom of speech**
 
-You are free to tweet, using the proper hashtags \#osoc20, use Facebook, Instagram, Snapchat, or any other social network, whenever you want to say anything about osoc. As long as you're not harassing or hurting other people. See [Code of Conduct](../code-of-conduct.md).
+You are free to tweet, using the proper hashtags \#osoc21, use Facebook, Instagram, Snapchat, or any other social network, whenever you want to say anything about osoc. As long as you're not harassing or hurting other people. See [Code of Conduct](../code-of-conduct.md).
 
 ### **§6 Freedom of information**
 
