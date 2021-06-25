@@ -27,6 +27,10 @@ It happens to the best of us. First of all, inform your coach\(es\). The coach w
 
 Sometimes there are things more important than Open summer of code \(yes, we find that hard to believe as well!\). Please inform the organisation up front. We'll work something out. But we don't want your team to miss out on you for too long — we've selected you for a reason, and we need you!
 
+{% hint style="info" %}
+If you need to get your COVID-shot, we understand! Please tell us 2 days in advance.
+{% endhint %}
+
 ## Can we work remote?
 
 The 2020 edition is fully remote! Occasional \(and fully optional\) gatherings with small groups can occur. 
