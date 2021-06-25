@@ -10,7 +10,7 @@ description: This is how we do it.
 
 ### **§2 Gear \(for on-site editions\)**
 
-1. You bring your own laptop.
+1. You bring your own laptop, or request one.
 2. You will not forget your battery charger. Ever.
 3. Everything you use or borrow, must be returned in the same state as before.
 4. You will lock your computer when leaving your desk.
@@ -19,12 +19,12 @@ description: This is how we do it.
 
 #### Remote edition
 
-1. During COVID19 remote will be the default. Work from home or a location that provides you with a good working environment. If there is no suitable working place available to you, please get in touch [dries@openknowledge.be](mailto:dries@openknowledge.be).
+1. During COVID19 remote will be the default. Work from home or a location that provides you with a good working environment. If there is no suitable working place available to you, please get in touch [info@osoc.be](mailto:info@osoc.be).
 2. We work 8 hours per day. We do not expect you to work more than that.
 3. You are welcome to fulfill these hours between 8am and 7pm.
 4. Make sure you attend planned activities with teams, clients and in group  \(such as streams, meetings and standups\) as communicated in the calendar and by your coach.
 
-If you cannot work 8 hours during a certain day, you should mail [dries@openknowledge.be](mailto:dries@openknowledge.be) at least 2 days in advance \(cases of emergency excluded\).
+If you cannot work 8 hours during a certain day, you should mail [info@osoc.be](mailto:info@osoc.be) at least 2 days in advance \(cases of emergency excluded\).
 
 #### On-site edition
 
@@ -34,7 +34,7 @@ If you cannot work 8 hours during a certain day, you should mail [dries@openknow
 4. If someone from the partner organisations enters the room and has something to say, you stop all work and listen \(or at least, pretend to\).
 5. You are at least 8 hours a day present at this location. You are welcome to fulfil these hours between 8am and 7pm. If you want to work late let us know. Specific locations might require special badges or a supervisor in order to be able to work past 7pm.
 
-If you cannot work 8 hours during a certain day, you should mail [dries@openknowledge.be](mailto:dries@openknowledge.be) at least 2 days in advance \(cases of emergency excluded\).
+If you cannot work 8 hours during a certain day, you should mail [info@osoc.be](mailto:info@osoc.be) at least 2 days in advance \(cases of emergency excluded\).
 
 ### **§4 Your work**
 

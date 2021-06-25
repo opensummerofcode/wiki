@@ -6,7 +6,7 @@ description: 'Get to know your team, project and the other teams!'
 
 ## **09:00 \[all teams\] Introduction**
 
-Welcome to open summer of code!
+Welcome to open summer of code! You'll 
 
 * What is osoc?
 * What is Open Knowledge Belgium?
