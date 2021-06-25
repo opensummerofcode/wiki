@@ -37,7 +37,7 @@ If you need to get your COVID-shot, we understand! Please tell us 2 days in adva
 
 The \#osoc20 and \#osoc21 editions are fully remote! Occasional \(and fully optional\) gatherings with small groups can occur. 
 
-More information about your rights and freedoms can be found on
+More information about your rights and freedoms can be found on:
 
 {% page-ref page="../../way-of-work/" %}
 
