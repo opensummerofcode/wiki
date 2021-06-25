@@ -25,7 +25,9 @@ It happens to the best of us. First of all, inform your coach\(es\). The coach w
 
 ## I really really really have to attend something...
 
-Sometimes there are things more important than Open summer of code \(yes, we find that hard to believe as well!\). Please inform the organisation up front. We'll work something out. But we don't want your team to miss out on you for too long — we've selected you for a reason, and we need you!
+Sometimes there are things more important than Open summer of code \(yes, we find that hard to believe as well!\). We'll work something out. But we don't want your team to miss out on you for too long — we've selected you for a reason, and we need you!
+
+If you cannot work 8 hours during a certain day, you should mail [info@osoc.be](mailto:info@osoc.be) at least 2 days in advance \(cases of emergency excluded\).
 
 {% hint style="info" %}
 If you need to get your COVID-shot, we understand! Please tell us 2 days in advance.
