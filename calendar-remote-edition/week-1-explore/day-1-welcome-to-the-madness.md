@@ -4,8 +4,6 @@ description: 'Get to know your team, project and the other teams!'
 
 # Day 1: Welcome \(to the Madness 😏\)
 
-![](../../.gitbook/assets/osoc-2020-cal-week-1.001.jpeg)
-
 ## **09:00 \[all teams\] Introduction**
 
 Welcome to open summer of code!
