@@ -57,7 +57,7 @@ If you cannot work 8 hours during a certain day, you should mail [info@osoc.be](
 
 ### **§7 What's in a name**
 
-1. You must refer to our event as \#osoc21 or “Open summer of code”
+1. You must refer to our event as \#osoc21 or “open summer of code”
 
 ### **§8 Blog**
 
