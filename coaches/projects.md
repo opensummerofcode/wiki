@@ -2,7 +2,7 @@
 
 ## What type of projects will I be working on?
 
-We have a wide range of interesting projects — from NPO's to universities, and from startups to big corporates. But they all have to be open source. Take a look [last year's edition of Belgium](http://osoc.be/2019).
+We have a wide range of interesting projects — from NPO's to universities, and from startups to big corporates. But they all have to be open source. Take a look [last year's edition of Belgium](https://osoc.be/editions/2020).
 
 There are three main types of projects:
 
