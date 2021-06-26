@@ -4,8 +4,8 @@
 
 **Belgium**  
 Coach: €40 an hour  
-Student: €10 an hour.  
-Student coach: €15 an hour.
+Student: €10,5 an hour.  
+Student coach: €12,5 an hour.
 
 **Spain**  
 Because we're still in an early phase, you'll be volunteering for now — as you're investing in a future!
