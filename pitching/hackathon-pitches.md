@@ -4,9 +4,9 @@ description: How to do your hackathon pitch!
 
 # Where to Pitch
 
-## Where to pitch: on discord
+## Where to Pitch: on Discord
 
-We will live stream the pitches again; live from Discord.
+We will live stream the pitches on YouTube; live via Discord.
 
 ### 1. Pick your pitcher
 
@@ -18,23 +18,25 @@ If you need any help, ask your colleagues on Discord in the \#pitch channel in t
 
 ![](../.gitbook/assets/screenshot-2020-07-06-at-11.34.24.png)
 
-### 3. At 15:30 the first pitcher goes to the voice channel _Waiting Room_, and the others follow
+### 3. At the start of the event, the first pitcher goes to the voice channel _Waiting Room_.
 
-This will be the osoc team. **When the first pitcher is pitching, the second pitcher goes to the waiting** room. Keep an eye on the sequence, don't miss a beat!
+{% hint style="warning" %}
+🔇Mute the osoc pitch stream on YouTube so we do not create a feedback loop!
+{% endhint %}
 
-🔕 Mute your notifications.
+{% hint style="warning" %}
+🔕 Mute your notifications – so you're not getting disturbed.
+{% endhint %}
 
 ![Find the waiting room, get in there :-\)](../.gitbook/assets/screenshot-2020-07-06-at-10.24.21.png)
-
-![We&apos;ll get you in the pitch arena](../.gitbook/assets/screenshot-2020-07-06-at-10.24.42.png)
 
 ### 4. You will be introduced to the Pitch arena \(magically\)
 
 {% hint style="info" %}
-**🔇When you are in there, please mute the osoc pitch stream \(YouTube\) so we do not create a feedback loop!**
+**When the first pitcher is pitching, the second pitcher goes to the waiting** room. Keep an eye on the sequence, don't miss a beat!
 {% endhint %}
 
-![It you!](../.gitbook/assets/screenshot-2020-07-06-at-10.27.02.png)
+![We drag you in, and you&apos;ll appear on the screen.](../.gitbook/assets/screenshot-2020-07-06-at-10.27.02.png)
 
 ### 5. Turn on your camera
 
@@ -60,9 +62,9 @@ If you want to show us something, you can by showing us your screen. Pick a spec
 
 ### 7. Listen to your other colleagues
 
-See your colleagues shine on our livestream and bring your enthusiasm to the \#pitch-chat channel. No need to give feedback yet, just make sure they feel empowered to be there 🔥 It takes some guts to go first.
+You can turn your livestream and notifications back on!
 
-![](../.gitbook/assets/screenshot-2020-07-06-at-11.49.52.png)
+See your colleagues shine on our livestream and bring your enthusiasm to the chat on YouTube. No need to give feedback yet, just make sure they feel empowered to be there 🔥 It takes some guts to go first.
 
 {% hint style="info" %}
 Be nice, pay attention or else 😬!
