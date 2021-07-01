@@ -22,7 +22,7 @@ We show 3 pitches, then we have an interview with a 3 team representatives for e
 
 1. Decide who is going to be the team representative that will answer that question?
 2. Test that person's mic and surroundings \(we need good sound, and not too much background noise!\)
-3. Check out the extra [Extra Pitch and Interview Tips](the-pitch.md) to reassure quality 👌
+3. Check out the extra [Extra Pitch and Interview Tips](../../../pitching/the-pitch.md) to reassure quality 👌
 
 ### What does the team representative do?
 

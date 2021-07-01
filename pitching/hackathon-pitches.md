@@ -1,8 +1,8 @@
 ---
-description: How to do your hackathon pitch!
+description: How to pitch on Discord
 ---
 
-# Where to Pitch
+# Pitch on Discord
 
 ## Where to Pitch: on Discord
 

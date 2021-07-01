@@ -1,4 +1,11 @@
-# Extra Pitch and Interview Tips
+# Pitch and Interview Tips
+
+## Tips for Live- & Pre-recorded Pitches and Interviews.
+
+{% hint style="success" %}
+**Keep it short and sweet – practice it!**  
+Most pitches are 60 seconds. Don't create too many slides, 6 max! Time it beforehand, practice it in the mirror or with a fellow student.
+{% endhint %}
 
 {% hint style="success" %}
 **Reduce noise 📣**  
@@ -28,6 +35,10 @@ Use a good microphone, that is preferably not your laptop's microphone.
 {% endhint %}
 
 {% hint style="success" %}
+🎶 Do not just grab any music – **copyright** may be applied, and you would have to pay for it ;-\). Open source is the way to go! Ask for ideas and resources on Discord.
+{% endhint %}
+
+{% hint style="success" %}
 **Position yourself like a pro 🏆**\(for pitches and vlogging\)  
 Use the golden ratio to position yourself in front of the camera  
 [https://photographyhero.com/golden-ratio-photography/\#:~:text=What%20is%20the%20Golden%20Ratio,art%20from%20paintings%20to%20architecture.](https://photographyhero.com/golden-ratio-photography/#:~:text=What%20is%20the%20Golden%20Ratio,art%20from%20paintings%20to%20architecture.)  
@@ -43,4 +54,10 @@ Go for it. 1 take. Practice. Go for _not too_ perfect 😏
 **Energy! ⚡️for everyone**  
 _****_Breathe in.. stretch.. take up space... smile. Bring your _best energy._
 {% endhint %}
+
+## How to make a Video \(Quick & Dirty\)
+
+{% embed url="https://www.youtube.com/watch?v=RJXhD0ObWzg&t=6s" %}
+
+
 

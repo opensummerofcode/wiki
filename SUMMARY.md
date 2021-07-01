@@ -24,7 +24,6 @@
     * [Day 4: Demo Day](calendar-remote-edition/week-4-deliver/day-4-demo-day/README.md)
       * [Interviews](calendar-remote-edition/week-4-deliver/day-4-demo-day/interviews.md)
       * [Hosting](calendar-remote-edition/week-4-deliver/day-4-demo-day/hosting.md)
-      * [Extra Pitch and Interview Tips](calendar-remote-edition/week-4-deliver/day-4-demo-day/the-pitch.md)
 * [Code of Conduct](code-of-conduct.md)
 * [The osoc Way of Work & Play](way-of-work/README.md)
   * [Working Together in a Remote Setting](way-of-work/working-together-in-a-remote-setting.md)
@@ -77,8 +76,8 @@
 
 * [Create Crests](how-to-create-crests.md)
 * [Pitching](pitching/README.md)
-  * [Where to Pitch](pitching/hackathon-pitches.md)
-  * [How to Pitch](pitching/how-to-pitch.md)
+  * [Pitch and Interview Tips](pitching/the-pitch.md)
+  * [Pitch on Discord](pitching/hackathon-pitches.md)
 * [Deliver Like a Pro](how-to-deliver-like-a-pro/README.md)
   * [Publish a Github Page](how-to-deliver-like-a-pro/publishing-a-github-page.md)
 * [Conduct \(Remote\) Tests and Interviews with Real People + Archetypes](how-to-conduct-remote-tests-and-interviews-with-real-people.md)
