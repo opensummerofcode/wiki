@@ -6,7 +6,7 @@ In the month of July, from Monday through Thursday from 09:00 to 17:00 you'll be
 
 You can find the location and calendar on the website for your country's edition.
 
-* Belgium: [Calendar Remote Edition](../../calendar-remote-edition/)
+* Belgium: [Calendar Remote Edition](../../organisers/calendar/calendar-remote-edition/)
 * Spain: [https://2021.summerofcode.es/agenda.html\#](https://2021.summerofcode.es/agenda.html#)
 
 ## How many days will I work?

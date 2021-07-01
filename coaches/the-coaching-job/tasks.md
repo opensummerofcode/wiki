@@ -60,7 +60,7 @@ Keep your client up to date, and don't leave them in the dark. A client needs to
 
 You can delegate the communication, but make sure the students run it past you before they send it. Most students do not have a lot of experience communicating in a professional context.
 
-At the end of Osoc, you'll also hand in a big [delivery document](../../how-to-deliver-like-a-pro/) with your students, that contains all the work.
+At the end of Osoc, you'll also hand in a big [delivery document](../../tutorials/how-to-deliver-like-a-pro/) with your students, that contains all the work.
 
 ## First-time coaches
 

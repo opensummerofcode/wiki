@@ -22,7 +22,7 @@ Create a first **learning opportunity during the hackathon** in week 1 \(AKA mak
 
 * **Learn about the project**: pick something about the project that is important to the partner, and where your team would benefit in learning together. Set a goal together like "implement this technology", "find out if your target group wants to use that" or "combine this dataset with the other one". Use this technique of defining what you'll learn for the week during the other upcoming three weeks.
 * **Learn about working together as a team**: it's a good time to start [scoping](how-to-manage-a-team.md#how-to-do-a-scoping-session) and estimating. Almost every team will declare there wasn't enough time to finish what they started!  We have our [own version of scrum poker](how-to-manage-a-team.md#scrumoji-poker-tm), [scrumoji™️](how-to-manage-a-team.md#scrumoji-poker-tm), that is highly suitable for an osoc edition. It can reveil how confident everyone is about the tasks you've set up in the scope for your hackathon. You can use this during the week as well.
-* **Learn about pitching**: The team will get two opportunities to [pitch](../../pitching/) in week one already; and they'll only get better at it. Encourage \(but don't force\) everyone to try it!
+* **Learn about pitching**: The team will get two opportunities to [pitch](../../tutorials/pitching/) in week one already; and they'll only get better at it. Encourage \(but don't force\) everyone to try it!
 
 ### All Weeks: Build Good Habits
 
@@ -36,8 +36,8 @@ Get that rhythm going;
   * You can do multiple stand-ups, even at noon; depending on what your teams need. Some teams also like doing stand-downs – this creates the opportunity to 
   * You can also do _stand-downs_ at the end of the day, to make sure you know everyone leaves the chat with confidence and won't mull about everything at night; so they can start the day fresh.
 * **If there's a part-time coach** helping you out, have students help you with writing a **summary** at the end of the day of what \(didn't\) happen – so that the people that weren't there are up-to-speed immediately.
-* **Test what's made**. Not just in code. Every week. We need real people to use what's been created and we want it to be [valuable to them](../../how-to-conduct-remote-tests-and-interviews-with-real-people.md).
-* **Pitch what's made**. Every Thursday, you'll get the opportunity [to pitch](../../pitching/)!
+* **Test what's made**. Not just in code. Every week. We need real people to use what's been created and we want it to be [valuable to them](../../tutorials/how-to-conduct-remote-tests-and-interviews-with-real-people.md).
+* **Pitch what's made**. Every Thursday, you'll get the opportunity [to pitch](../../tutorials/pitching/)!
 * **Check in and adapt**.
   * At the end of week 1, 2 and 3 it would be good to see how people did and how they felt with a [retrospective](how-to-manage-a-team.md#retrospective-how-to-vent-improve-and-replenish-the-team) – so you can do things better the week after.
   * To make sure people learn from their estimations, you can compare their estimations from during the start of the week [\(scrumoji™️\)](how-to-manage-a-team.md#scrumoji-poker-tm) to the outcome. Now is the time to see if the end-goal is still feasible, communicate with your partner, and see where you can adapt. Next time they'll probably want do overestimate, rather than underestimate.
@@ -45,7 +45,7 @@ Get that rhythm going;
 
 ### Last Week: Documentation
 
-You can keep using the techniques you use for the other weeks, only the outcome of that week should be focused on finishing up their project, documenting everything, the [Delivery Document](../../how-to-deliver-like-a-pro/) and on their [Pitch](../../pitching/).
+You can keep using the techniques you use for the other weeks, only the outcome of that week should be focused on finishing up their project, documenting everything, the [Delivery Document](../../tutorials/how-to-deliver-like-a-pro/) and on their [Pitch](../../tutorials/pitching/).
 
 If you figured out what to do better in the future, write it down in the delivery document so the next team can hit te ground running!
 

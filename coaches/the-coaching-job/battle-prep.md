@@ -129,7 +129,7 @@ Go to July 2021 😌
 
 At the end of osoc, we make sure the client and the open source community knows what this project was about, how to contribute and how to make it better. We made an exhaustive deliverable checklist to make sure this can happen!
 
-{% page-ref page="../../how-to-deliver-like-a-pro/" %}
+{% page-ref page="../../tutorials/how-to-deliver-like-a-pro/" %}
 
 You can do this together or separately, and discuss if you still have questions beforehand. Ask the organisation to clarify if needed!
 
