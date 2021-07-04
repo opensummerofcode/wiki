@@ -44,21 +44,17 @@ So if you are working on a project that has been around the year before, make su
 
 ![We created a&#x2028;deliverable checklist &#x2028;to help teams accomplish these steps.&#x2028;](../../.gitbook/assets/screenshot-2020-06-30-at-22.31.43.png)
 
-Step 1: Go to the drive **folder for students** [**https://drive.google.com/drive/folders/1n4SAYpis-DJbNmb5zPcaw6bjP-aQEFRm?usp=sharing**](https://drive.google.com/drive/folders/1n4SAYpis-DJbNmb5zPcaw6bjP-aQEFRm?usp=sharing)\*\*\*\*
+Step 1: Go to your **project page** and find the link under "**File Storage**"
 
-{% hint style="info" %}
-We have changed from Nextcloud to **Drive** because of editing issues. Sorry for the inconvenience!
-{% endhint %}
-
-![](../../.gitbook/assets/screenshot-2020-07-25-at-22.44.31.png)
+![Go to your project page; for example ABB](../../.gitbook/assets/screenshot-2021-07-05-at-00.34.06.png)
 
 Step 2: Go to **Deliverables**
 
-![](../../.gitbook/assets/screenshot-2020-07-25-at-22.45.08.png)
+![There&apos;s a folder called &quot;Deliverables&quot;](../../.gitbook/assets/screenshot-2021-07-05-at-00.34.25.png)
 
-Step 3: find the deliverables **checklist**
+Step 3: Find the deliverables **checklist**
 
-![](../../.gitbook/assets/screenshot-2020-07-25-at-22.45.33.png)
+![Find the excel with the expected deliverables!](../../.gitbook/assets/screenshot-2021-07-05-at-00.34.54.png)
 
 Step 4: Start **checking** boxes!
 
@@ -75,7 +71,7 @@ This will help the client understand what kind ship the team has built, how they
 
 ![](../../.gitbook/assets/screenshot-2020-06-30-at-22.41.05.png)
 
-* Find the template in your team folder [https://drive.google.com/drive/folders/1n4SAYpis-DJbNmb5zPcaw6bjP-aQEFRm?usp=sharing](https://drive.google.com/drive/folders/1n4SAYpis-DJbNmb5zPcaw6bjP-aQEFRm?usp=sharing)
+* Find the template in your team folder
 * Find examples of the handover dossier here [https://drive.google.com/drive/folders/16z6e39rb6t7AAgYl0InFLsG09o8BI3BC?usp=sharing](https://drive.google.com/drive/folders/16z6e39rb6t7AAgYl0InFLsG09o8BI3BC?usp=sharing)
 
 ### Github Pages
@@ -95,7 +91,7 @@ Not everything has a guide. But we have many coaches, student coaches and even s
 
 ### The Handover Email
 
-Write a clear, professional email with a link to your deliverables at the end of open summer of code \([see calendar](../../organisers/calendar/calendar-remote-edition/week-4-deliver/day-3.md)\) – and a kind goodbye.
+Write a clear, professional email with a link to your deliverables at the end of open summer of code – and a kind goodbye.
 
 ![](../../.gitbook/assets/screenshot-2020-06-30-at-23.24.00.png)
 
