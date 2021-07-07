@@ -63,5 +63,7 @@ _****_Breathe in.. stretch.. take up space... smile. Bring your _best energy._
 
 {% embed url="https://docs.google.com/presentation/d/1fUNfj5LnUDrepYYWJW84sIKw2N4WjGSVvVGZ9OTVxGM/edit?usp=sharing" %}
 
+## Basic Structure
 
+![](../../.gitbook/assets/slides.png)
 
