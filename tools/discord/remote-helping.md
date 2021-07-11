@@ -24,17 +24,19 @@ Couldn't figure out find the answer? [Ask in one of the help channels](remote-he
 
 You can read more about this technique on [Wikipedia](https://en.wikipedia.org/wiki/Rubber_duck_debugging) – specifically for development. However, it's also useful for problems, like finding out how a certain tool works. Try it and let us know if it worked!
 
-## Asking for Help from Coaches
+## Asking for Help
 
-Whenever a someone types "@consulting" in one of the help channels, while you set yourself on available, you get a notification. If you can help out, you can just react on that message!
+Whenever a someone types "@helping-hand" in one of the help channels, everyone that clicked the little hand in the \#help channel, will get a notification. If you can help out, you can just react on that message in the corresponding channel!
 
-![](../../.gitbook/assets/screenshot-2020-07-10-at-17.17.21.png)
+![](../../.gitbook/assets/screenshot-2021-07-11-at-08.30.11.png)
 
-## Making Yourself Available to Help as a Coach
+## Making Yourself Available to Help
 
-![](../../.gitbook/assets/screenshot-2020-07-10-at-17.07.16.png)
+Click the little hand emoji in \#help to make yourself available to help!
 
-As a coach, whenever you have some time off _– AKA letting your students go 🔥_, you can offer your time to help out students by clicking the hand emoji in the help channel \#start-consulting.
+Tip: As a coach, whenever you have some time off _– AKA letting your students go 🔥_, you can offer your time to help out students by clicking the hand emoji in the help channel \#start-consulting.
+
+![\#help channel](../../.gitbook/assets/screenshot-2021-07-11-at-08.27.29.png)
 
 {% hint style="info" %}
 Aim to be available to people outside of your team approximately for one hour a day \(fulltime coaches\) or half an hour a day \(halftime coaches\).
