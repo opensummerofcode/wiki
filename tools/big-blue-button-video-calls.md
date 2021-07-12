@@ -74,5 +74,7 @@ To turn on your camera, **click the camera icon that says "webcam delen"** in th
 
 {% embed url="https://bigbluebutton.org/html5/" %}
 
+## Devices, browsers, requirements
 
+{% embed url="https://support.bigbluebutton.org/hc/en-us/articles/1500005215921-What-are-the-minimum-requirements-for-BigBlueButton-" %}
 
