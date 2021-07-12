@@ -6,9 +6,13 @@ If this guide does not help, please get in touch with Astrid or Miet. It's possi
 
 ## Enter the Room
 
-When clicking the link, you'll see a landing page that requests you to enter your name. Click "Begin" to enter the room.
+When clicking the link, you'll see a landing page that requests you to **enter your name**. **Click "Begin"** to enter the room.
 
 ![Enter your name](../.gitbook/assets/screenshot-2021-07-12-at-13.10.35.png)
+
+{% hint style="info" %}
+Mac users: make sure you allow Big Blue Button to see your video, audio and that you can share your screen! 
+{% endhint %}
 
 ## Audio
 
@@ -22,7 +26,7 @@ While you wait, it connects to an echo test...
 
 ![Connecting to the echo test.](../.gitbook/assets/screenshot-2021-07-12-at-13.11.02%20%281%29.png)
 
-The echo test shows a thumb up and a thumb down. Speak or make a sound, and if the echo test works, you'll hear it back. Press thumbs up if it worked.
+The echo test shows a thumb up and a thumb down. **Speak or make a sound, and if the echo test works, you'll hear it back.** Press thumbs up if it worked.
 
 ![Click &quot;Ja&quot; if you heard your own echo.](../.gitbook/assets/screenshot-2021-07-12-at-13.10.50.png)
 
@@ -48,7 +52,7 @@ To be able to share your screen, you need to **take the presenter role first**. 
 
 ### Share Your Screen
 
-When you have the presenter role, you can now share your screen.
+When you have the presenter role, you can now share your screen with the **button "Deel uw scherm" below**.
 
 ![](../.gitbook/assets/screenshot-2021-07-12-at-13.12.01-copy.png)
 
