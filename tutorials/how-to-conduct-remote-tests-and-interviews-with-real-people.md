@@ -22,7 +22,7 @@ Conducting interviews & tests
 
 ## Creating Archetypes
 
-Archetype template:
+Archetype template: [https://docs.google.com/document/d/1\_5SHIBGask6crl\_TghjNvvGuNqiXOQ4rYBfLuzSzBVU/edit?usp=sharing](https://docs.google.com/document/d/1_5SHIBGask6crl_TghjNvvGuNqiXOQ4rYBfLuzSzBVU/edit?usp=sharing)
 
 
 
