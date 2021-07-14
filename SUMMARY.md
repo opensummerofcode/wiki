@@ -55,6 +55,7 @@
 * [Pitching](tutorials/pitching/README.md)
   * [Pitch and Interview Tips](tutorials/pitching/the-pitch.md)
   * [Pitch on Discord](tutorials/pitching/hackathon-pitches.md)
+  * [Pitch content tips](tutorials/pitching/pitch-content-tips.md)
 * [Interviews](tutorials/interviews.md)
 * [Hosting](tutorials/hosting.md)
 * [Deliver Like a Pro](tutorials/how-to-deliver-like-a-pro/README.md)
