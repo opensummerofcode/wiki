@@ -12,3 +12,5 @@ Every year, we train you to pitch, to show off the value in your work; because i
 
 {% page-ref page="hackathon-pitches.md" %}
 
+{% page-ref page="pitch-content-tips.md" %}
+

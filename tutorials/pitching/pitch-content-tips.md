@@ -1,4 +1,4 @@
-# Pitch content tips
+# Pitch Content Tips
 
 ## Mood
 
