@@ -57,7 +57,7 @@ Check if your interviewees and hosts will make a good appearance on the demo day
 * Limited background noise
 * Stable microphone
 
-And update the project description sheet with hosts and interviewees for the Demo Day: [https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O\_vAOphsx2vnGE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O_vAOphsx2vnGE/edit?usp=sharing)
+And update the project description sheet with hosts and interviewees for the Demo Day.
 
 ## 17:00 have a nice day 🥳
 
