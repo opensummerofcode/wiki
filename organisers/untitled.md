@@ -2,13 +2,13 @@
 
 ## Pay
 
-**Belgium**  
-Coach: €40 an hour  
-Student: €10,5 an hour.  
+**Belgium**\
+Coach: €40 an hour\
+Student: €10,5 an hour.\
 Student coach: €12,5 an hour.
 
-**Spain**  
-Because we're still in an early phase, you'll be volunteering for now — as you're investing in a future!
+**Spain**\
+****Because we're still in an early phase, you'll be volunteering for now — as you're investing in a future!
 
 ## Personal expenses
 
@@ -19,6 +19,4 @@ Partners are not reimbursed.
 ## Team expenses
 
 Each team gets the same budget. It should be communicated at the start of oSoc to the teams, and a sheet of expenses should be communicated should be shared with the coaches, so they can gather all invoices/expenses and add a picture.
-
-
 

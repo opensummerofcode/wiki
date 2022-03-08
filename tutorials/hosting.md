@@ -7,7 +7,7 @@ description: >-
 
 # Hosting
 
-## TDLR \(yes, too didn't long read\); Todo's
+## TDLR (yes, too didn't long read); Todo's
 
 ### Day before
 
@@ -22,27 +22,27 @@ description: >-
 
 * [Keep the noise down](hosting.md#pick-a-noise-and-troll-moderator)
 * Make sure not more than 30 people are in the room at the same time. Kindly ask them to leave in-chat, or[ kick them if](hosting.md#pick-a-noise-and-troll-moderator) needed.
-* [Welcome](hosting.md#pick-a-master-of-ceremony-to-welcome-people) people \(and use the slides\)
+* [Welcome](hosting.md#pick-a-master-of-ceremony-to-welcome-people) people (and use the slides)
 * [Show off](hosting.md#pick-who-will-show-the-demo-a-website) what you've made
 * [Moderate](hosting.md#pick-a-question-moderator) questions
 
 ## Get Ready as a Team & Divide work
 
-During the breakout sessions, the whole team is present in the breakout room to welcome visitors, show off their work and answer questions \(just like in a live edition where they'd come to your booth!\).
+During the breakout sessions, the whole team is present in the breakout room to welcome visitors, show off their work and answer questions (just like in a live edition where they'd come to your booth!).
 
-During the demo day **you won't not roam around**, only visitors will \(to make sure we do not overload the servers\). The team is present the assigned breakout waiting for their visitors.
+During the demo day **you won't not roam around**, only visitors will (to make sure we do not overload the servers). The team is present the assigned breakout waiting for their visitors.
 
 _This is a chance for you to present yourself to future employers, meet like-minded people and to show people what you've made. Use it as an opportunity_ 😊
 
 {% hint style="info" %}
-During the first breakout room test it was clear this job can get quite heavy; so you can definitely split up tasks over your team members and coach\(es\)!
+During the first breakout room test it was clear this job can get quite heavy; so you can definitely split up tasks over your team members and coach(es)!
 {% endhint %}
 
 ## Pick a Noise & Troll Moderator
 
 Make sure one person in your team is in the breakout room _first_ to become the moderator. This will give you the opportunity to turn off people's mics, hide them or kick them.
 
-![You&apos;ll see this message appear. ](../.gitbook/assets/screenshot-2020-07-26-at-20.55.15.png)
+![You'll see this message appear. ](../.gitbook/assets/screenshot-2020-07-26-at-20.55.15.png)
 
 _Tip: You can already go there when the streaming event starts, so you have the chance to chase out the trolls._
 
@@ -58,21 +58,21 @@ You can make sure everyone starts out muted in the settings menu option to preve
 
 #### Manage people's noise
 
-If someone forgets to mute themselves after they've just spoken, you can mute them by clicking the three dots bottom left of their name.  
-  
+If someone forgets to mute themselves after they've just spoken, you can mute them by clicking the three dots bottom left of their name.\
+\
 However, if one person is speaking, and several other people are noisy, you can mute everyone else but this person.
 
 ![](../.gitbook/assets/screenshot-2020-07-26-at-21.02.10.png)
 
 If you're speaking and people are noisy, you can mute everyone 😇
 
-![Use it wisely &#x1F60F;](../.gitbook/assets/screenshot-2020-07-26-at-20.58.13.png)
+![Use it wisely 😏](../.gitbook/assets/screenshot-2020-07-26-at-20.58.13.png)
 
 ### Don't Feed the Trolls. Kick them.
 
 But make sure you're not a troll yourself by using this power foolishly!
 
-**If the room exceeds 30 people**, kindly send them a personal message that the room is full and refer them to one of the other 3 \(or 4\) rooms are available. Prepare a little text in advance, so you can easily copy-paste it ;-\) If they will not leave by themselves, kick them!
+**If the room exceeds 30 people**, kindly send them a personal message that the room is full and refer them to one of the other 3 (or 4) rooms are available. Prepare a little text in advance, so you can easily copy-paste it ;-) If they will not leave by themselves, kick them!
 
 ## Set the Stage
 
@@ -82,7 +82,9 @@ But make sure you're not a troll yourself by using this power foolishly!
 
 Our wonderful Aïsha prepared a template for you:
 
-{% file src="../.gitbook/assets/hi\_welcome \(2\).pptx" caption="Breakout room Welcome + Goodbye Template" %}
+{% file src="../.gitbook/assets/hi_welcome (2).pptx" %}
+Breakout room Welcome + Goodbye Template
+{% endfile %}
 
 ## Pick a Master of Ceremony to Welcome People
 
@@ -121,8 +123,8 @@ A lot of questions coming in? Help out the host.
 * Pick interesting and bundle similar questions
 * Give the hosts a heads up on:
   * which question is going to be answered
-  * who posed the question \(and thus who to invite to the screen with mic\)
-  * who will answer the question \(the team member that can answer; this is especially useful in bigger teams\)
+  * who posed the question (and thus who to invite to the screen with mic)
+  * who will answer the question (the team member that can answer; this is especially useful in bigger teams)
 
 #### How to delegate
 
@@ -138,4 +140,3 @@ A lot of questions coming in? Help out the host.
 {% hint style="info" %}
 Good luck and remember to have fun 🤩
 {% endhint %}
-

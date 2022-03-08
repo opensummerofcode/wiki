@@ -12,33 +12,35 @@ This is an example of the remote edition fo 2020. Go to the website of your spec
 
 ![](../../../../.gitbook/assets/osoc-2020-cal-week-1.002.jpeg)
 
-## **09:00** \[team only breakout\] Prepare first client meeting
+## **09:00** \[team only breakout] Prepare first client meeting
 
 Prepare for your first client meeting!
 
-* Present your team members \(students and coaches\)
-* Check if you understood all needs and goals \(you can reuse the pitch you made on day 1\)
+* Present your team members (students and coaches)
+* Check if you understood all needs and goals (you can reuse the pitch you made on day 1)
 * List all the questions you have
 * Decide who does the talking
 * Decide who takes notes
 
 Some tips and tricks can come in handy if you've never attended a client meeting before:
 
-{% embed url="https://www.youtube.com/watch?v=SvO5EfTW6Hw&feature=youtu.be" caption="Tutorial: how to do a client meeting." %}
+{% embed url="https://www.youtube.com/watch?v=SvO5EfTW6Hw&feature=youtu.be" %}
+Tutorial: how to do a client meeting.
+{% endembed %}
 
-## **10:00 or 11:00** \[client and team\] Client meetings
+## **10:00 or 11:00** \[client and team] Client meetings
 
 Depending on the team you are on, you will have a client meeting at 10:00 or 11:00.
 
-The overview of the \#osoc20 partner meetings, with a link to a room for each project: [https://cloud.openknowledge.be/s/RyD2T6acDy9aAXy](https://cloud.openknowledge.be/s/RyD2T6acDy9aAXy)
+The overview of the #osoc20 partner meetings, with a link to a room for each project: [https://cloud.openknowledge.be/s/RyD2T6acDy9aAXy](https://cloud.openknowledge.be/s/RyD2T6acDy9aAXy)
 
 If you need more meetings, you are free to book them with the team and client.
 
-## 12:00 \[coaches & student coaches only\] Optional Fika
+## 12:00 \[coaches & student coaches only] Optional Fika
 
-Talk about what's been going on your team; the good and the bad – in the Fika voice channel &lt;3
+Talk about what's been going on your team; the good and the bad – in the Fika voice channel <3
 
-## 13:00 \[team only breakout\] Scope Your Hackathon Goal
+## 13:00 \[team only breakout] Scope Your Hackathon Goal
 
 ### Why we do hackathons
 
@@ -60,19 +62,17 @@ For example:
 * Try out a new technology
 * ... Surprise us
 
-Take the time you need, the team decides when they are to start hacking! 
+Take the time you need, the team decides when they are to start hacking!&#x20;
 
 {% hint style="info" %}
-Oh and remember the rule of **π** \([pi](https://twitter.com/pietercolpaert)\)... When doing an estimation of a task, let's say, for an hour, it's most likely to take about 3.14 times longer. Thank us later.
+Oh and remember the rule of **π** ([pi](https://twitter.com/pietercolpaert))... When doing an estimation of a task, let's say, for an hour, it's most likely to take about 3.14 times longer. Thank us later.
 {% endhint %}
 
 Need to get the creative juices flowing first? Do a [brainstorm session](../../../../coaches/the-coaching-job/how-to-manage-a-team.md) first!
 
-## 15:00 \[team only breakout\] Start Hackathon
+## 15:00 \[team only breakout] Start Hackathon
 
 Let's get started!
 
 ## 17:00 have a nice day 🥳
-
-
 

@@ -7,8 +7,8 @@ description: >-
 
 # Screening students
 
-> I love bringing a project to life in collaboration with a group of people, that have different backgrounds.  
->   
+> I love bringing a project to life in collaboration with a group of people, that have different backgrounds.\
+> \
 > Eveline Vlassenroot
 
 ## What do we screen our students for?
@@ -33,14 +33,14 @@ The motivation letter usually reveals a big part; how fluent are they? What do t
 
 #### Side projects
 
-Side projects reveal a lot about someone's motivation; and if they have any prior work experience as well \(that wasn't mandatory as a school assignment\).
+Side projects reveal a lot about someone's motivation; and if they have any prior work experience as well (that wasn't mandatory as a school assignment).
 
 #### Education level
 
 * First-year students
   * Usually students that are in year 1 of their education need some more time studying their craft to be part of osoc.
   * There is a real risk that they will fall behind and won't be able to help out a lot. This will drastically demotivate them and create tension in the team as well.
-  * The occasional unicorn or people with relevant background do pop up. Their portfolio has to stand out _a lot_ to make up for the lack of experience in their work field \(side projects, working in teams, complex assignments in their work of field they are studying\).
+  * The occasional unicorn or people with relevant background do pop up. Their portfolio has to stand out _a lot_ to make up for the lack of experience in their work field (side projects, working in teams, complex assignments in their work of field they are studying).
 * Second-year students
   * Make sure they succeeded their first year — zoom in on their portfolio, motivation and attitude. Some work that is not related to school is a huge plus.
 * Third-year students
@@ -70,7 +70,7 @@ We also need to make sure we can actually pay students – this depends from cou
 
 Our main language is English; we need people to speak pretty well to make sure we can understand each other. We can't teach people how to speak English on the job unfortunately.
 
-If their CV is not written in English \(even though it should have been, this is not a great sign\), or you're not sure how fluent they are; you can give that student a call. To find out if you can have a decent conversation with a student, ask them about their experience, motivation and why they want to join.
+If their CV is not written in English (even though it should have been, this is not a great sign), or you're not sure how fluent they are; you can give that student a call. To find out if you can have a decent conversation with a student, ask them about their experience, motivation and why they want to join.
 
 ### Type of projects
 
@@ -83,7 +83,7 @@ This is a tricky one; but we look for students to fit the projects that we will 
 * a photographer/someone that can create videos during on-location editions
 * a motion designer/someone that can create videos during remote editions
 
-Keep an eye on creating well-rounded teams with different skill sets and backgrounds. A team with limited skills \(for example only developers or designers\), or a team that has the same mother tongue isn't great for the goals we have in mind: diverse teams that deliver projects for diverse people!
+Keep an eye on creating well-rounded teams with different skill sets and backgrounds. A team with limited skills (for example only developers or designers), or a team that has the same mother tongue isn't great for the goals we have in mind: diverse teams that deliver projects for diverse people!
 
 ### I am not sure.. 🤔
 
@@ -97,13 +97,13 @@ We do not negotiate their pay. It's not about money.
 
 ### Getting in
 
-We have created a selection tool to make the process a bit easier: [selections.osoc.be](http://selections.osoc.be) 
+We have created a selection tool to make the process a bit easier: [selections.osoc.be](http://selections.osoc.be)&#x20;
 
 ![The login screen](../../.gitbook/assets/screenshot-2021-05-25-at-15.56.45.png)
 
 To get access, connect with your Google account. _Yes, we want to get rid of this dependency too._
 
-When you sign up, you'll get approved. You will not get an email \(we are working on this\) – if you cannot get access, get in touch!
+When you sign up, you'll get approved. You will not get an email (we are working on this) – if you cannot get access, get in touch!
 
 ### Overview
 
@@ -113,7 +113,7 @@ When you get in you will get an overview of all the students that applied. Click
 
 [Based on the criteria](screening-students.md#what-do-we-screen-our-students-for), you can suggest **yes**, **maybe** or **no** for a student. To help other coaches in making their decision – and for us to be able to give a reason to the student, provide a reason!
 
-![Write a decision](../../.gitbook/assets/screenshot-2021-05-25-at-15.51.28%20%281%29.png)
+![Write a decision](<../../.gitbook/assets/screenshot-2021-05-25-at-15.51.28 (1).png>)
 
 ### Searching & Filtering
 
@@ -124,7 +124,7 @@ To find students that are part of a certain field, you can use the role filters.
 * You can quickly find alumni, students that applied as student coach or students you've suggested for.
 * The students that had a definite yes, you can filter on as well.
 
-![The search box &amp; filters](../../.gitbook/assets/screenshot-2021-05-25-at-16.41.23.png)
+![The search box & filters](../../.gitbook/assets/screenshot-2021-05-25-at-16.41.23.png)
 
 ## Assembling your team
 
@@ -148,7 +148,9 @@ Drag the student on the project that needs it, assign them a role and give a rea
 
 ![Drag the student on top of the team.](../../.gitbook/assets/screenshot-2021-05-25-at-16.51.53.png)
 
-{% file src="../../.gitbook/assets/how-to-select.mov" caption="How to select a student for your project" %}
+{% file src="../../.gitbook/assets/how-to-select.mov" %}
+How to select a student for your project
+{% endfile %}
 
 You cannot add a student to two teams. Resolve the issue with your fellow coach, to create healthy balanced teams! ♥️
 
@@ -156,10 +158,9 @@ You cannot add a student to two teams. Resolve the issue with your fellow coach,
   * Look at diversity; where would the person fit better?
   * Skills; which project needs this person most?
 * Alumni students are usually stronger students, that need an extra force of power to help out. Give teams the benefit of the alumni if the team has one or more of these needs:
-  * \(1\) teams with a half-time coach, with no student-coach;
-  * \(2\) big teams without a student-coach;
-  * \(3\) teams that need an expert on a topic they can provide \(if the coach cannot help here\);
-  * \(4\) if the student has a history with the project, and can help out.
+  * (1) teams with a half-time coach, with no student-coach;
+  * (2) big teams without a student-coach;
+  * (3) teams that need an expert on a topic they can provide (if the coach cannot help here);
+  * (4) if the student has a history with the project, and can help out.
 
 ![Example of a conflict.](../../.gitbook/assets/screenshot-2021-05-25-at-16.55.14.png)
-

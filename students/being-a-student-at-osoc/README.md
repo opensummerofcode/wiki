@@ -18,7 +18,6 @@ There are multiple reasons to participate. First of all, you can improve your sk
 
 Did you know, osoc is completely free? Even better, you are getting paid! Enhancing your skills, making new friends, cashing in some money and creating something valuable... Sounds like a good plan, right?
 
-> My second time osoc felt like coming home. Meeting people from last year, connecting with new interesting people. It's exciting to see how diverse oSoc is.  
->   
+> My second time osoc felt like coming home. Meeting people from last year, connecting with new interesting people. It's exciting to see how diverse oSoc is.\
+> \
 > — Sheila Decloedt
-

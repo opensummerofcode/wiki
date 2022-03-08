@@ -18,13 +18,11 @@ Your team will be assembled by the coaches according to the kind of people they 
 
 ## Who do I report to?
 
-When it comes to the project, you'll always report to your coach\(es\), and if they are not available your student coaches. They'll go through the project scope with the team at the start osoc. Together with your coach, you'll define a backlog of things to do for the team. It'll be chopped up into smaller tasks so you can plan what you're doing in those 4 weeks.  
-  
+When it comes to the project, you'll always report to your coach(es), and if they are not available your student coaches. They'll go through the project scope with the team at the start osoc. Together with your coach, you'll define a backlog of things to do for the team. It'll be chopped up into smaller tasks so you can plan what you're doing in those 4 weeks.\
+\
 It's your job to keep your coach up to date of what you've been working on, what you're stuck with and what you're going to work on.
 
 Coaches might give you the mandate to communicate to your client as well under their supervision — to keep your client happy and up to date .
-
-
 
 
 

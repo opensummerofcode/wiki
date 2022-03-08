@@ -14,7 +14,7 @@
 * [The Student Job](students/the-student-job.md)
 * [Salary & Reimbursements](students/reimbursements.md)
 
-## Coaches & Student coaches <a id="coaches"></a>
+## Coaches & Student coaches <a href="#coaches" id="coaches"></a>
 
 * [Being a coach at oSoc](coaches/coaching.md)
 * [The Coaching Job](coaches/the-coaching-job/README.md)
@@ -37,16 +37,17 @@
 * [The Partner's Job](partners/the-partners-job.md)
 * [Projects](partners/projects.md)
 
-## Tools & Resources <a id="tools"></a>
+## Tools & Resources <a href="#tools" id="tools"></a>
 
 * [Discord](tools/discord/README.md)
+  * [Basics](tools/discord/basics.md)
   * [Discord etiquette](tools/discord/discord-etiquette.md)
   * [Setting your nickname](tools/discord/setting-your-nickname.md)
   * [Managing notifications](tools/discord/managing-notifications.md)
   * [Offering and Receiving Help](tools/discord/remote-helping.md)
   * [Find Your Discord Username](tools/discord/find-your-discord-username.md)
 * [NextCloud](tools/nextcloud.md)
-* [The \#osoc Emoji](tools/the-osoc-emoji.md)
+* [The #osoc Emoji](tools/the-osoc-emoji.md)
 * [Big Blue Button: Video Calls](tools/big-blue-button-video-calls.md)
 
 ## Tutorials
@@ -60,7 +61,7 @@
 * [Hosting](tutorials/hosting.md)
 * [Deliver Like a Pro](tutorials/how-to-deliver-like-a-pro/README.md)
   * [Publish a Github Page](tutorials/how-to-deliver-like-a-pro/publishing-a-github-page.md)
-* [Conduct \(Remote\) Tests and Interviews with Real People + Archetypes](tutorials/how-to-conduct-remote-tests-and-interviews-with-real-people.md)
+* [Conduct (Remote) Tests and Interviews with Real People + Archetypes](tutorials/how-to-conduct-remote-tests-and-interviews-with-real-people.md)
 
 ## Organisers
 
@@ -71,9 +72,9 @@
     * [Setting Up a Remote Edition](organisers/how-to-set-up-osoc-for-your-country/practical/setting-up-a-remote-edition.md)
   * [Informing people](organisers/how-to-set-up-osoc-for-your-country/informing-people.md)
 * [On-site editions: 4 weeks of well-organised serendipity](organisers/calendar/README.md)
-  * [Calendar Example Remote Edition \(BE\)](organisers/calendar/calendar-remote-edition/README.md)
+  * [Calendar Example Remote Edition (BE)](organisers/calendar/calendar-remote-edition/README.md)
     * [Week 1: Explore](organisers/calendar/calendar-remote-edition/week-1-explore/README.md)
-      * [Day 1: Welcome \(to the Madness 😏\)](organisers/calendar/calendar-remote-edition/week-1-explore/day-1-welcome-to-the-madness.md)
+      * [Day 1: Welcome (to the Madness 😏)](organisers/calendar/calendar-remote-edition/week-1-explore/day-1-welcome-to-the-madness.md)
       * [Day 2: Meet the Client + Prepare for Hackathon](organisers/calendar/calendar-remote-edition/week-1-explore/day-2-meet-the-client-+-prepare-for-hackathon.md)
       * [Day 3: Hackathon & Pitching](organisers/calendar/calendar-remote-edition/week-1-explore/day-3-hackathon-and-pitching.md)
       * [Day 4: Pitch & Battle Plan](organisers/calendar/calendar-remote-edition/week-1-explore/day-4-pitch-and-battle-plan.md)
@@ -92,7 +93,7 @@
       * [Day 2: Pitch pitch pitch](organisers/calendar/calendar-remote-edition/week-4-deliver/day-2.md)
       * [Day 3: Delivery Day](organisers/calendar/calendar-remote-edition/week-4-deliver/day-3.md)
       * [Day 4: Demo Day](organisers/calendar/calendar-remote-edition/week-4-deliver/day-4-demo-day.md)
-  * [Kick-off day 1 \(or chaos day\)](organisers/calendar/kick-off-day-1.md)
+  * [Kick-off day 1 (or chaos day)](organisers/calendar/kick-off-day-1.md)
   * [Hackathon day 2 — 4](organisers/calendar/hackathon-day-2-4.md)
   * [Build — week 2](organisers/calendar/build-week-2.md)
   * [Build — week 3](organisers/calendar/build-week-3.md)
@@ -103,4 +104,3 @@
 * [Managing teams](organisers/managing-teams.md)
 
 ## test
-

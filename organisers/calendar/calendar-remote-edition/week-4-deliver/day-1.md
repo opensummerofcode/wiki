@@ -10,15 +10,15 @@ This is an example of the remote edition fo 2020. Go to the website of your spec
 
 ![](../../../../.gitbook/assets/screenshot-2020-07-26-at-15.09.12.png)
 
-## 09:00 \[all teams\] Week overview
+## 09:00 \[all teams] Week overview
 
 Let's go over the week together
 
-## 09:30 \[team only\] Deployment day
+## 09:30 \[team only] Deployment day
 
 Make sure your project is stable and shipped!
 
-## 13:00 \[optional workshop\] Handover Dossier input: How to make your projects Live Long & Prosper 🖖
+## 13:00 \[optional workshop] Handover Dossier input: How to make your projects Live Long & Prosper 🖖
 
 It's DELIVERY week, and we all know that everything is...? ON FIRE 🔥!
 
@@ -28,25 +28,27 @@ This workshop will give you input for your [Handover Dossier](../../../../tutori
 
 ![](../../../../.gitbook/assets/screenshot-2020-07-26-at-14.58.17.png)
 
-## 13:00 \[team only\] Deployment day
+## 13:00 \[team only] Deployment day
 
 Make sure your project is stable and shipped!
 
-## 14:30 \[all teams\] SYSTEM STRESS TEST
+## 14:30 \[all teams] SYSTEM STRESS TEST
 
 We want to make sure Jitsi will hold up when we are doing the project breakout rooms, and your mics will hold up during the demo day
 
 ### 1. Jitsi stress test + chance to scream
 
 {% hint style="info" %}
-We all meet in 1 [jitsi room](https://meet.openknowledge.be/vent), with our **cams on** and... scream, sob, complain, laugh hysterically, swear, sing – for 1 minute ^^  
-  
+We all meet in 1 [jitsi room](https://meet.openknowledge.be/vent), with our **cams on** and... scream, sob, complain, laugh hysterically, swear, sing – for 1 minute ^^\
+\
 Don't have a mic or a cam? Come over anyways! Every extra test is a good one 👌
 {% endhint %}
 
 ![](../../../../.gitbook/assets/screenshot-2020-07-26-at-15.34.20.png)
 
-{% embed url="http://meet.openknowledge.be/vent" caption="This is the meeting room where we\'ll vent" %}
+{% embed url="http://meet.openknowledge.be/vent" %}
+This is the meeting room where we'll vent
+{% endembed %}
 
 ### 2. Mic test
 
@@ -60,4 +62,3 @@ Check if your interviewees and hosts will make a good appearance on the demo day
 And update the project description sheet with hosts and interviewees for the Demo Day.
 
 ## 17:00 have a nice day 🥳
-
