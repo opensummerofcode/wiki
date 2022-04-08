@@ -7,7 +7,8 @@
 
 ## Students
 
-* [Applying as a student at osoc](students/apply.md)
+* [Applying as a student at osoc](students/apply/README.md)
+  * [Privacy Policy for Open Knowledge Belgium](students/apply/privacy-policy-for-open-knowledge-belgium.md)
 * [Being a student at osoc](students/being-a-student-at-osoc/README.md)
   * [Practical: When, where, how long, food, sick days, ...](students/being-a-student-at-osoc/attend.md)
   * [Study material](students/being-a-student-at-osoc/study-material.md)
