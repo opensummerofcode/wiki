@@ -20,7 +20,7 @@ We can't see or hear each other all the time (which is the case in a live settin
 
 Keep your teammates up-to-date on what you're doing. Update your tasks in your project management tool (trello, kanban, github, ...), hang out in the voice chats, perform daily standups, ... Whatever works for the team, just make sure you know what your teammates are doing and how they are doing!
 
-![A nice habit that started organically in the #urban-brussels team.](../.gitbook/assets/screenshot-2020-07-10-at-12.07.35.png)
+![A nice habit that started organically in the #urban-brussels team.](<../.gitbook/assets/Screenshot 2020-07-10 at 12.07.35.png>)
 
 {% hint style="info" %}
 Find a way to stay in touch and on top of work with your team. Some teams like to hang out in voice channels and play a tune, some teams like to greet each other every day and check in now and then. Find what feels good!
@@ -28,11 +28,13 @@ Find a way to stay in touch and on top of work with your team. Some teams like t
 
 ![](../.gitbook/assets/doing.gif)
 
-This also applies when in meetings; use your lovely osoc cards to react on video (if sound is not suitable) or use chat to confirm; there's nothing worse than talking into the void 🕳😅
+This also applies when in meetings; use your body language to react on video (if sound is not suitable) or use chat to confirm; there's nothing worse than talking into the void 🕳😅
 
 In real life we nod or make listening sounds in conversations. Remote needs different ways of interacting!
 
-![How do you use these cars with your team?](../.gitbook/assets/photo\_2020-07-13-15.49.55.jpeg)
+![Nodding is nodding](https://media.giphy.com/media/Uq3pVY2dFyyJMy9ogc/giphy.gif)
+
+![How do you use these cards with your team?](../.gitbook/assets/photo\_2020-07-13-15.49.55.jpeg)
 
 ### Ask for Help
 

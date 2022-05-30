@@ -113,7 +113,7 @@ Create some room for each other to talk about what's good and what could go bett
 Pick a retrospective:
 
 * [http://www.frederikvincx.com/8-sticky-note-walls-keep-team-track/](http://www.frederikvincx.com/8-sticky-note-walls-keep-team-track/) See "retrospective"
-* [http://www.funretrospectives.com/](http://www.funretrospectives.com)
+* [http://www.funretrospectives.com/](http://www.funretrospectives.com/)
 
 ## 17:00 have a nice day 🥳
 

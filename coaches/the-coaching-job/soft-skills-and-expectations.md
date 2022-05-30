@@ -6,7 +6,7 @@ Have their back. Guide your team to do the best they can. Support them and remov
 
 ![Picture of you looking at your team from the distance](../../.gitbook/assets/tom-skarbek-wazynski-226342-unsplash.jpg)
 
-_Photo by_ [_Tom Skarbek-Wazynski_](https://unsplash.com/@wazynski) _on_ [_Unsplash_](https://unsplash.com)__
+_Photo by_ [_Tom Skarbek-Wazynski_](https://unsplash.com/@wazynski?utm\_source=unsplash\&utm\_medium=referral\&utm\_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/?utm\_source=unsplash\&utm\_medium=referral\&utm\_content=creditCopyText)__
 
 {% hint style="info" %}
 **Example**: Channel the feedback of the partner_s._ If for instance, information gets scattered during a meeting, try solidifying it and make it clear. This will make the students more confident in what they are building!
@@ -20,7 +20,7 @@ Make sure the _client_ knows what to expect, and _students_ get a grasp of what 
 
 ![You rooting for your team](../../.gitbook/assets/samuel-scrimshaw-168189-unsplash.jpg)
 
-_Photo by_ [_Samuel Scrimshaw_](https://unsplash.com/@samscrim) _on_ [_Unsplash_](https://unsplash.com/search/photos/lion-roar)__
+_Photo by_ [_Samuel Scrimshaw_](https://unsplash.com/@samscrim?utm\_source=unsplash\&utm\_medium=referral\&utm\_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/search/photos/lion-roar?utm\_source=unsplash\&utm\_medium=referral\&utm\_content=creditCopyText)__
 
 #### Curb their enthusiasm (a little)
 
@@ -49,7 +49,7 @@ Your students are here to learn. Let them fail and get better at it. See previou
 
 ![Photo of a student looking at you because they don't know what to do](../../.gitbook/assets/ihtesham-ismail-53338-unsplash.jpg)
 
-_Photo by_ [_Ihtesham Ismail_](https://unsplash.com/@ihtesham94) _on_ [_Unsplash_](https://unsplash.com/search/photos/lion-cub)__
+_Photo by_ [_Ihtesham Ismail_](https://unsplash.com/@ihtesham94?utm\_source=unsplash\&utm\_medium=referral\&utm\_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/search/photos/lion-cub?utm\_source=unsplash\&utm\_medium=referral\&utm\_content=creditCopyText)__
 
 ## Take care of your significant other(s)
 
@@ -61,7 +61,7 @@ There are other coaches around when you need help. You're not alone, and make su
 
 ![You and your buddy coach discussing coaching tactics](../../.gitbook/assets/gwen-weustink-95871-unsplash.jpg)
 
-_Photo by_ [_Gwen Weustink_](https://unsplash.com/@aboeka) _on_ [_Unsplash_](https://unsplash.com)__
+_Photo by_ [_Gwen Weustink_](https://unsplash.com/@aboeka?utm\_source=unsplash\&utm\_medium=referral\&utm\_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/?utm\_source=unsplash\&utm\_medium=referral\&utm\_content=creditCopyText)__
 
 ## Sharing is caring
 
@@ -69,13 +69,13 @@ Learnt something new? Got an interesting technique? Or do you need help? Reach o
 
 ![You and the other lions sharing their experiences](../../.gitbook/assets/joss-woodhead-643761-unsplash.jpg)
 
-_Photo by_ [_Joss Woodhead_](https://unsplash.com/@josswoodhead) _on_ [_Unsplash_](https://unsplash.com)__
+_Photo by_ [_Joss Woodhead_](https://unsplash.com/@josswoodhead?utm\_source=unsplash\&utm\_medium=referral\&utm\_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/?utm\_source=unsplash\&utm\_medium=referral\&utm\_content=creditCopyText)__
 
 ## I have no idea what I'm doing
 
 ![Picture of you roaring into the void](../../.gitbook/assets/kurt-cotoaga-1132996-unsplash.jpg)
 
-_Photo by_ [_Kurt Cotoaga_](https://unsplash.com/photos/huXZH43-qiw) _on_ [_Unsplash_](https://unsplash.com/search/photos/lion-cub)__
+_Photo by_ [_Kurt Cotoaga_](https://unsplash.com/photos/huXZH43-qiw?utm\_source=unsplash\&utm\_medium=referral\&utm\_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/search/photos/lion-cub?utm\_source=unsplash\&utm\_medium=referral\&utm\_content=creditCopyText)__
 
 It happens to all of us. Sometimes, we have no idea what we're doing, and just roaring into the void. It's okay. We have your back — the organisation and the other coaches are there to help. Just reach out!
 
@@ -87,4 +87,4 @@ If it starts smoking, speak up and [we'll take care of you](soft-skills-and-expe
 
 ![Image of you sleeping](../../.gitbook/assets/sander-wehkamp-718377-unsplash.jpg)
 
-_Photo by_ [_Sander Wehkamp_](https://unsplash.com/@sanderwehkamp) _on_ [_Unsplash_](https://unsplash.com/search/photos/lion-sleep)__
+_Photo by_ [_Sander Wehkamp_](https://unsplash.com/@sanderwehkamp?utm\_source=unsplash\&utm\_medium=referral\&utm\_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/search/photos/lion-sleep?utm\_source=unsplash\&utm\_medium=referral\&utm\_content=creditCopyText)__

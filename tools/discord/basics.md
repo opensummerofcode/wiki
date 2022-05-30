@@ -22,7 +22,7 @@ _Example of your home, where you can find all of your direct messages and friend
 
 To start a private conversation, you can click on a profile on any [server](basics.md#servers) and send them a message.
 
-![](<../../.gitbook/assets/Schermafbeelding 2022-03-08 om 17.32.34.png>)
+<img src="../../.gitbook/assets/Schermafbeelding 2022-03-08 om 17.32.34.png" alt="" data-size="original">
 
 You can add people as a friend, by clicking their profile and hitting the "Send Friend Request" button.
 

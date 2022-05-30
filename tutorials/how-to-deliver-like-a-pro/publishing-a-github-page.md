@@ -32,6 +32,6 @@ If you don’t have settings! Find your coach or the person that has admin right
 
 You can choose to create your own template, select a template of your choosing or reuse the Osoc template.
 
-* Tips and tricks for gh pages: [https://pages.github.com/](https://pages.github.com)
+* Tips and tricks for gh pages: [https://pages.github.com/](https://pages.github.com/)
 * Osoc template: [https://github.com/oSoc19/website/tree/gh-pages](https://github.com/oSoc19/website/tree/gh-pages)
 * Example GitHub page of Osoc: [https://osoc18.github.io/website/](https://osoc18.github.io/website/)
