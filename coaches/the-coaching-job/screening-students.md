@@ -56,13 +56,13 @@ Can't find enough proof, but you see potential? Contact them and give them a cal
 
 We need to be able to understand each other and work together.
 
-#### Location
+#### Location: for remote, live and blended editions
 
-This means we unfortunately can't work together with people that live in other time zones for the remote edition, or with people that live too far away when it's an on-location edition. We expect students to be available to their clients, to be there when their teammates are and to be there when important announcements are made during live sessions.
+We unfortunately can't work together with people that live in other time zones for the remote edition, or with people that live too far away when it's an on-location edition. We expect students to be available to their clients, to be there when their teammates are and to be there when important announcements are made during live sessions.
 
 We accept students for the remote edition from timezones that are a maximum of 2 hours apart, and if they can commit to being there when needed.
 
-For editions that are on-location, we expect people from Belgium to participate, from the Netherlands or to find accommodation.
+For editions that are on-location, we expect people from Belgium to participate, from the Netherlands or to find accommodation themselves.
 
 We also need to make sure we can actually pay students – this depends from country to country and needs to be reviewed case-by-case.
 
@@ -78,7 +78,7 @@ This is a tricky one; but we look for students to fit the projects that we will 
 
 * we need developers
 * we need web- and application designers
-* we need a communication team
+* we need a communication team with photography skills
 * _sometimes_ we need marketing / business managers / pure graphic designers / ...
 * a photographer/someone that can create videos during on-location editions
 * a motion designer/someone that can create videos during remote editions
