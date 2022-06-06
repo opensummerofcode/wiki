@@ -38,7 +38,7 @@ Get that rhythm going;
   * Make sure your team knows when they are expected to show up, and what they are supposed to do. Get some examples of how to do those stand-ups at [How to project manage](how-to-manage-a-team.md#how-to-project-manage).
   * You can do multiple stand-ups, even at noon; depending on what your teams need. Some teams also like doing stand-downs – this creates the opportunity to&#x20;
   * You can also do _stand-downs_ at the end of the day, to make sure you know everyone leaves the chat with confidence and won't mull about everything at night; so they can start the day fresh.
-* **If there's a part-time coach** helping you out, have students help you with writing a **summary** at the end of the day of what (didn't) happen – so that the people that weren't there are up-to-speed immediately.
+* **If there's a other coaches** helping you out, have students help you with writing a **summary** at the end of the day of what (didn't) happen – so that the people that weren't there are up-to-speed immediately.
 * **Test what's made**. Not just in code. Every week.\
   We need real people to use what's been created and we want it to be [valuable to them](../../tutorials/how-to-conduct-remote-tests-and-interviews-with-real-people.md).
 * **Pitch what's made**. Every Thursday, you'll get the opportunity [to pitch](../../tutorials/pitching/)!

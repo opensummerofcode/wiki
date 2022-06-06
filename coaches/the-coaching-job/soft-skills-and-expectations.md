@@ -56,8 +56,8 @@ _Photo by_ [_Ihtesham Ismail_](https://unsplash.com/@ihtesham94?utm\_source=unsp
 There are other coaches around when you need help. You're not alone, and make sure the other coaches don't feel alone either.
 
 * Help other coaches out
-* If you're a half-time coach, make sure you check in with your other half or student coach(es).
-  * Keep them up-to-date, and make sure there's a hand-over when the other coach is not available
+* If you're a half-time coach, make sure you check in with your other coaches and student coaches.
+  * Keep them up-to-date, and make sure there's a hand-over when someone is not available.
 
 ![You and your buddy coach discussing coaching tactics](../../.gitbook/assets/gwen-weustink-95871-unsplash.jpg)
 

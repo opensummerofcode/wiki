@@ -159,7 +159,7 @@ You cannot add a student to two teams. Resolve the issue with your fellow coach,
   * Skills; which project needs this person most?
 * Alumni students are usually stronger students, that need an extra force of power to help out. Give teams the benefit of the alumni if the team has one or more of these needs:
   * (1) teams with a half-time coach, with no student-coach;
-  * (2) big teams without a student-coach;
+  * (2) teams without a student-coach;
   * (3) teams that need an expert on a topic they can provide (if the coach cannot help here);
   * (4) if the student has a history with the project, and can help out.
 

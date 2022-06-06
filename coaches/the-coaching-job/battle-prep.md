@@ -11,7 +11,7 @@ description: >-
 Here's a non-exhaustive list of things you can do to prepare for battle. If you need any guidance, explanation or tips, contact the organisation!
 {% endhint %}
 
-Not sure what to do as a coach, and with half-time or student coaches? Read all about [tasks](tasks.md) and [Soft Skills & Expectations](soft-skills-and-expectations.md) first.
+Not sure what to do as a coach, and with expert coaches or student coaches? Read all about [tasks](tasks.md) and [Soft Skills & Expectations](soft-skills-and-expectations.md) first.
 
 ## Coaching teams together
 
@@ -22,28 +22,26 @@ Not sure what to do as a coach, and with half-time or student coaches? Read all 
 _When you're a coach, you'll be the lead of one (or more) project(s)._
 
 {% hint style="info" %}
-The lead coach makes sure the teams knows what to do, and **creates the outline for the team** (what does project management look like, what tools do we use to do project management, when do we do stand-ups, ...). See [Decide on project management and structure](battle-prep.md#decide-on-project-management-and-structure) for more information.
+The project coach makes sure the teams knows what to do, and **creates the outline for the team** (what does project management look like, what tools do we use to do project management, when do we do stand-ups, ...). See [Decide on project management and structure](battle-prep.md#decide-on-project-management-and-structure) for more information.
 
-The lead makes sure that **when they're not there, the team also knows what to do** (e.g. doing stand-ups by themselves, perhaps write down a summary in Discord, assign a student that takes the lead, ...).
+The project makes sure that **when they're not there, the team also knows what to do** (e.g. doing stand-ups by themselves, perhaps write down a summary in Discord, assign a student that takes the lead, ...).
 
-Leads do a scoping session, with our without their support coaches, together with the client before osoc starts.
+Project coaches do a scoping session, with our without their expert coaches, together with the partner before osoc starts.
 {% endhint %}
 
-We make sure every coach has back-up, in the form of support coaches and/or councillors. We try to pair coaches so they can fill each other's gaps, and they can learn from each other (especially for first-time coaches).
+We make sure every coach has back-up, in the form of expert coaches and/or councillors. We try to pair coaches so they can fill each other's gaps, and they can learn from each other (especially for first-time coaches).
 
-🎩_Coordinate and consult with your support coaches and councillors up front what the coaching strategy is. See "_[_Decisions to make up front_](battle-prep.md#decisions-to-make-up-front)_" to get an idea of what to figure out together before it starts._
+🎩_Coordinate and consult with your expert coaches and councillors up front what the coaching strategy is. See "_[_Decisions to make up front_](battle-prep.md#decisions-to-make-up-front)_" to get an idea of what to figure out together before it starts._
 
-#### Support coaches
+#### Expert coaches
 
-_Every coach also has an other coaches' back on one or more projects; to make sure that everyone has a buddy to ping-pong with – to have a tight support system._
+_Every project also has topic expert coaches (butterfly coaches) that have knowledge about specific topics. As a project coach this is someone you can ping-pong with about the technical implications of a project as well._
 
 {% hint style="info" %}
-Support coaches give support to the lead coaches in the form of consult and helping out when 💩hits the fan.
-
-When the lead coach is not available, you check in with the team how they are doing. Depending on how you decided on project management, you'll be there when they do stand-ups, or read about it – and make sure they get unblocked when needed.
+Expert coaches give support to the students and project coaches in the form of consult and helping out when 💩hits the fan.
 {% endhint %}
 
-🎩_Check in with your lead coach if they need any help on making project management decisions, exchange ideas and techniques, and see if they have a system in place when they are not there – so you know what to do when that 💩hits that fan.See "_[_Decisions to make up front_](battle-prep.md#decisions-to-make-up-front)_" to get an idea of what to figure out together before it starts._
+🎩_Check in with your project coach if they need any help on making project management decisions, exchange ideas and techniques, and see if they have a system in place when they are not there – so you know what to do when that 💩hits that fan. See "_[_Decisions to make up front_](battle-prep.md#decisions-to-make-up-front)_" to get an idea of what to figure out together before it starts._
 
 #### Councillors
 
@@ -108,12 +106,12 @@ If you need any techniques, please contact the organisation, they are working on
 
 #### Decide on hand-over when you're not there
 
-When you're not present, the other coach or your student coaches need to know what to do. Decide on how you're going to do that. Some possibilities:
+When you're not present, your students and student coaches need to know what to do. Decide on how you're going to do that. Some possibilities:
 
 * Assign a student to talk / type about what has been done in a structured way, for instance by using "kanban"
-* Type it yourself, so the other coach can read it and have it close-by whenever they need it.
-* Perhaps also prepare some key elements your half-time or student coach needs to pay attention to when you're not here. For instance "Student A had trouble with this. Can you make sure to follow up on it?"
-* Create a shared calendar or excel sheet that outlines who to reach when, and who to ask for which kind of help (councillors as well).
+* Type it yourself, so the students and other coaches can read it and have it close-by whenever they need it.
+* Perhaps also prepare some key elements your student coach needs to pay attention to when you're not here. For instance "Student A had trouble with this. Can you make sure to follow up on it?"
+* Create a shared calendar or excel sheet that outlines who to reach when, and who to ask for which kind of help (butterfly coaches and councillors as well).
 
 Need ideas? Drop a line in the discord coaches channel!
 
@@ -127,7 +125,7 @@ Go to July 2021 😌
 
 ### Go through the deliverables document
 
-At the end of osoc, we make sure the client and the open source community knows what this project was about, how to contribute and how to make it better. We made an exhaustive deliverable checklist to make sure this can happen!
+At the end of osoc, we make sure the partners and the open source community knows what this project was about, how to contribute and how to make it better. We made an exhaustive deliverable checklist to make sure this can happen!
 
 {% content-ref url="../../tutorials/how-to-deliver-like-a-pro/" %}
 [how-to-deliver-like-a-pro](../../tutorials/how-to-deliver-like-a-pro/)
