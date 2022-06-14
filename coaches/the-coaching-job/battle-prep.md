@@ -33,9 +33,9 @@ We make sure every coach has back-up, in the form of expert coaches and/or counc
 
 🎩_Coordinate and consult with your expert coaches and councillors up front what the coaching strategy is. See "_[_Decisions to make up front_](battle-prep.md#decisions-to-make-up-front)_" to get an idea of what to figure out together before it starts._
 
-#### Expert coaches
+#### Expert coaches (butterfly coaches)
 
-_Every project also has topic expert coaches (butterfly coaches) that have knowledge about specific topics. As a project coach this is someone you can ping-pong with about for example the technical implications of a project as well._
+_Every project also has topic expert coaches that have knowledge about specific topics. As a project coach this is someone you can ping-pong with about for example the technical implications of a project as well._
 
 {% hint style="info" %}
 Expert coaches give support to the students and project coaches in the form of consult and helping out when 💩hits the fan.
