@@ -17,9 +17,9 @@ Not sure what to do as a coach, and with expert coaches or student coaches? Read
 
 ### Different roles
 
-#### Lead coaches
+#### Project coaches
 
-_When you're a coach, you'll be the lead of one (or more) project(s)._
+_Half-time coaches will coach 1 team, full-time coaches will coach 2 teams._
 
 {% hint style="info" %}
 The project coach makes sure the teams knows what to do, and **creates the outline for the team** (what does project management look like, what tools do we use to do project management, when do we do stand-ups, ...). See [Decide on project management and structure](battle-prep.md#decide-on-project-management-and-structure) for more information.
@@ -35,7 +35,7 @@ We make sure every coach has back-up, in the form of expert coaches and/or counc
 
 #### Expert coaches
 
-_Every project also has topic expert coaches (butterfly coaches) that have knowledge about specific topics. As a project coach this is someone you can ping-pong with about the technical implications of a project as well._
+_Every project also has topic expert coaches (butterfly coaches) that have knowledge about specific topics. As a project coach this is someone you can ping-pong with about for example the technical implications of a project as well._
 
 {% hint style="info" %}
 Expert coaches give support to the students and project coaches in the form of consult and helping out when 💩hits the fan.
