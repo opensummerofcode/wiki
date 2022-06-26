@@ -11,7 +11,7 @@
   * [Privacy Policy for Open Knowledge Belgium](students/apply/privacy-policy-for-open-knowledge-belgium.md)
 * [Being a student at osoc](students/being-a-student-at-osoc/README.md)
   * [Practical: When, where, how long, food](students/being-a-student-at-osoc/attend.md)
-  * [Health, COVID, Insurance, Sick Days](students/being-a-student-at-osoc/sick-days.md)
+  * [Health, COVID, Insurance, Sick Days](students/being-a-student-at-osoc/health.md)
   * [Study material](students/being-a-student-at-osoc/study-material.md)
 * [The Student Job](students/the-student-job.md)
 * [Salary & Reimbursements](students/reimbursements.md)
