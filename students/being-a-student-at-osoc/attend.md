@@ -12,6 +12,10 @@ You can find the location and calendar on the website for your country's edition
 
 We hire students that are eligible to work under a student contract for 15 full days (128 hours).
 
+## Travel
+
+We give everyone a voucher you can spend on travelling by train. Students under 26 can use this voucher for a MoBIB pass. Students above 26 can use a 35 euro voucher to spend on their train.
+
 ## Food
 
 Remote: We encourage you to take breaks and eat healthy (when you can)!

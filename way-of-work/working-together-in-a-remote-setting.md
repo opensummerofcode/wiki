@@ -34,8 +34,6 @@ In real life we nod or make listening sounds in conversations. Remote needs diff
 
 ![Nodding is nodding](https://media.giphy.com/media/Uq3pVY2dFyyJMy9ogc/giphy.gif)
 
-![How do you use these cards with your team?](../.gitbook/assets/photo\_2020-07-13-15.49.55.jpeg)
-
 ### Ask for Help
 
 Don't stay stuck in a loop for longer than 20 minutes. [There's plenty of ways to ask for help](../tools/discord/remote-helping.md), don't be afraid to ask for it! #osoc was built on helping each other out, so we encourage you to ask and give help.
@@ -94,40 +92,13 @@ The upside of having a remote edition is that we can give international students
 
 ![Blackpink is also an international girl band, which is one of the driving powers of their success.](https://img.wattpad.com/1240d02e2572498de371edd921ef94ce015ad552/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f326e4b4767575a637479727352513d3d2d3732333130383736302e313539376535313033303362396239633633393931323032323537322e676966)
 
-## Exceptions to Remote Work
+## When working from home is not an option
 
-For the #osoc20 and #osoc21 edition, we think remote first.
+### Individuals
 
-### COVID-19 regulations
+If you do not have stable internet at home, you can always use the office. During remote editions, we'll find a place for you in Brussels, during blended editions you can use the location that we are at that week. Please let your coach and coordinator know.
 
-We follow Belgian regulations for the Belgian edition. At time of writing, they encourage working from home; which is why we made sure we have a remote edition.
-
-Not everyone has been vaccinated yet. We don't want to put anyone at risk (or put their family / house mates at risk) – or make people feel left out (similar to international students).
-
-{% embed url="https://www.info-coronavirus.be/en/faq/" %}
-
-### Exceptions
-
-#### Teams
-
-We can only allow an exception for teams if we keep the following factors in mind:
-
-1. **The project requires on-site investigation to understand or build the project.**\
-   ****If you need help to jump the hurdle of digital teambuilding, please reach out – we unfortunately cannot allow an exception for teambuilding.
-2. **The students in that specific project team agree.**\
-   We communicated this as a remote edition, so students expect this edition to be remote. Nobody should feel pressured, and everyone should feel safe to say no. If some people are left out in your team, consider how this will impact the team and their motivation – this also applies to teams with international students.
-3. **Corona measures are followed**\
-   [https://www.info-coronavirus.be/en/faq/](https://www.info-coronavirus.be/en/faq/)
-
-#### Individuals
-
-If you do not have stable internet at home, we can offer you a seat at Be-Central in Brussels. Please get in touch beforehand, so we can coordinate and make sure it is safe for everyone.
-
-We unfortunately cannot reimburse you for your travel expenses.
-
-#### Travel reimbursements
-
-In remote editions we do not reimburse travel costs.
+We unfortunately cannot reimburse you for your travel expenses on those days.
 
 #### Insurance
 
