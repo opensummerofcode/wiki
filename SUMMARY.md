@@ -44,7 +44,7 @@
 * [Discord](tools/discord/README.md)
   * [Basics](tools/discord/basics.md)
   * [Discord etiquette](tools/discord/discord-etiquette.md)
-  * [Setting your nickname](tools/discord/setting-your-nickname.md)
+  * [Setting your nickname & description](tools/discord/setting-your-nickname.md)
   * [Managing notifications](tools/discord/managing-notifications.md)
   * [Offering and Receiving Help](tools/discord/remote-helping.md)
   * [Find Your Discord Username](tools/discord/find-your-discord-username.md)
