@@ -4,18 +4,18 @@ description: Week 3
 
 # Build — week 3
 
-![Example of week 3: build harder](../../.gitbook/assets/screenshot-2019-06-17-at-22.11.11.png)
+![Example of week 3: build harder](<../../.gitbook/assets/Screenshot 2019-06-17 at 22.11.11.png>)
 
 ## Who does what
 
 ### Organisational
 
-* Organise workshop\(s\) and/or talks
+* Organise workshop(s) and/or talks
 * Organise afterwork activities
 
 ### Partners
 
-* Check progress \(and give feedback\)
+* Check progress (and give feedback)
 
 ### Coaches
 
@@ -29,6 +29,4 @@ description: Week 3
 * Prepare and execute user-test day
 * Present WIP to partners and gather feedback
 * Prepare booth
-
-
 

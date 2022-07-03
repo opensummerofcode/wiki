@@ -8,11 +8,11 @@ description: See all pitches, zoom out and prepare for next week 🔥
 This is an example of the remote edition fo 2020. Go to the website of your specific edition if you want to figure out what's happening now!
 {% endhint %}
 
-![](../../../../.gitbook/assets/screenshot-2020-07-19-at-19.07.34.png)
+![](<../../../../.gitbook/assets/Screenshot 2020-07-19 at 19.07.34.png>)
 
 ## Prepare for the Pitching Rehearsal: Instructions
 
-![](../../../../.gitbook/assets/screenshot-2020-07-22-at-22.11.22.png)
+![](<../../../../.gitbook/assets/Screenshot 2020-07-22 at 22.11.22.png>)
 
 ### During the pitches, when your team _is not_ up
 

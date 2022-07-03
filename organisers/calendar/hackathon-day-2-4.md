@@ -30,15 +30,15 @@ Spain: [https://2019.summerofcode.es/whoweare.html](https://2019.summerofcode.es
 
 ### Day 2
 
-![Example of day 2](../../.gitbook/assets/screenshot-2019-06-17-at-22.02.39.png)
+![Example of day 2](<../../.gitbook/assets/Screenshot 2019-06-17 at 22.02.39.png>)
 
 ### Day 3
 
-![Example of day 3](../../.gitbook/assets/screenshot-2019-06-17-at-22.02.19.png)
+![Example of day 3](<../../.gitbook/assets/Screenshot 2019-06-17 at 22.02.19.png>)
 
 ### Day 4
 
-![Example of day 4](../../.gitbook/assets/screenshot-2019-06-17-at-22.02.26.png)
+![Example of day 4](<../../.gitbook/assets/Screenshot 2019-06-17 at 22.02.26.png>)
 
 
 

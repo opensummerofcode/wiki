@@ -17,11 +17,11 @@ Choosing a coaching style is balancing between **thinking and doing.**\
 \
 The answer to "**What is possible?**" lies in between the answers to those questions – and opens a ✨land of opportunity ✨.
 
-![](../../.gitbook/assets/land-of-opportunity.png)
+![](<../../.gitbook/assets/land of opportunity.png>)
 
 ## Get To Know Your Team
 
-![Skills & Team](../../.gitbook/assets/land-of-opportunity-skills-team.png)
+![Skills & Team](<../../.gitbook/assets/land of opportunity - skills team.png>)
 
 Use the first days of osoc to do this. Everything depends on the people you have in your team. Their skills will decide where you can meet the partner's needs. Find techniques on [breaking the ice here](how-to-manage-a-team.md#ice-breakers), and move forward with finding out about the next topics:
 
@@ -87,7 +87,7 @@ All teams will needs help with project management (see "[Set up a good routine](
 
 ## Get to Know Your Partner & Project
 
-![Goals & Value](../../.gitbook/assets/land-of-opportunity-goals-value.png)
+![Goals & Value](<../../.gitbook/assets/land of opportunity - goals value.png>)
 
 Different projects require different approaches. In any case, we want students to thoroughly think about the project and the approach. We don't want any student to just execute what is thrown at them, we want them to use their brains to study the subject and ask critical questions.
 
@@ -162,7 +162,7 @@ If you decide to split up your teams, set up a plan of how you're going to get _
 
 ## What & How
 
-![What & How](../../.gitbook/assets/land-of-opportunity-what-how.png)
+![What & How](<../../.gitbook/assets/land of opportunity - what how.png>)
 
 You now know how to approach your team; and how to adapt along the way if things turn out to be a bit different.
 

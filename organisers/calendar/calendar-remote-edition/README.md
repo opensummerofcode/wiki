@@ -5,7 +5,7 @@ description: >-
   we'll learn!
 ---
 
-# Calendar Example Remote Edition \(BE\)
+# Calendar Example Remote Edition (BE)
 
 {% hint style="danger" %}
 This is an example of the remote edition fo 2020. Go to the website of your specific edition if you want to figure out what's happening now!
@@ -13,7 +13,7 @@ This is an example of the remote edition fo 2020. Go to the website of your spec
 
 We are ambitious, but we have systems and a solid structure in place to make sure we reach our goals. The main principle is we **explore for one week, build and test for two weeks** and **prepare for the delivery in the last week**.
 
-![](../../../.gitbook/assets/screenshot-2019-06-17-at-21.47.54.png)
+![](<../../../.gitbook/assets/Screenshot 2019-06-17 at 21.47.54.png>)
 
 ## Belgium edition
 
@@ -35,8 +35,6 @@ Find the calendar for our latest edition here:  [https://osoc.be/practical](http
 ## Spain edition
 
 Visit [summerofcode.es](https://summerofcode.es) and find out more!
-
-
 
 
 

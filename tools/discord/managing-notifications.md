@@ -8,7 +8,7 @@ On Discord, you have fine-grained control over which notifications you receive a
 
 ## **Only receive notifications when you're mentioned**
 
-![](../../.gitbook/assets/notifications-all.gif)
+![](../../.gitbook/assets/Notifications-all.gif)
 
 ## **Channel-Specific Notifications**
 
@@ -24,13 +24,12 @@ For channels you are not interested in, and to de-clutter your side panel.
 
 ### Step 1: mute the channel
 
-![](../../.gitbook/assets/screenshot-2020-07-11-at-10.27.07.png)
+![](<../../.gitbook/assets/Screenshot 2020-07-11 at 10.27.07.png>)
 
-### **Step 2: Right-click on "open summer of code" \(Channel name\) & click "Hide Muted Channels"**
+### **Step 2: Right-click on "open summer of code" (Channel name) & click "Hide Muted Channels"**
 
-![](../../.gitbook/assets/screenshot-2020-07-09-at-17.26.17.png)
+![](<../../.gitbook/assets/Screenshot 2020-07-09 at 17.26.17.png>)
 
 You will now only receive a notification whenever people mention you.
 
-![](../../.gitbook/assets/screenshot-2020-07-09-at-17.25.55.png)
-
+![](<../../.gitbook/assets/Screenshot 2020-07-09 at 17.25.55.png>)

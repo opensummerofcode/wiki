@@ -57,7 +57,7 @@ If you figured out what to do better in the future, write it down in the deliver
 
 ### Ice Breakers
 
-![Our coach Jonathan guiding a student arriving on Discord for the first time](../../.gitbook/assets/screenshot-2020-07-01-at-14.46.23.png)
+![Our coach Jonathan guiding a student arriving on Discord for the first time](<../../.gitbook/assets/Screenshot 2020-07-01 at 14.46.23.png>)
 
 The first day is awkward. One of the goals of the first day is to get to know your team members. Discover why in [Get to Know Your Team](coaching-cases.md#get-to-know-your-team); find the techniques here.
 
@@ -71,9 +71,9 @@ Gather the team(s) you're leading. Play a game or have a list of questions avail
   * What is your favourite food?
   * What is _the one thing_ we should know about you?
 
-![A great example by our coach Leenke De Donder](../../.gitbook/assets/screenshot-2020-07-05-at-11.09.31.png)
+![A great example by our coach Leenke De Donder](<../../.gitbook/assets/Screenshot 2020-07-05 at 11.09.31.png>)
 
-![Another wonderful example by our coach Niels](../../.gitbook/assets/screenshot-2020-07-05-at-10.00.23.png)
+![Another wonderful example by our coach Niels](<../../.gitbook/assets/Screenshot 2020-07-05 at 10.00.23.png>)
 
 #### 36 Questions
 
@@ -145,7 +145,7 @@ For every task you have set out the team to do, they can select one card to expr
 
 Michiel invented this project management gem.
 
-![Yes.](../../.gitbook/assets/photo\_2020-07-13-15.49.55.jpeg)
+![Yes.](<../../.gitbook/assets/photo\_2020-07-13 15.49.55.jpeg>)
 
 ### Retrospective: How To Vent, Improve and Replenish the Team
 

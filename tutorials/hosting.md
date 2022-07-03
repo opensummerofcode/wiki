@@ -42,7 +42,7 @@ During the first breakout room test it was clear this job can get quite heavy; s
 
 Make sure one person in your team is in the breakout room _first_ to become the moderator. This will give you the opportunity to turn off people's mics, hide them or kick them.
 
-![You'll see this message appear. ](../.gitbook/assets/screenshot-2020-07-26-at-20.55.15.png)
+![You'll see this message appear. ](<../.gitbook/assets/Screenshot 2020-07-26 at 20.55.15.png>)
 
 _Tip: You can already go there when the streaming event starts, so you have the chance to chase out the trolls._
 
@@ -54,7 +54,7 @@ If everybody starts talking at the same time, _you're gonna have a bad time_. On
 
 You can make sure everyone starts out muted in the settings menu option to prevent starting off noisy.
 
-![](../.gitbook/assets/screenshot-2020-07-26-at-20.57.35.png)
+![](<../.gitbook/assets/Screenshot 2020-07-26 at 20.57.35.png>)
 
 #### Manage people's noise
 
@@ -62,11 +62,11 @@ If someone forgets to mute themselves after they've just spoken, you can mute th
 \
 However, if one person is speaking, and several other people are noisy, you can mute everyone else but this person.
 
-![](../.gitbook/assets/screenshot-2020-07-26-at-21.02.10.png)
+![](<../.gitbook/assets/Screenshot 2020-07-26 at 21.02.10.png>)
 
 If you're speaking and people are noisy, you can mute everyone 😇
 
-![Use it wisely 😏](../.gitbook/assets/screenshot-2020-07-26-at-20.58.13.png)
+![Use it wisely 😏](<../.gitbook/assets/Screenshot 2020-07-26 at 20.58.13.png>)
 
 ### Don't Feed the Trolls. Kick them.
 
@@ -82,7 +82,7 @@ But make sure you're not a troll yourself by using this power foolishly!
 
 Our wonderful Aïsha prepared a template for you:
 
-{% file src="../.gitbook/assets/hi_welcome (2).pptx" %}
+{% file src="../.gitbook/assets/Hi_welcome (2).pptx" %}
 Breakout room Welcome + Goodbye Template
 {% endfile %}
 
@@ -102,11 +102,11 @@ Urge people to enter a name, so we know who to address. This makes it easier to 
 
 ### How to adapt your name
 
-![Click the three vertical dots, bottom-right, to get the menu.](../.gitbook/assets/screenshot-2020-07-26-at-20.56.47.png)
+![Click the three vertical dots, bottom-right, to get the menu.](<../.gitbook/assets/Screenshot 2020-07-26 at 20.56.47 (2).png>)
 
-![Click on the first menu item to adapt your name.](../.gitbook/assets/screenshot-2020-07-26-at-20.56.56.png)
+![Click on the first menu item to adapt your name.](<../.gitbook/assets/Screenshot 2020-07-26 at 20.56.56.png>)
 
-![](../.gitbook/assets/screenshot-2020-07-26-at-20.57.14.png)
+![](<../.gitbook/assets/Screenshot 2020-07-26 at 20.57.14.png>)
 
 ## Pick Who Will Show the Demo, a Website, ...?
 
@@ -131,11 +131,11 @@ A lot of questions coming in? Help out the host.
 1. Use discord
 2. Use the DM function in Jitsi
 
-![How to DM in Jitsi: click on the three dots besides the person you want to DM](../.gitbook/assets/screenshot-2020-07-26-at-22.14.44.png)
+![How to DM in Jitsi: click on the three dots besides the person you want to DM](<../.gitbook/assets/Screenshot 2020-07-26 at 22.14.44.png>)
 
-![Example message to host](../.gitbook/assets/screenshot-2020-07-26-at-22.15.53.png)
+![Example message to host](<../.gitbook/assets/Screenshot 2020-07-26 at 22.15.53.png>)
 
-![Example of delegating answering questions](../.gitbook/assets/screenshot-2020-07-26-at-22.18.03.png)
+![Example of delegating answering questions](<../.gitbook/assets/Screenshot 2020-07-26 at 22.18.03.png>)
 
 {% hint style="info" %}
 Good luck and remember to have fun 🤩

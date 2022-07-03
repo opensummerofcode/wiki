@@ -8,7 +8,7 @@ Create a GitHub pages website to present the project you’ve made during open s
 
 ## Step 1: go to the GitHub Repo of your project
 
-![](../../.gitbook/assets/screenshot-2020-06-30-at-22.14.18.png)
+![](<../../.gitbook/assets/Screenshot 2020-06-30 at 22.14.18 (1).png>)
 
 ## Step 2: create a new branch for your GitHub pages
 
@@ -18,15 +18,15 @@ Create a GitHub pages website to present the project you’ve made during open s
 
 If you don’t have settings! Find your coach or the person that has admin rights to do it for you!
 
-![](../../.gitbook/assets/screenshot-2020-06-30-at-22.21.41.png)
+![](<../../.gitbook/assets/Screenshot 2020-06-30 at 22.21.41.png>)
 
 ## Step 4 : scroll to “GitHub pages”
 
-![](../../.gitbook/assets/screenshot-2020-06-30-at-22.16.48.png)
+![](<../../.gitbook/assets/Screenshot 2020-06-30 at 22.16.48.png>)
 
 ## Step 5: You have a URL! Surf to it! Throw away code you don’t need and create your website!
 
-![](../../.gitbook/assets/screenshot-2020-06-30-at-22.17.15.png)
+![](<../../.gitbook/assets/Screenshot 2020-06-30 at 22.17.15.png>)
 
 ## Picking a template
 

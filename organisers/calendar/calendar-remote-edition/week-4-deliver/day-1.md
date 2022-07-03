@@ -8,7 +8,7 @@ description: Make sure your project is live and stable!
 This is an example of the remote edition fo 2020. Go to the website of your specific edition if you want to figure out what's happening now!
 {% endhint %}
 
-![](../../../../.gitbook/assets/screenshot-2020-07-26-at-15.09.12.png)
+![](<../../../../.gitbook/assets/Screenshot 2020-07-26 at 15.09.12.png>)
 
 ## 09:00 \[all teams] Week overview
 
@@ -26,7 +26,7 @@ But before you set stuff on fire, think about what happens after this last week,
 
 This workshop will give you input for your [Handover Dossier](../../../../tutorials/how-to-deliver-like-a-pro/).
 
-![](../../../../.gitbook/assets/screenshot-2020-07-26-at-14.58.17.png)
+![](<../../../../.gitbook/assets/Screenshot 2020-07-26 at 14.58.17.png>)
 
 ## 13:00 \[team only] Deployment day
 
@@ -44,7 +44,7 @@ We all meet in 1 [jitsi room](https://meet.openknowledge.be/vent), with our **ca
 Don't have a mic or a cam? Come over anyways! Every extra test is a good one 👌
 {% endhint %}
 
-![](../../../../.gitbook/assets/screenshot-2020-07-26-at-15.34.20.png)
+![](<../../../../.gitbook/assets/Screenshot 2020-07-26 at 15.34.20.png>)
 
 {% embed url="http://meet.openknowledge.be/vent" %}
 This is the meeting room where we'll vent
@@ -52,7 +52,7 @@ This is the meeting room where we'll vent
 
 ### 2. Mic test
 
-![](../../../../.gitbook/assets/screenshot-2020-07-26-at-15.37.19.png)
+![](<../../../../.gitbook/assets/Screenshot 2020-07-26 at 15.37.19.png>)
 
 Check if your interviewees and hosts will make a good appearance on the demo day stream;
 

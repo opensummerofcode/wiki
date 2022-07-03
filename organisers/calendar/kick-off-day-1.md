@@ -2,28 +2,27 @@
 description: Week 1 — Day 1
 ---
 
-# Kick-off day 1 \(or chaos day\)
+# Kick-off day 1 (or chaos day)
 
 A more detailed agenda can be found on the website.
 
-Belgium: [https://summerofcode.be/practical.html](https://summerofcode.be/practical.html)  
+Belgium: [https://summerofcode.be/practical.html](https://summerofcode.be/practical.html)\
 Spain: [https://online2020.summerofcode.es/agenda.html](https://online2020.summerofcode.es/agenda.html)
 
-![An example of day of a lot of information](../../.gitbook/assets/screenshot-2019-06-17-at-21.48.08.png)
+![An example of day of a lot of information](<../../.gitbook/assets/Screenshot 2019-06-17 at 21.48.08.png>)
 
 ## Who does what
 
 ### Organisational
 
 * Introduction
-* Paperwork \(sign contracts, VDSC, hand out passes, etc.\)
+* Paperwork (sign contracts, VDSC, hand out passes, etc.)
 * Rules/code of conduct
-* Explain practical and technological related aspects
+*   Explain practical and technological related aspects
 
-  \(communication, wi-fi, location, etc.\)
-
+    (communication, wi-fi, location, etc.)
 * Assemble teams
-* Hold workshop\(s\)
+* Hold workshop(s)
 * Have picture taken
 
 ### Coaches
@@ -47,6 +46,4 @@ Spain: [https://online2020.summerofcode.es/agenda.html](https://online2020.summe
 ### Partners
 
 Have delivered the briefing before hand, so the coaches and students can study it!
-
-
 

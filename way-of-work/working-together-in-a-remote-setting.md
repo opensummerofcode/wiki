@@ -8,7 +8,7 @@ description: A guide on how to work together in a remote setting.
 
 This is the second time we are doing the remote setting; with each edition we will improve it! If you have any feedback; do get in touch.&#x20;
 
-![We're all doing this for the first time at osoc. Let us know what's good, what's bad.](../.gitbook/assets/screenshot-2020-07-11-at-15.16.34.png)
+![We're all doing this for the first time at osoc. Let us know what's good, what's bad.](<../.gitbook/assets/Screenshot 2020-07-11 at 15.16.34.png>)
 
 ## 📣 Be Vocal
 
@@ -20,7 +20,7 @@ We can't see or hear each other all the time (which is the case in a live settin
 
 Keep your teammates up-to-date on what you're doing. Update your tasks in your project management tool (trello, kanban, github, ...), hang out in the voice chats, perform daily standups, ... Whatever works for the team, just make sure you know what your teammates are doing and how they are doing!
 
-![A nice habit that started organically in the #urban-brussels team.](<../.gitbook/assets/Screenshot 2020-07-10 at 12.07.35.png>)
+![A nice habit that started organically in the #urban-brussels team.](<../.gitbook/assets/Screenshot 2020-07-10 at 12.07.35 (1).png>)
 
 {% hint style="info" %}
 Find a way to stay in touch and on top of work with your team. Some teams like to hang out in voice channels and play a tune, some teams like to greet each other every day and check in now and then. Find what feels good!
@@ -38,7 +38,7 @@ In real life we nod or make listening sounds in conversations. Remote needs diff
 
 Don't stay stuck in a loop for longer than 20 minutes. [There's plenty of ways to ask for help](../tools/discord/remote-helping.md), don't be afraid to ask for it! #osoc was built on helping each other out, so we encourage you to ask and give help.
 
-![](../.gitbook/assets/screenshot-2020-07-11-at-15.26.44.png)
+![](<../.gitbook/assets/Screenshot 2020-07-11 at 15.26.44.png>)
 
 ## 👔⚖️⛹🏽‍♀️ Work-Life-Balance
 
@@ -60,7 +60,7 @@ Regular breaks are a _must_. Make an agreement with your team on how you are goi
 
 You don't have to be online, constantly chatting with your team, 24/7. _**It's fine to disconnect**_, it's encouraged and healthy.
 
-![Look out for each other ♥️it's okay to stop, especially on weekends and evenings!](../.gitbook/assets/screenshot-2020-07-13-at-15.10.04.png)
+![Look out for each other ♥️it's okay to stop, especially on weekends and evenings!](<../.gitbook/assets/Screenshot 2020-07-13 at 15.10.04.png>)
 
 ### Work Smoothly
 

@@ -1,17 +1,17 @@
 ---
-description: 'Crests will appear on our website, to show off your team!'
+description: Crests will appear on our website, to show off your team!
 ---
 
 # Create Crests
 
 A glimpse of the 2019 crests [https://osoc.be/editions/2019](https://osoc.be/editions/2019)
 
-![](../.gitbook/assets/figma-website%20%281%29.png)
+![](<../.gitbook/assets/figma-website (1).png>)
 
 ## What a crest looks like
 
 * Your crests need to be 400px by 400px
-* A [vector](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics), exported as SVG \(so no PNG or JPG\) – which can be created with tools like Figma, Sketch, Illustrator or Adobe Fireworks.
+* A [vector](https://en.wikipedia.org/wiki/Scalable\_Vector\_Graphics), exported as SVG (so no PNG or JPG) – which can be created with tools like Figma, Sketch, Illustrator or Adobe Fireworks.
 
 {% hint style="info" %}
 To check if your SVG exported correctly, open it in your browser! Sometimes gradients and opacity can cause some issues.
@@ -41,7 +41,7 @@ This is what the board looks like:
 
 We have prepared a template at [https://www.figma.com/file/Vxqp9O3hg9sA9ItzMpwmPF/osoc-crest-template?node-id=0%3A1](https://www.figma.com/file/Vxqp9O3hg9sA9ItzMpwmPF/osoc-crest-template?node-id=0%3A1) open it and duplicate it to your folder like shown in the image below, or copy it to one of your own boards.
 
-![](../.gitbook/assets/figma-2-duplicate-b%20%281%29.png)
+![](<../.gitbook/assets/figma-2-duplicate-b (1).png>)
 
 ### Share the board with your colleagues
 
@@ -51,17 +51,17 @@ With free subscriptions, you can only add 2 editors and unlimited viewers. So ch
 
 Add the colleagues who are allowed to view
 
-![](../.gitbook/assets/figma-3-share-a-view.png)
+![](<../.gitbook/assets/figma-3-share-a-view (1).png>)
 
 Add the colleague who will edit with you
 
-![](../.gitbook/assets/figma-3-share-b-edit%20%281%29.png)
+![](<../.gitbook/assets/figma-3-share-b-edit (1).png>)
 
 ### Collaborate
 
-Go to your breakout room \(shared in advance\), ask someone to share the figma screen and start brainstorming!
+Go to your breakout room (shared in advance), ask someone to share the figma screen and start brainstorming!
 
-![](../.gitbook/assets/figma-jitsi-share-screen-a%20%282%29.png)
+![](<../.gitbook/assets/figma-jitsi-share-screen-a (2).png>)
 
 ![](../.gitbook/assets/figma-jitsi-share-screen-b.png)
 
@@ -69,19 +69,19 @@ Go to your breakout room \(shared in advance\), ask someone to share the figma s
 
 ### Tips
 
-![A pro tip from our swag designer coach Niels](../.gitbook/assets/screenshot-2020-07-06-at-12.01.24.png)
+![A pro tip from our swag designer coach Niels](<../.gitbook/assets/Screenshot 2020-07-06 at 12.01.24.png>)
 
 * Pick colors
   * [https://mycolor.space/](https://mycolor.space/)
-  * [https://coolors.co/](https://coolors.co/) \(by Inti\)
+  * [https://coolors.co/](https://coolors.co/) (by Inti)
 * Free vector graphics [https://thenounproject.com/](https://thenounproject.com/)
 * Use collaborative tools to work together [https://figma.com/](https://figma.com/)
 
 ### Export
 
-Select the artboard and export as SVG \(bottom right\)
+Select the artboard and export as SVG (bottom right)
 
-![](../.gitbook/assets/figma-4-export.png)
+![](<../.gitbook/assets/figma-4-export (2).png>)
 
 ### Share
 
@@ -96,4 +96,3 @@ Afterwards, we'll share you crest, with project description, on our website!
 * You can also choose to use a team member's preferred software and share screens with the team.
 * Versioning is possible with tools like [Zeplin](https://zeplin.io), and you can export designs into code immediately!
 * Feel free to use and suggest any other workflows 👌
-

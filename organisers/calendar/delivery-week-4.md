@@ -4,20 +4,20 @@ description: Week 4
 
 # Delivery week — week 4
 
-![Example of the last week](../../.gitbook/assets/screenshot-2019-06-17-at-22.12.25.png)
+![Example of the last week](<../../.gitbook/assets/Screenshot 2019-06-17 at 22.12.25.png>)
 
 ## Who does what
 
 ### Organisational
 
 * Gather documentation
-* Closing \(reception\)
+* Closing (reception)
 
 ### Partners
 
 * Visit teams & demo day
 
-### Coaches 
+### Coaches&#x20;
 
 * Guide teams
 * Demo day
@@ -32,6 +32,4 @@ description: Week 4
 * Prepare demo day
 * Prepare pitch
 * Present projects to partners
-
-
 

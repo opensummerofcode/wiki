@@ -8,21 +8,21 @@ description: Pitch and document!
 This is an example of the remote edition fo 2020. Go to the website of your specific edition if you want to figure out what's happening now!
 {% endhint %}
 
-![](../../../../.gitbook/assets/screenshot-2020-07-26-at-15.09.23.png)
+![](<../../../../.gitbook/assets/Screenshot 2020-07-26 at 15.09.23.png>)
 
-## 09:00 \[team only\] Create your Demo Day pitch 🥳
+## 09:00 \[team only] Create your Demo Day pitch 🥳
 
 Last pitch to create; make it count!
 
-## ~~11:00 \[coaches & student coaches only\] Optional Fika~~
+## ~~11:00 \[coaches & student coaches only] Optional Fika~~
 
 Cancelled due to other priorities –we have retro's planned this week to replace.
 
-## 13:00 \[HARD DEADLINE\] Deliver your _final_ pitch!
+## 13:00 \[HARD DEADLINE] Deliver your _final_ pitch!
 
 Demo Day Pitch! Whoop!
 
-Put your one-minute pitch video \(slides optional\) in our **DRIVE \(we have migrated\)** by 13:00: [https://drive.google.com/drive/folders/1I2GqIO9YJAbySfwkuNNpEZaKgC0nyD\_e?usp=sharing](https://drive.google.com/drive/folders/1I2GqIO9YJAbySfwkuNNpEZaKgC0nyD_e?usp=sharing)
+Put your one-minute pitch video (slides optional) in our **DRIVE (we have migrated)** by 13:00: [https://drive.google.com/drive/folders/1I2GqIO9YJAbySfwkuNNpEZaKgC0nyD\_e?usp=sharing](https://drive.google.com/drive/folders/1I2GqIO9YJAbySfwkuNNpEZaKgC0nyD\_e?usp=sharing)
 
 {% hint style="info" %}
 Please warn Miet if you'll be later than 13:00.
@@ -30,7 +30,7 @@ Please warn Miet if you'll be later than 13:00.
 
 ### Update the project description document
 
-Update the host and interviewee in the spreadsheets: [https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O\_vAOphsx2vnGE/edit\#gid=0](https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O_vAOphsx2vnGE/edit#gid=0)
+Update the host and interviewee in the spreadsheets: [https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O\_vAOphsx2vnGE/edit#gid=0](https://docs.google.com/spreadsheets/d/1LEOFnsOYX1sOJuNBzhD277bCgdci9O\_vAOphsx2vnGE/edit#gid=0)
 
 {% hint style="info" %}
 Host instructions coming
@@ -43,25 +43,24 @@ Your pitch should include:
 * Who is your client
 * Give us a Call-To-Action, tell us why to come to your project breakout room!
 
-![](../../../../.gitbook/assets/screenshot-2020-07-22-at-11.20.55.png)
+![](<../../../../.gitbook/assets/Screenshot 2020-07-22 at 11.20.55.png>)
 
-## 13:00 \[team only\] Documentation, site, handover document, ... 
+## 13:00 \[team only] Documentation, site, handover document, ...&#x20;
 
-Don't worry, we'll teach you how to deliver like a pro \[[tutorial](../../../../tutorials/how-to-deliver-like-a-pro/)\]!
+Don't worry, we'll teach you how to deliver like a pro \[[tutorial](../../../../tutorials/how-to-deliver-like-a-pro/)]!
 
-## 13:30 \[hosts and interviewees\] Run through + mic check with Miet + Stress test 2
+## 13:30 \[hosts and interviewees] Run through + mic check with Miet + Stress test 2
 
-To make sure the demo day will go _smoooooth_ 
+To make sure the demo day will go _smoooooth_&#x20;
 
-![](../../../../.gitbook/assets/screenshot-2020-07-28-at-09.50.45.png)
+![](<../../../../.gitbook/assets/Screenshot 2020-07-28 at 09.50.45.png>)
 
-![](../../../../.gitbook/assets/screenshot-2020-07-28-at-09.50.49.png)
+![](<../../../../.gitbook/assets/Screenshot 2020-07-28 at 09.50.49.png>)
 
-## \[student coaches only\] Student Coach Retro
+## \[student coaches only] Student Coach Retro
 
 We would love to hear your feedback. If you really can't make it, we'll send the questions afterwards.
 
-We meet via Discord \(or via Zoom, depending on the load!\)
+We meet via Discord (or via Zoom, depending on the load!)
 
 ## 17:00 have a nice day 🥳
-

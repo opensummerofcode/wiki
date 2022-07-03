@@ -7,7 +7,7 @@ description: >-
 
 # Welcome to osoc!
 
-![You made it, we're so happy you are here!](<.gitbook/assets/screenshot-2020-06-18-at-14.41.43 (1).png>)
+![You made it, we're so happy you are here!](<.gitbook/assets/Screenshot 2020-06-18 at 14.41.43.png>)
 
 This wiki has been created as a _guideline_ for participants of osoc: students, coaches, organisations and volunteers.
 
@@ -22,7 +22,7 @@ You're always free to break the rules; as long as you're trying to make it a bet
 * [Coaches specific information](./#coaches)
 * [Organisations specific information](./#organisations-partners-clients)
 
-![](.gitbook/assets/screenshot-2020-07-01-at-00.07.53.png)
+![](<.gitbook/assets/Screenshot 2020-07-01 at 00.07.53.png>)
 
 ### Students
 
@@ -35,7 +35,7 @@ Oof, you're in for a treat! We are super excited to meet you on 6 July...
 
 See you soon!
 
-![](.gitbook/assets/screenshot-2020-07-01-at-00.07.27.png)
+![](<.gitbook/assets/Screenshot 2020-07-01 at 00.07.27.png>)
 
 ### Coaches
 
@@ -52,7 +52,7 @@ Get your practical information at [Practical: When, where, sick days, ...](coach
 
 Any tips or recommendations; we love to hear from you [info@osoc.be](mailto:info@osoc.be)!
 
-![](.gitbook/assets/screenshot-2020-07-01-at-00.07.34.png)
+![](<.gitbook/assets/Screenshot 2020-07-01 at 00.07.34.png>)
 
 ### Organisations, partners, clients
 
@@ -60,7 +60,7 @@ Without you, we wouldn't be able to do this! Find more info about what you can e
 
 If you have any tips, recommendations or questions; we love to hear from you [info@osoc.be](mailto:info@osoc.be)!
 
-![](.gitbook/assets/screenshot-2020-07-01-at-00.07.44.png)
+![](<.gitbook/assets/Screenshot 2020-07-01 at 00.07.44.png>)
 
 
 

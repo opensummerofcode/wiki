@@ -4,7 +4,7 @@
 This is an example of the remote edition fo 2020. Go to the website of your specific edition if you want to figure out what's happening now!
 {% endhint %}
 
-![Use what you&apos;ve learnt during the hackathon](../../../../.gitbook/assets/screenshot-2020-06-29-at-22.41.54.png)
+![Use what you've learnt during the hackathon](<../../../../.gitbook/assets/Screenshot 2020-06-29 at 22.41.54.png>)
 
 ## Goal of the Week
 
@@ -16,6 +16,4 @@ Good luck, ask for help when you need it and offer when you can!
 * [Day 2](day-2.md)
 * [Day 3](day-3.md)
 * [Day 4](day-4.md)
-
-
 

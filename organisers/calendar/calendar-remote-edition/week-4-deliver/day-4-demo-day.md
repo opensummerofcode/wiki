@@ -8,7 +8,7 @@ description: Ooooooooooooooooooooooaaaaaaaaeeeeeeeeeeeuuuuuuuiiiiiiiii
 This is an example of the remote edition fo 2020. Go to the website of your specific edition if you want to figure out what's happening now!
 {% endhint %}
 
-![](../../../../.gitbook/assets/screenshot-2020-07-26-at-19.04.03.png)
+![](<../../../../.gitbook/assets/Screenshot 2020-07-26 at 19.04.03.png>)
 
 ## 09:00 \[team only] Everything is on fire
 
@@ -53,7 +53,7 @@ During the first breakout room test it was clear this job can get quite heavy; s
 
 Make sure one person in your team is in the breakout room _first –_ you'll see you get moderator rights.
 
-![](../../../../.gitbook/assets/screenshot-2020-07-26-at-20.55.15.png)
+![](<../../../../.gitbook/assets/Screenshot 2020-07-26 at 20.55.15.png>)
 
 **Make sure people make themselves recognisable**
 
@@ -61,12 +61,12 @@ Make sure one person in your team is in the breakout room _first –_ you'll see
 
 Very convenient: you can make sure everyone starts out muted.
 
-![](../../../../.gitbook/assets/screenshot-2020-07-26-at-20.57.35.png)
+![](<../../../../.gitbook/assets/Screenshot 2020-07-26 at 20.57.35.png>)
 
 If someone forgets to mute themselves, you can mute them:\
 
 
-![If you're speaking, you can mute everyone 😏](../../../../.gitbook/assets/screenshot-2020-07-26-at-20.58.13.png)
+![If you're speaking, you can mute everyone 😏](<../../../../.gitbook/assets/Screenshot 2020-07-26 at 20.58.13.png>)
 
 _Tip: You can already go there when the streaming event starts, so you have the chance to chase out the trolls._
 

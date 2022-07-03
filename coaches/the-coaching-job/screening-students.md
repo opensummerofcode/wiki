@@ -99,7 +99,7 @@ We do not negotiate their pay. It's not about money.
 
 We have created a selection tool to make the process a bit easier: [selections.osoc.be](http://selections.osoc.be)&#x20;
 
-![The login screen](../../.gitbook/assets/screenshot-2021-05-25-at-15.56.45.png)
+![The login screen](<../../.gitbook/assets/Screenshot 2021-05-25 at 15.56.45.png>)
 
 To get access, connect with your Google account. _Yes, we want to get rid of this dependency too._
 
@@ -109,22 +109,22 @@ When you sign up, you'll get approved. You will not get an email (we are working
 
 When you get in you will get an overview of all the students that applied. Click on a student to see what their application looked like.
 
-![Example of student](../../.gitbook/assets/screenshot-2021-05-25-at-15.51.47.png)
+![Example of student](<../../.gitbook/assets/Screenshot 2021-05-25 at 15.51.47 (1).png>)
 
 [Based on the criteria](screening-students.md#what-do-we-screen-our-students-for), you can suggest **yes**, **maybe** or **no** for a student. To help other coaches in making their decision – and for us to be able to give a reason to the student, provide a reason!
 
-![Write a decision](<../../.gitbook/assets/screenshot-2021-05-25-at-15.51.28 (1).png>)
+![Write a decision](<../../.gitbook/assets/Screenshot 2021-05-25 at 15.51.28 (1).png>)
 
 ### Searching & Filtering
 
 To find students that are part of a certain field, you can use the role filters.
 
-![](../../.gitbook/assets/screenshot-2021-05-25-at-16.42.17.png)
+![](<../../.gitbook/assets/Screenshot 2021-05-25 at 16.42.17.png>)
 
 * You can quickly find alumni, students that applied as student coach or students you've suggested for.
 * The students that had a definite yes, you can filter on as well.
 
-![The search box & filters](../../.gitbook/assets/screenshot-2021-05-25-at-16.41.23.png)
+![The search box & filters](<../../.gitbook/assets/Screenshot 2021-05-25 at 16.41.23.png>)
 
 ## Assembling your team
 
@@ -146,7 +146,7 @@ This balance is hard to figure out beforehand — even if you gave those student
 
 Drag the student on the project that needs it, assign them a role and give a reason why. Only assign as many students as you need!
 
-![Drag the student on top of the team.](../../.gitbook/assets/screenshot-2021-05-25-at-16.51.53.png)
+![Drag the student on top of the team.](<../../.gitbook/assets/Screenshot 2021-05-25 at 16.51.53.png>)
 
 {% file src="../../.gitbook/assets/how-to-select.mov" %}
 How to select a student for your project
@@ -163,4 +163,4 @@ You cannot add a student to two teams. Resolve the issue with your fellow coach,
   * (3) teams that need an expert on a topic they can provide (if the coach cannot help here);
   * (4) if the student has a history with the project, and can help out.
 
-![Example of a conflict.](../../.gitbook/assets/screenshot-2021-05-25-at-16.55.14.png)
+![Example of a conflict.](<../../.gitbook/assets/Screenshot 2021-05-25 at 16.55.14.png>)

@@ -10,7 +10,7 @@ description: >-
 This is an example of the remote edition fo 2020. Go to the website of your specific edition if you want to figure out what's happening now!
 {% endhint %}
 
-![](../../../../.gitbook/assets/screenshot-2020-07-14-at-09.45.44.png)
+![](<../../../../.gitbook/assets/Screenshot 2020-07-14 at 09.45.44.png>)
 
 ## 09:00 \[all teams] Week Overview
 

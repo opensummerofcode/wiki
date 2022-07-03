@@ -1,16 +1,16 @@
 ---
-description: 'Get to know your team, project and the other teams!'
+description: Get to know your team, project and the other teams!
 ---
 
-# Day 1: Welcome \(to the Madness 😏\)
+# Day 1: Welcome (to the Madness 😏)
 
 {% hint style="danger" %}
 This is an example of the remote edition fo 2020. Go to the website of your specific edition if you want to figure out what's happening now!
 {% endhint %}
 
-![Get to know your team, project and other teams](../../../../.gitbook/assets/osoc-2020-cal-week-1-day-1%20%281%29.jpeg)
+![Get to know your team, project and other teams](../../../../.gitbook/assets/osoc-2020-cal-week-1-day-1.jpeg)
 
-## **09:00 \[all teams\] Introduction**
+## **09:00 \[all teams] Introduction**
 
 Welcome to open summer of code! The topics we'll cover:
 
@@ -19,7 +19,7 @@ Welcome to open summer of code! The topics we'll cover:
 * What’s [the code of conduct](../../../../code-of-conduct.md)?
 * How does [osoc work](../../../../way-of-work/)?
 * Calendar overview
-* Deliverables \[[tutorial](../../../../tutorials/how-to-deliver-like-a-pro/)\]
+* Deliverables \[[tutorial](../../../../tutorials/how-to-deliver-like-a-pro/)]
 
 ## **Get to know your team & your project**
 
@@ -41,16 +41,14 @@ Welcome to open summer of code! The topics we'll cover:
 Prepare to introduce yourselves to the other teams!
 
 * Think of a **team name** that reflects your members and project
-* Create a **crest** together \[[Find out how](../../../../tutorials/how-to-create-crests.md)\]
-* Send over **a picture** of each team member \(take a selfie with students and coaches
-* **Create short pitch \(to introduce the team and project, no slides needed\).** You can base yourself on the project description you made. Decide who pitches.
-  * Team introduction \(coaches and students\)
+* Create a **crest** together \[[Find out how](../../../../tutorials/how-to-create-crests.md)]
+* Send over **a picture** of each team member (take a selfie with students and coaches
+* **Create short pitch (to introduce the team and project, no slides needed).** You can base yourself on the project description you made. Decide who pitches.
+  * Team introduction (coaches and students)
   * Client introduction
   * Pitch the project goal
 
 ## **15:30 Live stream team presentations**
 
 Enjoy watching the other teams!
-
-
 
