@@ -6,7 +6,7 @@ description: A guide on how to work together in a remote setting.
 
 ## 🎬 Where Do We Start?
 
-This is the second time we are doing the remote setting; with each edition we will improve it! If you have any feedback; do get in touch.&#x20;
+We've done some live editions, some remote editions and a hybrid edition. With each edition we will improve it! If you have any feedback; do get in touch.&#x20;
 
 ![We're all doing this for the first time at osoc. Let us know what's good, what's bad.](<../.gitbook/assets/Screenshot 2020-07-11 at 15.16.34.png>)
 
