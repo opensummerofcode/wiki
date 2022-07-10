@@ -40,10 +40,10 @@ The following services are based on OpenStreetMap data.
 
 * Geoportal of the Belgian federal institutions: \
   [https://www.geo.be/](https://www.geo.be/)
-* Geopunt (Flanders): \
+* Geopunt (Flanders - Vlaanderen): \
   [https://www.geopunt.be/catalogus](https://www.geopunt.be/catalogus)
-* Géoportail de la Wallonie (Wallonie): \
+* Géoportail de la Wallonie (Wallonia - Wallonie): \
   [https://geoportail.wallonie.be/catalogue-donnees-et-services](https://geoportail.wallonie.be/catalogue-donnees-et-services)
-* bric.brussels (Brussels): \
+* bric.brussels (Brussels - Bruxelles - Brussel): \
   [https://bric.brussels/en/our-solutions/urbis-solutions](https://bric.brussels/en/our-solutions/urbis-solutions?set\_language=en)
 * ...
