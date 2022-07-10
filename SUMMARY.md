@@ -51,6 +51,7 @@
 * [NextCloud](tools/nextcloud.md)
 * [The #osoc Emoji](tools/the-osoc-emoji.md)
 * [Big Blue Button: Video Calls](tools/big-blue-button-video-calls.md)
+* [Deployment](tools/deployment.md)
 
 ## Tutorials
 
