@@ -50,7 +50,7 @@ Documentation:
 
 ⚠️ Digital Ocean App Platform does **not** support Docker Composer.
 
-Contact you coach or osoc technical support if you need help to create the Docker container or deploy your Docker container.
+Contact your coach or [osoc technical support](https://github.com/osoc22/technical-support) if you need help to create the Docker container or deploy your Docker container.
 
 ### Server / Droplet
 
